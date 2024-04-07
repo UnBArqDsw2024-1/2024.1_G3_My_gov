@@ -96,8 +96,8 @@ Principal(is) Estilo(s) Arquitetural(is) Adotado(s): <a>**xxxxxx**</a> <br>
 
 ## <a>Histórico de Versão</a>
 
-| Versão |    Data    |      Descrição      |                      Autor                       | Revisor |
-| :----: | :--------: | :-----------------: | :----------------------------------------------: | :-----: |
-| `1.0`  | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) |  []()   |
+| Versão |    Data    |      Descrição      |                      Autor                       |            Revisor            |
+| :----: | :--------: | :-----------------: | :----------------------------------------------: | :---------------------------: |
+| `1.0`  | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Whiskey](/Subgrupos/Whiskey) |
 
 </center>

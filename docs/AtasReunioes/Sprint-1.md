@@ -12,8 +12,8 @@ A seguir esta a gravação da primeira reunião:
 
 ## <a>Histórico de Versão</a>
 
-| Versão |    Data    |       Descrição        |                      Autor                       | Revisor |
-| :----: | :--------: | :--------------------: | :----------------------------------------------: | :-----: |
-| `1.0`  | 07/04/2024 | Artefato da 1ª Reunião | [João Lucas](https://github.com/VasconcelosJoao) |  []()   |
+| Versão |    Data    |       Descrição        |                      Autor                       |           Revisor           |
+| :----: | :--------: | :--------------------: | :----------------------------------------------: | :-------------------------: |
+| `1.0`  | 07/04/2024 | Artefato da 1ª Reunião | [João Lucas](https://github.com/VasconcelosJoao) | [Yankee](/Subgrupos/Yankee) |
 
 </center>

@@ -31,8 +31,13 @@ O Desenho de Software (Base) é importante por diversos motivos:
 
     Fowler, Martin (2013). UML Distilled: A Brief Guide to the Standard Object Modeling Language. 3rd ed. Addison-Wesley Professional.: URL Fowler UML Distilled
 
+
+<center>
+
 ## <a>*Histórico de Versão*</a>
 
-| Versão |    Data    |      Descrição      |                      Autor                       | Revisor |
-| :----: | :--------: | :-----------------: | :----------------------------------------------: | :-----: |
-| `1.0`  | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) |  []()   |
+| Versão |    Data    |      Descrição      |                      Autor                       |            Revisor            |
+| :----: | :--------: | :-----------------: | :----------------------------------------------: | :---------------------------: |
+| `1.0`  | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Foxtrot](/Subgrupos/Foxtrot) |
+
+</center>
