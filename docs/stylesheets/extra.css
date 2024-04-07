@@ -1,19 +1,12 @@
 [data-md-color-scheme="default"] {
   --md-primary-fg-color: #ffffff;
   --md-primary-bg-color: #000000;
-  --md-accent-fg-color: #ddc152;
-  --md-typeset-a-color: #007639;
-}
-
-.md-content img {
-  border-width: 1px;
-  border-style: solid;
-  border-color: black;
+  --md-accent-fg-color: #46ad44;
+  --md-typeset-a-color: #2864ae;
 }
 
 .md-tabs__item--active {
-  color: #007639;
-  font-weight: bold;
+  color: #2864ae;
 }
 
 [dir=ltr] .md-header__title {
@@ -62,7 +55,7 @@
 
 .md-header__topic {
   font-weight: bold;
-  color: #071d41d2;
+  color: #2864ae;
 }
 
 .md-social__link svg {
@@ -71,7 +64,7 @@
 
 .md-tabs {
   display: flex;
-  color: #ddc152;
+  color: #46ad44;
   justify-content: center;
   box-shadow: 0 0 0.2rem #0000001a, 0 0.2rem 0.4rem #0003;
 }
