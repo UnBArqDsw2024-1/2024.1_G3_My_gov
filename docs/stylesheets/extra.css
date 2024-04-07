@@ -5,6 +5,12 @@
   --md-typeset-a-color: #007639;
 }
 
+.md-content img {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+}
+
 .md-tabs__item--active {
   color: #007639;
   font-weight: bold;
