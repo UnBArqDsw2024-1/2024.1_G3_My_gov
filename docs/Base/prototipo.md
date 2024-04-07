@@ -6,9 +6,9 @@ A protipação envolve a criação de representações funcionais ou simulaçõe
 
 ## Objetivo
 
-O grupo desenvolveu um protótipo de alta fidelidade com base na etapa de [Prototype](Base/1.1.AbordagemNaoEspecifica.md) o Design sprint e no [StoryBoard]()utilizando a ferramenta Figma para simular a tela do site [Terracap](https://www.terracap.df.gov.br). Com objetivo de implementar os [requisitos elicitados]():
+O grupo desenvolveu um protótipo de alta fidelidade com base na etapa de [Prototype]() o Design sprint e no [StoryBoard]() utilizando a ferramenta Figma para simular a tela do site [Terracap](https://www.terracap.df.gov.br). Com objetivo de implementar os [requisitos elicitados]():
 
-* RF01 - O aplicativo filtra os eventos por Estado e por Município. --------------
+* RF01 - O aplicativo filtra os eventos por Estado e por Município.
 
 Após a criação do protótipo, foi realizado uma entrevista com usuário real com base em um perfil de usuário apresentado pelo  [questionário]() Essa entrevista permitiu coletar feedback valioso sobre a usabilidade das novas funcionalidades implementadas, a compreensão das funcionalidades e a eficácia do design proposto, para assim poder validar esses requisitos.
 
@@ -17,13 +17,12 @@ Após a criação do protótipo, foi realizado uma entrevista com usuário real 
 No início da entrevista foi apresentado o termo de consentimento para que o entrevistado dê sua resposta, sempre reforçando o fato de que está sendo gravado e de que a gravação será publicada. A entrevista foi feita remotamente no [Microsoft Teams](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.microsoft.com/pt-br/microsoft-teams/free&ved=2ahUKEwj_moXll7CFAxXgr5UCHQJKAmQQFnoECBUQAQ&usg=AOvVaw1T4J2z55tIx6ywhNp8Rn3e), com o entrevistador mostrando e explicando as funcionalidades para o entrevistado, que expunha sua opinião a cerca da implementação e no final da entrevista [respondendo algumas perguntas](#met1) afim de como foi a atividade. Enquanto isso, outro membro do grupo respondia [perguntas](#met2) sobre o desempenho do entrevistado.
  
 
-Caso queira conferir o protótipo<a id="anchor_1" href="#FRM1">^2^</a>, <a href="https://www.figma.com/proto/9MHpLCsADuC4ZvVwzR6Dbj/Untitled?type=design&node-id=659-157&t=kalb0izYnxwcivSc-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=659%3A157&mode=design" target="blanket">clique aqui
+Caso queira conferir o protótipo<a id="anchor_1" href="#FRM1">^2^</a>, <a href="https://www.figma.com/proto/9MHpLCsADuC4ZvVwzR6Dbj/Untitled?node-id=659-157&starting-point-node-id=659%3A157&scaling=scale-down-width&mode=design&t=lFwA8h6MjWKPP2wo-1" target="blanket">clique aqui
 
 
 ## Prótipo Navegável
 
-<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F9MHpLCsADuC4ZvVwzR6Dbj%2FUntitled%3Ftype%3Ddesign%26node-id%3D33-96%26t%3DLbxjJgM39mu7rswv-1%26scaling%3Dscale-down-width%26page-id%3D0%253A1%26starting-point-node-id%3D659%253A157%26mode%3Ddesign" allowfullscreen></iframe>
-
+<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F9MHpLCsADuC4ZvVwzR6Dbj%2FUntitled%3Fnode-id%3D659-157%26starting-point-node-id%3D659%253A157%26scaling%3Dscale-down-width%26mode%3Ddesign%26t%3DlFwA8h6MjWKPP2wo-1" allowfullscreen></iframe>
 </a>
 
 ## Funcionalidades
