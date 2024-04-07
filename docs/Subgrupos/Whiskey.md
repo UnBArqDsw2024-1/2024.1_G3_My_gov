@@ -20,6 +20,7 @@ Subgrupo liderado pelo aluno [João Pedro Nóbrega Fernandes](https://github.com
 
 ![Heatmap Whiskey](../Assets/Heatmaps/HeatmapWhiskey.png)
 
+Figura 1: Mapa de calor
 
 ## <a>*Histórico de Versão*</a>
 

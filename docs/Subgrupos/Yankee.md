@@ -21,6 +21,7 @@ Subgrupo liderado pelo aluno [Gabriel Campello Marque](https://github.com/G16C)
 
 ![Heatmap Yankee](../Assets/Heatmaps/HeatmapYankee.png)
 
+Figura 1: Mapa de calor
 
 ## <a>*Histórico de Versão*</a>
 

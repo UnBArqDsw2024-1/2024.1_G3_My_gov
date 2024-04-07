@@ -6,11 +6,11 @@ Subgrupo liderado pelo aluno [Renann de Oliveira Gomes](https://github.com/Nyndo
 
 <center>
 
-| **Matrícula** |                             **Aluno**                              |
-| :-----------: | :----------------------------------------------------------------: |
-|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |
-|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |
-|   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |
+| **Matrícula** |                           **Aluno**                            |
+| :-----------: | :------------------------------------------------------------: |
+|   211043610   |   [Arthur Marmo Cathalá](https://github.com/artmarmocathala)   |
+|   211043718   | [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS) |
+|   200043030   |     [Renann de Oliveira Gomes](https://github.com/NyndoND)     |
 
 </center>
 
@@ -20,11 +20,12 @@ Subgrupo liderado pelo aluno [Renann de Oliveira Gomes](https://github.com/Nyndo
 
 ![Heatmap Foxtrot](../Assets/Heatmaps/HeatmapFoxtrot.png)
 
+Figura 1: Mapa de calor
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão |    Data    |      Descrição       |                      Autor                       | Revisor |
-| :----: | :--------: | :------------------: | :----------------------------------------------: | :-----: |
-|  1.0   | 07/04/2024 | Artefato do subgrupo | [João Lucas](https://github.com/VasconcelosJoao) |  [Foxtrot](/Subgrupos/Foxtrot)   |
+| Versão |    Data    |      Descrição       |                      Autor                       |            Revisor            |
+| :----: | :--------: | :------------------: | :----------------------------------------------: | :---------------------------: |
+|  1.0   | 07/04/2024 | Artefato do subgrupo | [João Lucas](https://github.com/VasconcelosJoao) | [Foxtrot](/Subgrupos/Foxtrot) |
 
 </center>

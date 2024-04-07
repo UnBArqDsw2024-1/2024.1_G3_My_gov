@@ -36,13 +36,23 @@ No quadro a seguir a lista de participantes da equipe:
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |
-|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      ||
+|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |  |
 
 </center>
 
+
 ## <a>*Sobre*</a>
 
-O site da Terracap, como muitos sites governamentais, apresenta uma interface desatualizada e incompleta, dificultando a navegação e o acesso à informação por parte dos usuários.
+O site da Terracap, como muitos sites governamentais, apresenta uma série de desafios para os usuários:
+
+* <a>**Interface desatualizada:**</a> O layout e a organização do site não acompanharam as tendências de design moderno, dificultando a navegação e a localização de informações.
+* <a>**Conteúdo incompleto e desorganizado:**</a> As informações no site são frequentemente incompletas, desatualizadas ou desorganizadas, dificultando o acesso aos dados relevantes.
+* <a>**Acessibilidade limitada:**</a> O site não foi desenvolvido com foco na acessibilidade, o que dificulta o uso por pessoas com deficiência.
+* <a>**Falta de serviços online:**</a> O site oferece um número limitado de serviços online, o que exige que os usuários se desloquem pessoalmente para realizar diversos trâmites.
+
+O MyGov visa solucionar esses problemas e oferecer aos usuários da Terracap uma experiência mais amigável, acessível e eficiente.
+
+
 
 ### <a>*Divisão do Grupo*</a>
 
@@ -62,25 +72,33 @@ Scrum Master:
 
 ### <a>*Forma de Atuação*</a>
 
-As task são distribuidas para os subgrupos pelo scrum master, onde os subgrupos trabalham em uma metodologia que atende melhor para a confecsao do artefato. Ja o scrum fica responsavel em manter a organização do repositorio, manter um padrão entre os artefatos e realizar uma pos revisão.
+O Scrum Master assume a responsabilidade de distribuir as tarefas para os subgrupos, assegurando que cada membro esteja ciente de suas responsabilidades e prazos. Essa distribuição estratégica visa otimizar o trabalho em equipe e garantir o cumprimento das metas do projeto.
+
+Cada subgrupo possui autonomia para escolher a metodologia mais adequada à confecção do artefato designado. Essa liberdade permite que os membros explorem suas habilidades e conhecimentos, selecionando a abordagem que melhor se encaixa nas características e objetivos específicos do artefato.
+
+O Scrum se concentra em três funções principais:
+
+- <a>**Organização do Repositório**</a>: Manter o repositório organizado e estruturado facilita o acesso e a gestão das informações, otimizando o fluxo de trabalho e garantindo a qualidade do código.
+- <a>**Padronização dos Artefatos**</a>: Assegurar um padrão entre os artefatos contribui para a coesão e a uniformidade do projeto, facilitando a comunicação e a compreensão do código.
+- <a>**Pós-Revisão**</a>: Realizar uma revisão cuidadosa após a conclusão de cada sprint permite identificar pontos de melhoria e oportunidades de otimização, aprimorando continuamente o processo de desenvolvimento.
 
 
 ## <a>*Screenshots Primeira Entrega FOCO: DSW(Base)*</a>
 Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
 
 ## <a>*Descritivo dos Principais Aspectos Técnicos *</a>
-**Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
-**Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
+Principal(is) Metodologia(s) Adotada(s): <a>**Scrum**</a> <br>
+Principais Linguagens Utilizadas e/ou Pretendidas: <a>**xxxxxx**</a> <br>
+Principais Tecnologias Utilizadas e/ou Pretendidas: <a>**xxxxxx**</a> <br>
+Principal(is) Estilo(s) Arquitetural(is) Adotado(s): <a>**xxxxxx**</a> <br>
 
 <center>
 
 ## <a>Histórico de Versão</a>
 
-| Versão |    Data    |    Descrição     |                      Autor                       | Revisor |
-| :----: | :--------: | :--------------: | :----------------------------------------------: | :-----: |
-|  1.0   | 07/04/2024 | Artefato da Home | [João Lucas](https://github.com/VasconcelosJoao) |  []()   |
+| Versão |    Data    |      Descrição      |                      Autor                       | Revisor |
+| :----: | :--------: | :-----------------: | :----------------------------------------------: | :-----: |
+|  1.0   | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) |  []()   |
 
 </center>
 

@@ -20,6 +20,7 @@ Subgrupo liderado pelo aluno [Fause Carlos](https://github.com/FauseSkyWalker)
 
 ![Heatmap Papa](../Assets/Heatmaps/HeatmapPapa.png)
 
+Figura 1: Mapa de calor
 
 ## <a>*Histórico de Versão*</a>
 
