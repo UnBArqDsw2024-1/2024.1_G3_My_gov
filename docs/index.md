@@ -1,9 +1,22 @@
-# ![Terracap](docs/Assets/logo-terracap.png)
+---
+hide:
+  - navigation
+  - toc
+---
+
+<Center>
+
+# ![alt text](Assets/logo-terracap.png)
+
+</center>
+
 
 ## <a>**Introdução**</a>
 
 O projeto **MyGov** foi desenvolvido como parte da disciplina **Arquitetura e Desenho de Software (FGA0208)** do curso **Engenharia de Software** da **Universidade de Brasília (UNB)** no primeiro semestre de **2024**. O objetivo principal do projeto é **apresentar uma proposta de modernização e otimização do site da Terracap, focando na experiência do usuário, acessibilidade e usabilidade.**
 
+
+<center>
 
 ## <a>**Equipe**</a>
 
@@ -25,9 +38,35 @@ No quadro a seguir a lista de participantes da equipe:
 | 200043030     | [Renann de Oliveira Gomes](https://github.com/NyndoND)             |
 | 200028626     | [Vitor Borges dos Santos](https://github.com/VitorB2002)           |
 
+</center>
+
 ## <a>**Sobre**</a>
 
 O site da Terracap, como muitos sites governamentais, apresenta uma interface desatualizada e incompleta, dificultando a navegação e o acesso à informação por parte dos usuários.
+
+### Divisão do Grupo e Forma de Atuação
+
+O Grupo 3 é composto por 13 alunos e está organizado em 4 subgrupos de 3 membros cada, além de um Scrum Master que atua como coringa. Essa organização visa promover a colaboração, a comunicação e a eficiência no desenvolvimento do projeto.
+
+Subgrupos:
+
+- [Romeu](Subgrupos/Romeu.md)
+- [Quebec](Subgrupos/Quebec.md)
+- [Whiskey](Subgrupos/Whiskey.md)
+- [Foxtrot](Subgrupos/Foxtrot.md)
+
+
+Scrum Master:
+
+O Scrum Master é responsável por:
+
+Facilitar as reuniões diárias do Scrum;
+Garantir que o time esteja seguindo os princípios do Scrum;
+Remover impedimentos que atrapalhem o progresso do projeto.
+Forma de Atuação:
+
+O grupo utiliza a metodologia Scrum para gerenciar o desenvolvimento do projeto. As principais atividades do Scrum
+
 
 ## <a>**Screenshots Primeira Entrega FOCO: DSW(Base)**</a>
 Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
