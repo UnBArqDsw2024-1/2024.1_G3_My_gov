@@ -48,8 +48,12 @@ Ao analisar o HeatMap, observa-se que a maior disponibilidade do grupo ocorre na
 
 O HeatMap será atualizado periodicamente para refletir as mudanças na disponibilidade dos membros. O grupo também está avaliando a utilização de outras ferramentas para facilitar o agendamento de reuniões, como plataformas online de votação.
 
+<center>
+
 ## <a>*Histórico de Versão*</a>
 
 | Versão |    Data    |      Descrição      |                      Autor                       | Revisor |
 | :----: | :--------: | :-----------------: | :----------------------------------------------: | :-----: |
-|  1.0   | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) |  []()   |
+| `1.0`  | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) |  []()   |
+
+</center>

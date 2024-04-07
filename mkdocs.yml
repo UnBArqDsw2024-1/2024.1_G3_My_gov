@@ -15,6 +15,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/UnBArqDsw2024-1/2024.1_G3_My_gov
       name: Repositório do grupo
+    - icon: material/school
+      link: https://aprender3.unb.br/
+      name: Ambiente Virtual de Aprendizagem
 
 theme:
   name: material

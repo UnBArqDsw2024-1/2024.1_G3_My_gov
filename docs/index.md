@@ -98,7 +98,6 @@ Principal(is) Estilo(s) Arquitetural(is) Adotado(s): <a>**xxxxxx**</a> <br>
 
 | Versão |    Data    |      Descrição      |                      Autor                       | Revisor |
 | :----: | :--------: | :-----------------: | :----------------------------------------------: | :-----: |
-|  1.0   | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) |  []()   |
+| `1.0`  | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) |  []()   |
 
 </center>
-

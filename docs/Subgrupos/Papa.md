@@ -26,6 +26,6 @@ Figura 1: Mapa de calor
 
 | Versão |    Data    |      Descrição       |                      Autor                       |         Revisor         |
 | :----: | :--------: | :------------------: | :----------------------------------------------: | :---------------------: |
-|  1.0   | 07/04/2024 | Artefato do subgrupo | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](/Subgrupos/Papa) |
+| `1.0`  | 07/04/2024 | Artefato do subgrupo | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](/Subgrupos/Papa) |
 
 </center>

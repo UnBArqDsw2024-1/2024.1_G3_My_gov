@@ -30,7 +30,6 @@ Figura 1: BPMN metodologia de trabalho
 
 ## <a>*Bibliografia*</a>
 
-
     Serrano, Milene. Arquitetura E Desenho de Software AULA -Notação BPMN. Aug. 2019.
 
     O que é BPMN? Disponível em: <https://www.lucidchart.com/pages/pt/o-que-e-bpmn>.
@@ -38,10 +37,14 @@ Figura 1: BPMN metodologia de trabalho
     ‌Desenvolvimento Ágil. Disponível em: <https://www.desenvolvimentoagil.com.br/scrum/>. Acesso em: 7 abr. 2024.
 
 
+<center>
+
 ## <a>*Histórico de Versão*</a>
 
-| Versão | Data       | Descrição              | Autor(es)        | Revisor(es) |
-| ------ | ---------- | ---------------------- | ---------------- | ----------- |
-| `1.0`  | 06/04/2024 | Criação do documento   | [Whiskey](/Subgrupos/Whiskey) | "Coloquem"  |
-| `1.1`  | 07/04/2024 | Formulação do Diagrama | [Whiskey](/Subgrupos/Whiskey) | "Coloquem"  |
-| `1.1`  | 07/04/2024 | Correção do artefato   | [Whiskey](/Subgrupos/Whiskey) | "Coloquem"  |
+| Versão | Data       | Descrição              | Autor(es)                     | Revisor(es)                                      |
+| ------ | ---------- | ---------------------- | ----------------------------- | ------------------------------------------------ |
+| `1.0`  | 06/04/2024 | Criação do documento   | [Whiskey](/Subgrupos/Whiskey) | [João Lucas](https://github.com/VasconcelosJoao) |
+| `1.1`  | 07/04/2024 | Formulação do Diagrama | [Whiskey](/Subgrupos/Whiskey) | [Foxtrot](/Subgrupos/Foxtrot)                    |
+| `1.1`  | 07/04/2024 | Correção do artefato   | [Papa](/Subgrupos/Papa)       | [Whiskey](/Subgrupos/Yankee)                     |
+
+</center>
