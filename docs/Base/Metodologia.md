@@ -1,5 +1,4 @@
-# 1.2. Módulo Processos/Metodologias/Abordagens
-
+# Metodologia
 
 ## Introdução
 
@@ -19,21 +18,22 @@ Ao final da sprint serão apresentadas as atividades feitas e os artefatos produ
 
 ## BPMN
 
-O BPMN (Business Process Management Notation), como o nome diz, é uma notação de gerenciamento de processos de negócio. Para esse artefato, o BPMN foi usado para o mapeamento de processo de trabalho da equipe. O diagrama é destinado a stakeholders e desenvolvedores em um processo de negócio para aumentar sua compreensão por meio de uma representação visual prática das etapas.
+O BPMN (Business Process Management Notation), como o nome diz, é uma notação de gerenciamento de processos de negócio. Para esse artefato, o BPMN foi usado para o mapeamento de processo de trabalho da equipe. O diagrama é destinado a stakeholders e desenvolvedores em um processo de negócio para aumentar sua compreensão por meio de uma representação visual prática das etapas. A seguir uma imagem representando o BPMN do projeto:
 
-<div align="center">
-<img src="BPMN.jpeg">
+<br>
+<center>
+![alt text](../Assets/BPMN.jpeg)
 Figura 1: BPMN metodologia de trabalho
-</div>
+</center>
 
 ## Bibliografia
 
-[1] SERRANO. Milene, Arquitetura e Desenho de Software
-AULA – Notação BPMN. Disponível em: https://aprender3.unb.br/pluginfile.php/2790232/mod_label/intro/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20BPMN%20Exemplos%20-%20Profa.%20Milene.pdf
 
-[2] Lucidchart, O que é BPMN?. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-bpmn
+    Serrano, Milene. Arquitetura E Desenho de Software AULA -Notação BPMN. Aug. 2019.
 
-[3] DesenvolvimentoÁgil, SCRUM. Disponível em: https://www.desenvolvimentoagil.com.br/scrum/
+    O que é BPMN? Disponível em: <https://www.lucidchart.com/pages/pt/o-que-e-bpmn>.
+
+    ‌Desenvolvimento Ágil. Disponível em: <https://www.desenvolvimentoagil.com.br/scrum/>. Acesso em: 7 abr. 2024.
 
 
 ## Histórico de Versão
