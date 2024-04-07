@@ -1,0 +1,53 @@
+site_name: Arquitetura e Desenho de Software
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins: []
+
+theme:
+  name: material
+  language: pt-BR
+  favicon: Assets/favicon.png
+  logo: Assets/logo.png
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+    repo: fontawesome/brands/github
+
+  palette: 
+    - scheme: default
+      primary: custom
+      accent: custom
+  
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
+
+nav:
+  - Base:
+    - Base/index.md
+    - Módulo Projeto Não Orientado a Abordagens Específicas: Base/1.1.AbordagemNaoEspecifica.md
+    - Módulo Processos, Metodologias, Abordagens: Base/1.2.ProcessosMetodologiasAbordagens.md
+    - Participações - Base: Base/1.3.ParticipacoesBase.md
+  - Modelagem:
+    - Modelagem/index.md
+    - Módulo Projeto Orientado a Abordagens Tradicionais: Modelagem/2.1.ModelagemTradicional.md
+    - Notação UML Diagramas Estáticos: Modelagem/2.1.1.UMLEstaticos.md
+    - Notação UML Diagramas Dinâmicos: Modelagem/2.1.2.UMLDinamicos.md
+    - Participações - Modelagem: Modelagem/2.2.ParticipacoesModelagem.md
+  - Padrões de Projeto:
+    - PadroesDeProjeto/index.md
+    - Módulo Padrões de Projeto GRASPs: PadroesDeProjeto/3.1.GRASPs.md
+    - Módulo Padrões de Projeto GoFs: PadroesDeProjeto/3.2.GoFs.md
+    - Módulo Padrões de Projeto Extras: PadroesDeProjeto/3.3.PadroesExtra.md
+    - Participações - Padrões de Projeto: PadroesDeProjeto/3.4.ParticipacoesPadroes.md
+  - Arquitetura de Software & Reutilização:
+    - Desenho de Software (Arquitetura & Reutilização de Software): ArquiteturaReutilizacao/index.md
+    - Módulo Estilos e Padrões Arquiteturais: ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md
+    - Módulo Reutilização de Software: ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md
+    - Participações - Arquitetura & Reutilização de Software: ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md
+  - Reuniões: 
+    - AtasReunioes/index.md
+    - 1ª Sprint: AtasReunioes/Sprint-1.md

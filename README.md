@@ -1,31 +1,55 @@
 # RepositorioTemplate
+Esse repositório é para ser utilizado pelos grupos como um template inicial.
+As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
+Demais diretrizes constam no Moodle.
 
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
 
-## Introdução
+**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
 
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+**!! *Exemplo de título correto: 2023.1_G1_ProjetoPandora*. !!** 
+ 
+ (Apague esses comentários)
 
-## Tecnologia
+# Nome do Projeto
 
-A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
+**Código da Disciplina**: FGA0208<br>
+**Número do Grupo**: XX<br>
 
-```shell
-"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
-```
+## Alunos
+|Matrícula | Aluno |
+| -- | -- |
+| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-### Instalando o docsify
+## Sobre 
+Contextualize, usando referências, links, e outros materiais como fontes.
 
-Execute o comando:
+## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
+Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
 
-```shell
-npm i docsify-cli -g
-```
+## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
+Adicione 2 ou mais screenshots em termos de artefatos da Segunda Entrega.
 
-### Executando localmente
+## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
+Adicione 2 ou mais screenshots em termos de artefatos da Terceira Entrega.
 
-Para iniciar o site localmente, utilize o comando:
+## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
+Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega.
 
-```shell
-docsify serve ./docs
-```
+## Descritivo dos Principais Aspectos Técnicos 
+**Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
+**Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
+**Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
+**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
+
+## Há algo a ser executado?
+
+( ) SIM
+
+( ) NÃO
+
+Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+
+## Informações Complementares 
+Quaisquer outras informações adicionais podem ser descritas nessa seção.

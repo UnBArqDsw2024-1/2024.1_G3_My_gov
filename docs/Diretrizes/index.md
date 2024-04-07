@@ -1,8 +1,15 @@
-Diretrizes Gerais e Complementares Obrigatórias
+---
+hide:
+  - navigation
+---
 
-	Seguem as principais diretrizes para elaboração dos projetos na disciplina.
 
-Diretrizes Gerais
+# Diretrizes Gerais e Complementares Obrigatórias
+
+ Seguem as principais diretrizes para elaboração dos projetos na disciplina.
+
+ Diretrizes Gerais
+
 Deve-se organizar a Wiki e o repositório do projeto conforme consta no RepositoryTemplate. Por exemplo, para o caso da Primeira Entrega:
 
     1.  Desenho de Software (Base)
@@ -21,7 +28,6 @@ A Wiki ou GitPages do Projeto deve conter um tópico dedicado ao Módulo Projeto
 
 Demais orientações disponíveis nas Diretrizes (vide Moodle).
 
-
 1.2. Módulo Processos/Metodologias/Abordagens
 
 Foco_4: Metodologia (Modelagem BPMN & Escolhas Metodológicas)
@@ -34,7 +40,6 @@ A Wiki ou GitPages do Projeto deve conter um tópico dedicado ao Módulo Process
 
 Demais orientações disponíveis nas Diretrizes (vide Moodle).
 
-
 1.3. Participações - Base
 
 Breve relato sobre as participações/contribuições de cada membro à entrega.
@@ -46,7 +51,6 @@ Fulano | 1. Participação nas Etapas da Design Sprint elaborando artefatos | Bo
 
 TODOS DEVEM PARTICIPAR, MOSTRANDO SEUS PONTOS DE VISTA E COMO COLABORARAM NESSA ETAPA DA ENTREGA.
 
-
 Módulo Projeto Não Orientado a Abordagens Específicas
 Nome do Membro | Contribuição (Base - Foco_2)| Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula)
 
@@ -55,7 +59,6 @@ Excelente
 
 TODOS DEVEM PARTICIPAR, MOSTRANDO SEUS PONTOS DE VISTA E COMO COLABORARAM NESSA ETAPA DA ENTREGA.
 
-
 Módulo Projeto Não Orientado a Abordagens Específicas
 
 Nome do Membro | Contribuição (Base - Foco_3) | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula)
@@ -63,7 +66,6 @@ Nome do Membro | Contribuição (Base - Foco_3) | Significância da Contribuiç�
 Fulano | 1. Elaboração do Artefato 5W2H | Regular
 
 TODOS DEVEM PARTICIPAR, MOSTRANDO SEUS PONTOS DE VISTA E COMO COLABORARAM NESSA ETAPA DA ENTREGA.
-
 
 Módulo Processos/Metodologias/Abordagens
 
@@ -87,10 +89,9 @@ TODOS os membros devem participar na elaboração do projeto correspondente ao s
 
 Demais orientações constam disponíveis nas Diretrizes (vide Aprender 3) e/ou com a professora Milene.
 
+## ** Projetos - Período   2024.1
 
-** Projetos - Período   2024.1
-
-Segue a lista de projetos desse período letivo:
+# Segue a lista de projetos desse período letivo
 
     • G1 até 13 membros
     • Projeto G1 - My_Ecommerce, baseado em qualquer site e-commerce para inspiração, exceto: Mercado Livre, RiHappy, Americanas, Magazine Luiza e Amazon.
@@ -140,6 +141,5 @@ Segue a lista de projetos desse período letivo:
     • Projeto G10 - My_Lyrics, qualquer site de letras de músicas para inspiração.
     • Exemplo: Lyrics, disponível em https://www.lyrics.com/ 
     • Não usar o nome do site real. A ideia é usar o nome My_Lyrics mesmo, e apenas se basear em um site de letras de músicas para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
-    
-OBS: Caso existam novos matriculados na disciplina, acima de 130 alunos, novos projetos serão propostos pela professora. Portanto, nesses casos, conversar com a professora na época.
 
+OBS: Caso existam novos matriculados na disciplina, acima de 130 alunos, novos projetos serão propostos pela professora. Portanto, nesses casos, conversar com a professora na época.
