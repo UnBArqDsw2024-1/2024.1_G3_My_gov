@@ -1,19 +1,34 @@
 site_name: Arquitetura e Desenho de Software
 
+site_description: Site de documentação do projeto MyGov
+
 extra_css:
   - stylesheets/extra.css
 
 plugins: []
+
+copyright: Copyright &copy; 2024 Grupo 03
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/UnBArqDsw2024-1/2024.1_G3_My_gov
+      name: Repositório do grupo
 
 theme:
   name: material
   language: pt-BR
   favicon: Assets/favicon.png
   logo: Assets/logo.png
+  font: 
+    text: Roboto
+    code: Roboto Mono
   icon:
     previous: fontawesome/solid/angle-left
     next: fontawesome/solid/angle-right
     repo: fontawesome/brands/github
+
 
   palette: 
     - scheme: default
@@ -21,6 +36,7 @@ theme:
       accent: custom
   
   features:
+    - header.autohide
     - navigation.tabs
     - navigation.top
     - navigation.indexes
