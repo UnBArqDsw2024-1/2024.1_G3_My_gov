@@ -1,22 +1,9 @@
----
-hide:
-  - navigation
-  - toc
----
-
-<Center>
-
 # ![Terracap](docs/Assets/logo-terracap.png)
-
-</center>
-
 
 ## <a>**Introdução**</a>
 
 O projeto **MyGov** foi desenvolvido como parte da disciplina **Arquitetura e Desenho de Software (FGA0208)** do curso **Engenharia de Software** da **Universidade de Brasília (UNB)** no primeiro semestre de **2024**. O objetivo principal do projeto é **apresentar uma proposta de modernização e otimização do site da Terracap, focando na experiência do usuário, acessibilidade e usabilidade.**
 
-
-<center>
 
 ## <a>**Equipe**</a>
 
@@ -37,8 +24,6 @@ No quadro a seguir a lista de participantes da equipe:
 | 211041286     | [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)           |
 | 200043030     | [Renann de Oliveira Gomes](https://github.com/NyndoND)             |
 | 200028626     | [Vitor Borges dos Santos](https://github.com/VitorB2002)           |
-
-</center>
 
 ## <a>**Sobre**</a>
 
