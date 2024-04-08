@@ -6,14 +6,14 @@ A protipação envolve a criação de representações funcionais ou simulaçõe
 
 ## Objetivo
 
-O grupo desenvolveu um protótipo de alta fidelidade com base na etapa de [Prototype](1.5.DesingSprint.md) do Design sprint e no artefato [StoryBoard](). Foi utilizado a ferramenta Figma <a id="anchor_1" href="#FRM1">^2^</a> para simular a tela do site [Terracap](https://www.terracap.df.gov.br). Seguindo os seguintes [requisitos]() encontrados:
+O grupo desenvolveu um protótipo de alta fidelidade com base na etapa de [Prototype](DesignSprint.md) do Design sprint e no artefato [StoryBoard](ArtefatosIndependentes\Storyboards.md). Foi utilizado a ferramenta Figma <a id="anchor_1" href="#FRM1">^2^</a> para simular a tela do site [Terracap](https://www.terracap.df.gov.br). Seguindo os seguintes [requisitos](TecnicasElicitacao\Tecnica2.md) encontrados:
 
 - Ideias e alternativas de design;
 - Conformidade com um padrão;
 - Problemas na interação e na interface;
 - Falta de Consistência e padronização.
 
-Após a criação do protótipo, foi realizado uma entrevista com usuário real com base em um perfil de usuário apresentado pelo [questionário]() Essa entrevista permitiu coletar feedback valioso sobre a usabilidade das novas funcionalidades implementadas, a compreensão das funcionalidades e a eficácia do design proposto, para assim poder validar esses requisitos.
+Após a criação do protótipo, foi realizado uma entrevista com usuário real com base em um perfil de usuário apresentado pelo [questionário](TecnicasElicitacao\Tecnica1.md) Essa entrevista permitiu coletar feedback valioso sobre a usabilidade das novas funcionalidades implementadas, a compreensão das funcionalidades e a eficácia do design proposto, para assim poder validar esses requisitos.
 
 ## Método de Avaliação
 
