@@ -18,7 +18,7 @@
 
 <center>
 
-[alt text](../../Assets/Base/Questionario/ResultadoIdade.jpeg)
+![alt text](../../Assets/Base/Questionario/ResultadoIdade.jpeg)
 
 </center>
 
@@ -106,13 +106,22 @@
 
 <p align="justify">&emsp;&emsp; Resposta aberta levada em consideração na análise de resultados. A maioria dos participantes disse que não tem nada a acrescentar.</p>
 
+## <a>Problemas encontrados</a>
+- conformidade com um padrão;
+- problemas na interação e na interface.
+- Falta de integração com outros sistemas.
+
+## <a>Conclusão</a>
+<p align="justify">&emsp;&emsp;De maneira geral o uso da técnica de questionário foi muito efetiva, apresentando pontos que juntamente com a técnica de entrevista, trazem dados valiosos para melhorias no site da Terracap no âmbito do design, da interação com o usuário e na padronização de acordo com as normas governamentais. Todos esses dados serão levados em conta ao longo do projeto visando soluiconá-los e, ao fim do projeto, ter uma proposta mais alinhada com os interesses e necessidades desses usuários.</p>
+
 <center>
 
-## <a>*Histórico de Versão*</a>
+## <a>Histórico de Versão</a>
 
 | Versão | Data       | Descrição            | Autor(es)                       | Revisor(es)                           |
 | ------ | ---------- | -------------------- | ------------------------------- | ------------------------------------- |
-| `1.0`  | 06/04/2024 | Criação do documento | [Papa](../../Subgrupos/Papa.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
-| `1.1`  | 06/04/2024 | Correções de Padrão | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](../../Subgrupos/Papa.md) |
+| 1.0  | 06/04/2024 | Criação do documento | [Papa](../../Subgrupos/Papa.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
+| 1.1  | 06/04/2024 | Correções de Padrão | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](../../Subgrupos/Papa.md) |
+| 1.2  | 08/04/2024 | Correções conclusão  | [Papa](../../Subgrupos/Papa.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) | 
 
 </center>
