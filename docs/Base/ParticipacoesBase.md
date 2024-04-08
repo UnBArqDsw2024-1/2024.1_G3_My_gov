@@ -74,3 +74,13 @@
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        x         |       x       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
+
+<center>
+
+## <a>*Histórico de Versão*</a>
+
+| Versão |    Data    |      Descrição      |                      Autor                       |         Revisor         |
+| :----: | :--------: | :-----------------: | :----------------------------------------------: | :---------------------: |
+| `1.0`  | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Yankee](../Subgrupos/Yankee.md) |
+
+</center>
