@@ -50,8 +50,8 @@ nav:
     - Design Sprint: Base/DesignSprint.md
     - Técnicas de Elicitação: 
       - Base/TecnicasElicitacao/index.md
-      - Técnica1: Base/TecnicasElicitacao/Tecnica1.md
-      - Técnica2: Base/TecnicasElicitacao/Tecnica2.md
+      - Entrevista: Base/TecnicasElicitacao/Entrevista.md
+      - Questionário: Base/TecnicasElicitacao/Questionario.md
       - Personas: Base/TecnicasElicitacao/Personas.md
     - Artefatos Independentes:
       - Base/ArtefatosIndependentes/index.md

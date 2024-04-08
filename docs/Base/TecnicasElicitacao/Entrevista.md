@@ -107,7 +107,7 @@
 
 <p align="justify">&emsp;&emsp;Por meio dessas perguntas conseguimos coletar inúmeros dados e após analisarmos chegamos nestes resultados </p>
 
-## Problemas encontrados 
+## <a>*Problemas encontrados*</a> 
 
 - ideias e alternativas de design;
 - conformidade com um padrão;
@@ -122,9 +122,9 @@ Em resumo, a utilização da técnica de elicitação entrevista revelou insight
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                   |
-| ------ | ---------- | ---------------------- | ------------------------------------------------ | ----------------------------- |
-| `1.0`  | 06/04/2024 | Criação do documento   | [Papa](/Subgrupos/Papa)                          | [foxtrot](/Subgrupos/foxtrot)    |
-
+| Versão | Data       | Descrição            | Autor(es)                    | Revisor(es)                        |
+| ------ | ---------- | -------------------- | ---------------------------- | ---------------------------------- |
+| `1.0`  | 06/04/2024 | Criação do documento | [Papa](../../Subgrupos/Papa.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
+| `1.1`  | 07/04/2024 | Correções de Padrão | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](../../Subgrupos/Papa.md) |
 
 </center>

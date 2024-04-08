@@ -16,6 +16,6 @@ Cada ata será arquivada de acordo com o número da **sprint** correspondente, f
 
 | Versão |    Data    |       Descrição        |                      Autor                       |           Revisor           |
 | :----: | :--------: | :--------------------: | :----------------------------------------------: | :-------------------------: |
-| `1.0`  | 07/04/2024 | Artefato da 1ª Reunião | [João Lucas](https://github.com/VasconcelosJoao) | [Yankee](/Subgrupos/Yankee) |
+| `1.0`  | 07/04/2024 | Artefato da 1ª Reunião | [João Lucas](https://github.com/VasconcelosJoao) | [Yankee](../Subgrupos/Yankee.md) |
 
 </center>

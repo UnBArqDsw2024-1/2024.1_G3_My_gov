@@ -10,7 +10,7 @@
 ## <a>*Aplicação da técnica* </a>
 <p align="justify">&emsp;&emsp;Durante a utilização da técnica de elicitação questionários disponibilizamos um forms com as perguntas abaixo, com o objetivo de extrair as informações do usuários do site da terracap, abaixo de cada pergunta já se encontra seu respectivo resultado:</p>
 
-### Perguntas
+### <a>*Perguntas* </a>
 
 <b> Qual sua idade? </b>
 
@@ -98,11 +98,11 @@
 
 </center>
 
-<b>Existem integrações com outros sistemas ou entidades governamentais que você gostaria que este site suportasse?<b>
+<b>Existem integrações com outros sistemas ou entidades governamentais que você gostaria que este site suportasse?</b>
 
 <p align="justify">&emsp;&emsp;Resposta aberta levada em consideração na análise de resultados, porém a maioria dos participantes relataram que gostariam de algum tipo de integração com sistemas bancários.</p>
 
-<b>Alguma outra necessidade ou consideração importante que você gostaria de mencionar em relação ao site?<b>
+<b>Alguma outra necessidade ou consideração importante que você gostaria de mencionar em relação ao site?</b>
 
 <p align="justify">&emsp;&emsp; Resposta aberta levada em consideração na análise de resultados. A maioria dos participantes disse que não tem nada a acrescentar.</p>
 
@@ -110,9 +110,9 @@
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                   |
-| ------ | ---------- | ---------------------- | ------------------------------------------------ | ----------------------------- |
-| `1.0`  | 06/04/2024 | Criação do documento   | [Papa](/Subgrupos/Papa)                          | [foxtrot](/Subgrupos/foxtrot)   |
-
+| Versão | Data       | Descrição            | Autor(es)                       | Revisor(es)                           |
+| ------ | ---------- | -------------------- | ------------------------------- | ------------------------------------- |
+| `1.0`  | 06/04/2024 | Criação do documento | [Papa](../../Subgrupos/Papa.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
+| `1.1`  | 06/04/2024 | Correções de Padrão | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](../../Subgrupos/Papa.md) |
 
 </center>

@@ -21,11 +21,11 @@
 <center>
 <font size="3"><p style="text-align: center"> <b>Tabela 1</b>: Participantes da reunião</p> </font>
 
-| Matricula | Nome | Data da reunião | Subgrupo |
-|:---------:|:---------:|:-------:| :-----: |
-|   211061494   | [Bruno Tarquinio Silva](https://github.com/brunotarquinio)        | 04/04/2024| [Papa](/Subgrupos/Papa)   |
-|   211031691   | [Fause Carlos](https://github.com/FauseSkyWalker)                 | 04/04/2024| [Papa](/Subgrupos/Papa)   |
-|   200059947   | [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  | 04/04/2024| [Papa](/Subgrupos/Papa)   |
+| Matricula |                               Nome                               | Data da reunião |        Subgrupo         |
+| :-------: | :--------------------------------------------------------------: | :-------------: | :---------------------: |
+| 211061494 |    [Bruno Tarquinio Silva](https://github.com/brunotarquinio)    |   04/04/2024    | [Papa](../../Subgrupos/Papa.md) |
+| 211031691 |        [Fause Carlos](https://github.com/FauseSkyWalker)         |   04/04/2024    | [Papa](../../Subgrupos/Papa.md) |
+| 200059947 | [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811) |   04/04/2024    | [Papa](../../Subgrupos/Papa.md) |
 
 </center>
 
@@ -45,10 +45,10 @@
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                   |
-| ------ | ---------- | ---------------------- | ------------------------------------------------ | ----------------------------- |
-| `1.0`  | 06/04/2024 | Criação do documento   | [Papa](/Subgrupos/Papa)                          | [foxtrot](/Subgrupos/foxtrot)    |
-
+| Versão | Data       | Descrição            | Autor(es)                       | Revisor(es)                           |
+| ------ | ---------- | -------------------- | ------------------------------- | ------------------------------------- |
+| `1.0`  | 06/04/2024 | Criação do documento | [Papa](../../Subgrupos/Papa.md) | [foxtrot](../../Subgrupos/Foxtrot.md) |
+| `1.1`  | 07/04/2024 | Correções de Padrão | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](../../Subgrupos/Papa.md) |
 
 </center>
 

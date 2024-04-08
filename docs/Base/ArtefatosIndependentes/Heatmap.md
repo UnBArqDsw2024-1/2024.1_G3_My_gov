@@ -54,6 +54,6 @@ O HeatMap será atualizado periodicamente para refletir as mudanças na disponib
 
 | Versão |    Data    |      Descrição      |                      Autor                       |         Revisor         |
 | :----: | :--------: | :-----------------: | :----------------------------------------------: | :---------------------: |
-| `1.0`  | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](/Subgrupos/Papa) |
+| `1.0`  | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](../../Subgrupos/Papa.md) |
 
 </center>
