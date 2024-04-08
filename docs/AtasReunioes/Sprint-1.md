@@ -10,6 +10,9 @@ A seguir esta a gravação da primeira reunião:
 
 <center>
 
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/aOYN0aTfF90" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## <a>Histórico de Versão</a>
 
 | Versão |    Data    |       Descrição        |                      Autor                       |           Revisor           |
