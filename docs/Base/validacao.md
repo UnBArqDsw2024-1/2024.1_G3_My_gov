@@ -49,4 +49,4 @@ Ao analisar o entrevistado foi relatado que o portal estáva bem coerente com os
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| 1.0 | 07/04/2024 | Criação do artefato | [Rafael Ferreira](https://github.com/RafaelCLG0) e [Arthur Grandão](https://github.com/arthurgrandao) | ----------- |
+| 1.0 | 07/04/2024 | Criação do artefato | [Yankee](../../Subgrupos/Yankee.md)  | [Papa](../../Subgrupos/Papa.md)  |

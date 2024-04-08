@@ -48,6 +48,9 @@ nav:
     - Módulo Processos, Metodologias, Abordagens: Base/1.2.ProcessosMetodologiasAbordagens.md
     - Participações - Base: Base/1.3.ParticipacoesBase.md
     - Artefatos Independentes: Base/1.4.ArtefatosIndependentes.md
+    - Design Sprint: Base/1.5.DesingSprint.md
+    - Protótipo: Base/prototipo.md
+    - Validação do Protótipo: Base/validacao.md
   - Modelagem:
     - Modelagem/index.md
     - Módulo Projeto Orientado a Abordagens Tradicionais: Modelagem/2.1.ModelagemTradicional.md
