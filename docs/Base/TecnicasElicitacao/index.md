@@ -47,7 +47,7 @@
 
 | Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                   |
 | ------ | ---------- | ---------------------- | ------------------------------------------------ | ----------------------------- |
-| `1.0`  | 06/04/2024 | Criação do documento   | [Papa](/Subgrupos/Papa)                          | [Yankee](/Subgrupos/Yankee)   |
+| `1.0`  | 06/04/2024 | Criação do documento   | [Papa](/Subgrupos/Papa)                          | [foxtrot](/Subgrupos/foxtrot)    |
 
 
 </center>
