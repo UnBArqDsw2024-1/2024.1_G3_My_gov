@@ -47,10 +47,6 @@ theme:
 nav:
   - Base:
     - Base/index.md
-    - Módulo Projeto Não Orientado a Abordagens Específicas: Base/1.1.AbordagemNaoEspecifica.md
-    - Módulo Processos, Metodologias, Abordagens: Base/1.2.ProcessosMetodologiasAbordagens.md
-    - Participações - Base: Base/1.3.ParticipacoesBase.md
-    - Artefatos Independentes: Base/1.4.ArtefatosIndependentes.md
     - Protótipo: Base/prototipo.md
     - Validação do Protótipo: Base/validacao.md
     - Design Sprint: Base/DesignSprint.md
