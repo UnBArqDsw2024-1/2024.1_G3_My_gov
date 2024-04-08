@@ -52,6 +52,7 @@ nav:
       - Base/TecnicasElicitacao/index.md
       - Técnica1: Base/TecnicasElicitacao/Tecnica1.md
       - Técnica2: Base/TecnicasElicitacao/Tecnica2.md
+      - Personas: Base/TecnicasElicitacao/Personas.md
     - Artefatos Independentes:
       - Base/ArtefatosIndependentes/index.md
       - Heat Map: Base/ArtefatosIndependentes/Heatmap.md
