@@ -47,6 +47,8 @@ theme:
 nav:
   - Base:
     - Base/index.md
+    - Protótipo: Base/prototipo.md
+    - Validação do Protótipo: Base/validacao.md
     - Design Sprint: Base/DesignSprint.md
     - Técnicas de Elicitação: 
       - Base/TecnicasElicitacao/index.md
