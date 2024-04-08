@@ -12,8 +12,8 @@
 
 <b>Vídeo 1</b>: Reunião subgrupo papa</p>
 
-<p align="justify">&emsp;&emsp; https://youtu.be/3KhRhgc2Gjg </p>
 
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/3KhRhgc2Gjg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 </center>
@@ -21,20 +21,20 @@
 <center>
 <font size="3"><p style="text-align: center"> <b>Tabela 1</b>: Participantes da reunião</p> </font>
 
-| Matricula | Nome | Data da reunião | Subgrupo |
-|:---------:|:---------:|:-------:| :-----: |
-|   211061494   | [Bruno Tarquinio Silva](https://github.com/brunotarquinio)        | 04/04/2024| [Papa](/Subgrupos/Papa)   |
-|   211031691   | [Fause Carlos](https://github.com/FauseSkyWalker)                 | 04/04/2024| [Papa](/Subgrupos/Papa)   |
-|   200059947   | [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  | 04/04/2024| [Papa](/Subgrupos/Papa)   |
+| Matricula |                               Nome                               | Data da reunião |        Subgrupo         |
+| :-------: | :--------------------------------------------------------------: | :-------------: | :---------------------: |
+| 211061494 |    [Bruno Tarquinio Silva](https://github.com/brunotarquinio)    |   04/04/2024    | [Papa](../../Subgrupos/Papa.md) |
+| 211031691 |        [Fause Carlos](https://github.com/FauseSkyWalker)         |   04/04/2024    | [Papa](../../Subgrupos/Papa.md) |
+| 200059947 | [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811) |   04/04/2024    | [Papa](../../Subgrupos/Papa.md) |
 
 </center>
 
 ## <a> *Técnicas escolhidas *</a>
 
-### Questionário
+### <a> *Questionário*</a>
 <p align="justify">&emsp;&emsp;A técnica de questionário foi escolhida tendo em vista a dificuldade de se ter contato com usuários do site da Terracap, logo,  o questionário poderia ser enviado em diversos meios e para conhecidos, pedindo que esses o preenchessem visando ter um contato direto com as opnioes e necessidades dos usuarios do site, sem tomar um grande tempo deles que outras técnicas demandariam.</p>
 
-### Entrevista
+### <a> *Entrevista*</a>
 <p align="justify">&emsp;&emsp;Após deliberação na entrevista, foi discutido que consegueriamos ter acesso direto a dois usuários do site, e por isso a segunda técnica escolhida para complementar o questionário foi a técnica de entrevista, na qual um membro do subgrupo realizou as perguntas do questionário diretamente a esses usuários do site, permitindo respostas mais completas e uma melhor visão acerca das necessidades e objetivos dos usuários do site.</p>
 
 ## <a> *Bibliografia* </a>
@@ -45,10 +45,10 @@
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                   |
-| ------ | ---------- | ---------------------- | ------------------------------------------------ | ----------------------------- |
-| `1.0`  | 06/04/2024 | Criação do documento   | [Papa](/Subgrupos/Papa)                          | [foxtrot](/Subgrupos/foxtrot)    |
-
+| Versão | Data       | Descrição            | Autor(es)                       | Revisor(es)                           |
+| ------ | ---------- | -------------------- | ------------------------------- | ------------------------------------- |
+| `1.0`  | 06/04/2024 | Criação do documento | [Papa](../../Subgrupos/Papa.md) | [foxtrot](../../Subgrupos/Foxtrot.md) |
+| `1.1`  | 07/04/2024 | Correções de Padrão | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](../../Subgrupos/Papa.md) |
 
 </center>
 
