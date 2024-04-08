@@ -6,7 +6,7 @@ A protipação envolve a criação de representações funcionais ou simulaçõe
 
 ## Objetivo
 
-O grupo desenvolveu um protótipo de alta fidelidade com base na etapa de [Prototype](1.5.DesingSprint.md) do Design sprint e no artefato [StoryBoard]().Foi utilizado a ferramenta Figma<a id="anchor_1" href="#FRM1">2</a> para simular a tela do site [Terracap](https://www.terracap.df.gov.br).
+O grupo desenvolveu um protótipo de alta fidelidade com base na etapa de [Prototype](1.5.DesingSprint.md) do Design sprint e no artefato [StoryBoard](). Foi utilizado a ferramenta Figma <a id="anchor_1" href="#FRM1">^2^</a> para simular a tela do site [Terracap](https://www.terracap.df.gov.br).
 
 Após a criação do protótipo, foi realizado uma entrevista com usuário real com base em um perfil de usuário apresentado pelo [questionário]() Essa entrevista permitiu coletar feedback valioso sobre a usabilidade das novas funcionalidades implementadas, a compreensão das funcionalidades e a eficácia do design proposto, para assim poder validar esses requisitos.
 
@@ -104,10 +104,10 @@ O objetivo da avaliação do protótipo de alta fidelidade é testar e obter fee
 
 > <a id="anchor_1" href="#REF1">1.</a> Design, Prototipação e Construção. In: ROGERS, Yvonne. Design de Interação: Além da Interação Humano-Computador. 3. ed. [S. l.]: Bookman, 2013. cap. 8, p. 259-297.cle
 
-> <a id="FRM1" href="#anchor_1">2.</a> Figma. Dispónivel: https://www.figma.com Acesso em: 06 de Abril 2024.
+> <a id="FRM1" href="#anchor_1">^2^.</a> Figma. Dispónivel: https://www.figma.com Acesso em: 06 de Abril 2024.
 
 ## Histórico de Versão
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
-`1.0` | 07/04/2024 | Criação do artefato  |[Yankee](../../Subgrupos/Yankee.md) | [[Foxtrot](../../Subgrupos/Foxtrot.md)
+`1.0` | 07/04/2024 | Criação do artefato  |[Yankee](../../Subgrupos/Yankee.md) | [Foxtrot](../../Subgrupos/Foxtrot.md)
