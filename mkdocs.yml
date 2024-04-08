@@ -50,8 +50,8 @@ nav:
     - Design Sprint: Base/DesignSprint.md
     - Técnicas de Elicitação: 
       - Base/TecnicasElicitacao/index.md
-      - Técnica1: Base/Tecnica1.md
-      - Técnica2: Base/Tecnica2.md
+      - Técnica1: Base/TecnicasElicitacao/Tecnica1.md
+      - Técnica2: Base/TecnicasElicitacao/Tecnica2.md
     - Artefatos Independentes:
       - Base/ArtefatosIndependentes/index.md
       - Heat Map: Base/ArtefatosIndependentes/Heatmap.md
