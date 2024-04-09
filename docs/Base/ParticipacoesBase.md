@@ -6,7 +6,7 @@
 | **Matrícula** |                             **Aluno**                              | **Participação** |                 **Descrição**                  |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :--------------------------------------------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |                       x                        |
-|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |                       x                        |
+|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |    Média         |    Atuou em algumas revisões                   |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |                       x                        |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        x         |                       x                        |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |                       x                        |
@@ -26,7 +26,7 @@
 | **Matrícula** |                             **Aluno**                              | **Participação** |                 **Descrição**                  |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :--------------------------------------------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |                       x                        |
-|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |                       x                        |
+|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |      Média       | Atuou na revisão do Questionário e da Entrevista |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |                       x                        |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        x         |                       x                        |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |                       x                        |
@@ -44,11 +44,11 @@
 | **Matrícula** |                             **Aluno**                              | **Participação** |               **Descrição**               |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :---------------------------------------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |                     x                     |
-|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |                     x                     |
+|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |    Excelente     | Atuou na confecção do Cronograma, Storyboard e Mapa mental, além de resoluções de problemas no Cronograma e Storyboard   |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |                     x                     |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        x         |                     x                     |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |                     x                     |
-|   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |    Excelente     | Atuou na Confexão do Heatmape Mapa mental |
+|   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |    Excelente     | Atuou na Confecção do Heatmap e Mapa mental |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        Boa        |                     Participou ativamente em revisões e contribuiu para resolução de problemas no artefato do cronograma e storyboard                    |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |                     x                     |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |                     x                     |
@@ -62,7 +62,7 @@
 | **Matrícula** |                             **Aluno**                              | **Participação** |                 **Descrição**                  |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :--------------------------------------------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |                       x                        |
-|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |                       x                        |
+|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |      Média       |           Atuou em algumas revisões            |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |                       x                        |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        x         |                       x                        |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |                       x                        |
