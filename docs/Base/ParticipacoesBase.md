@@ -11,7 +11,7 @@
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        x         |                       x                        |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |                       x                        |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |       Boa        | Atuou na revisão do padrão e correções visuais |
-|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |                       x                        |
+|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        Média         |   Atuou na revisão das tarefas                                          |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |                       x                        |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |                       x                        |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |                       x                        |
@@ -31,7 +31,7 @@
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        x         |                       x                        |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |                       x                        |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |       Boa        | Atuou na revisão do padrão e correções visuais |
-|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |                       x                        |
+|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        Média       |                       Atuou em algumas revisões                   |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |                       x                        |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |                       x                        |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |                       x                        |
@@ -49,7 +49,7 @@
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        x         |                     x                     |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |                     x                     |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |    Excelente     | Atuou na Confexão do Heatmape Mapa mental |
-|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |                     x                     |
+|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        Boa        |                     Participou ativamente em revisões e contribuiu para resolução de problemas no artefato do cronograma e storyboard                    |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |                     x                     |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |                     x                     |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |                     x                     |
@@ -67,7 +67,7 @@
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        x         |                       x                        |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |                       x                        |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |       Boa        | Atuou na revisão do padrão e correções visuais |
-|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |                       x                        |
+|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        Excelente        |                       Confeccionou o diagrama BPMN e auxiliou na confecção do artefato e do template                       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |                       x                        |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |                       x                        |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |                       x                        |
