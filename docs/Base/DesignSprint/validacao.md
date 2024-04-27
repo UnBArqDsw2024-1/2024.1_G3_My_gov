@@ -13,9 +13,9 @@ O teste foi realizado com apenas um usuário, tendo em vista que a adaptação d
   
 <center>
 
-| Entrevistador | Entrevistado | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Rafael Ferreira](https://github.com/RafaelCLG0) e [Arthur Grandão](https://github.com/arthurgrandao) |   Henrique Alarcão    |       17:06      |     17:11      | 07/04/2024| [Microsoft Teams](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.microsoft.com/pt-br/microsoft-teams/free&ved=2ahUKEwj_moXll7CFAxXgr5UCHQJKAmQQFnoECBUQAQ&usg=AOvVaw1T4J2z55tIx6ywhNp8Rn3e)|
+|                                             Entrevistador                                             |   Entrevistado   | Horário de Início | Horário de Fim |    Data    |                                                                                                           Local                                                                                                            |
+| :---------------------------------------------------------------------------------------------------: | :--------------: | :---------------: | :------------: | :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [Rafael Ferreira](https://github.com/RafaelCLG0) e [Arthur Grandão](https://github.com/arthurgrandao) | Henrique Alarcão |       17:06       |     17:11      | 07/04/2024 | [Microsoft Teams](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.microsoft.com/pt-br/microsoft-teams/free&ved=2ahUKEwj_moXll7CFAxXgr5UCHQJKAmQQFnoECBUQAQ&usg=AOvVaw1T4J2z55tIx6ywhNp8Rn3e) |
 
 Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0) e [Arthur Grandão](https://github.com/arthurgrandao).
 
@@ -38,16 +38,16 @@ Ao analisar o entrevistado foi relatado que o portal estáva bem coerente com os
 
 ## <a>*Referências Bibliográficas*</a>
 
-> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+    BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 
 <center>
 
 ## <a>*Histórico de Versões*</a>
 
-| Versão | Data       | Descrição                      | Autor(es)                                                                                         | Revisor(es)                                    |
-| ------ | ---------- | ------------------------------ | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| `1.0`    | 07/04/2024 | Criação da página     | [Yankee](../../Subgrupos/Yankee.md)  | [Papa](../../Subgrupos/Papa.md)  |
+| Versão |    Data    |      Descrição      |                    Autor(es)                     |             Revisor(es)             |
+| :----: | :--------: | :-----------------: | :----------------------------------------------: | :---------------------------------: |
+| `1.0`  | 07/04/2024 |  Criação da página  |       [Yankee](../../Subgrupos/Yankee.md)        |   [Papa](../../Subgrupos/Papa.md)   |
 | `1.1`  | 06/04/2024 | Correções de Padrão | [João Lucas](https://github.com/VasconcelosJoao) | [Yankee](../../Subgrupos/Yankee.md) |
 
 </center>

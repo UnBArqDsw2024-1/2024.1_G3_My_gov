@@ -41,10 +41,10 @@ Figura 1: BPMN metodologia de trabalho
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                   |
-| ------ | ---------- | ---------------------- | ------------------------------------------------ | ----------------------------- |
-| `1.0`  | 06/04/2024 | Criação do documento   | [Whiskey](../Subgrupos/Whiskey.md)                    | [Yankee](../Subgrupos/Yankee.md)   |
-| `1.1`  | 07/04/2024 | Formulação do Diagrama | [Whiskey](../Subgrupos/Whiskey.md)                    | [Foxtrot](../Subgrupos/Foxtrot.md) |
-| `1.1`  | 07/04/2024 | Correção do artefato   | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](../Subgrupos/Papa.md)       |
+| Versão |    Data    |       Descrição        |                    Autor(es)                     |            Revisor(es)             |
+| :----: | :--------: | :--------------------: | :----------------------------------------------: | :--------------------------------: |
+| `1.0`  | 06/04/2024 |  Criação do documento  |        [Whiskey](../Subgrupos/Whiskey.md)        |  [Yankee](../Subgrupos/Yankee.md)  |
+| `1.1`  | 07/04/2024 | Formulação do Diagrama |        [Whiskey](../Subgrupos/Whiskey.md)        | [Foxtrot](../Subgrupos/Foxtrot.md) |
+| `1.1`  | 07/04/2024 |  Correção do artefato  | [João Lucas](https://github.com/VasconcelosJoao) |    [Papa](../Subgrupos/Papa.md)    |
 
 </center>

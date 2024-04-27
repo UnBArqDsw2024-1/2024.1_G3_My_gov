@@ -1,15 +1,15 @@
-# <a>Cronograma</a>
+# <a>*Cronograma*</a>
 
-## <a>Introdução</a>
+## <a>*Introdução*</a>
 
  <p> O cronograma de um projeto visa a organização de todas as tarefas que serão realizadas durante o desenvolvimento de um projeto.Sendo assim, ele foi realizado para o planejamento e controle das atividades realizadas, permitindo que as tarefas sejam organizadas e executadas de forma eficiente. </p>
 
 
-## <a>Metodologia</a>
+## <a>*Metodologia*</a>
 
  O cronograma será separado conforme as entregas e os respectivos artefatos escolhidos pelo grupo, com os autores e data de entrega previstos para cada artefato, assim como revisores. Devido a separação em subgrupos, os autores e revisores serão apresentados em forma de subgrupo, para permitir maior integração de todos em cada parte do projeto.
 
-## <a>Cronograma geral</a>
+## <a>*Cronograma geral*</a>
 
 Na tabela 1 abaixo será mostrado as datas de entrega dos pontos de controle do projeto
 
@@ -20,11 +20,11 @@ Na tabela 1 abaixo será mostrado as datas de entrega dos pontos de controle do 
 | 20/05/24    | Entrega 3 (DSW Padrões de Projeto)                 | Padrões de Projeto GoFs diversos                                          |
 | 21/06/24    | Entrega 4 (Arquitetura & Reutilização de Software) | Especificação de Visões do DAS e  Parte Conceitual/Código de Reutilização |
 
-## <a>Cronogramas Dos Pontos de Controle</a>
+## <a>*Cronogramas Dos Pontos de Controle*</a>
 
 Abaixo, nas tabelas 02 a 5, será apresentado os cronogramas dos pontos de controle do projeto.
 
-### <a>Cronograma ponto de controle 1</a>
+### <a>*Cronograma ponto de controle 1*</a>
 
 | Atividade     | Data Limite | Autor(es)                             | Revisor(es)                           |
 | ------------- | ----------- | ------------------------------------- | ------------------------------------- |
@@ -38,7 +38,7 @@ Abaixo, nas tabelas 02 a 5, será apresentado os cronogramas dos pontos de contr
 
 
 
-### <a>Cronograma ponto de controle 2</a>
+### <a>*Cronograma ponto de controle 2*</a>
 
 | Atividade                           | Data Limite | Autor(es)                                                                    | Revisor(es)                                                                  |
 | ----------------------------------- | ----------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -55,7 +55,7 @@ Abaixo, nas tabelas 02 a 5, será apresentado os cronogramas dos pontos de contr
 
 
 
-### <a>Cronograma ponto de controle 3</a>
+### <a>*Cronograma ponto de controle 3*</a>
 
 | Atividade                                 | Data Limite | Autor(es)                                                                    | Revisor(es)                                                                  |
 | ----------------------------------------- | ----------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -67,7 +67,7 @@ Abaixo, nas tabelas 02 a 5, será apresentado os cronogramas dos pontos de contr
 | Padrão GoF Comportamental (Implementação) | 20/05/24    | [Yankee](../../Subgrupos/Yankee.md), [Papa](../../Subgrupos/Papa.md)         | [Foxtrot](../../Subgrupos/Foxtrot.md), [Whiskey](../../Subgrupos/Whiskey.md) |
 
 
-### <a>Cronograma ponto de controle 4</a>
+### <a>*Cronograma ponto de controle 4*</a>
 
 | Atividade                               | Data Limite | Autor(es)                                                                    | Revisor(es)                                                                  |
 | --------------------------------------- | ----------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -80,20 +80,21 @@ Abaixo, nas tabelas 02 a 5, será apresentado os cronogramas dos pontos de contr
 
 
 
-## <a>*Bibliografia*</a>
+## <a>**Bibliografia**</a>
 
     Cronograma: o que é? Como fazer? Exemplos e modelos editáveis. Disponível em: https://miro.com/pt/cronograma/o-que-e-cronograma/.
     ESPINHA, R. G. Cronograma de Projeto: como montar em 5 passos. Disponível em: https://artia.com/blog/cronograma-de-projetos/.
 
 <center>
 
-## <a>*Histórico de Versão*</a>
+## <a>**Histórico de Versão**</a>
 
-| Versão | Data       | Descrição                                                          | Autor(es)                                        | Revisor(es)                           |
-| ------ | ---------- | ------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------- |
-| `1.0`  | 06/04/2024 | Criação do documento                                               | [Foxtrot](../../Subgrupos/Foxtrot.md)            | [Whiskey](../../Subgrupos/Whiskey.md) |
-| `1.1`  | 07/04/2024 | Ajuste dos autores e revisores                                     | [Foxtrot](../../Subgrupos/Foxtrot.md)            | [Whiskey](../../Subgrupos/Whiskey.md) |
-| `1.2`  | 07/04/2024 | Acrescentando texto introdutório e adicionando ponto de controle 2 | [Yankee](../../Subgrupos/Yankee.md)              | [Papa](../../Subgrupos/Papa.md)       |
-| `1.3`  | 07/04/2024 | Correção de Hiperlinks e do texto                                  | [João Lucas](https://github.com/VasconcelosJoao) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
+| Versão |    Data    |             Descrição             |                    Autor(es)                     |                   Revisor(es)                    |
+| :----: | :--------: | :-------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
+| `1.0`  | 06/04/2024 |       Criação do documento        |      [Foxtrot](../../Subgrupos/Foxtrot.md)       |      [Whiskey](../../Subgrupos/Whiskey.md)       |
+| `1.1`  | 07/04/2024 |  Ajuste dos autores e revisores   |      [Foxtrot](../../Subgrupos/Foxtrot.md)       |      [Whiskey](../../Subgrupos/Whiskey.md)       |
+| `1.2`  | 07/04/2024 | Acrescentando texto introdutório  |       [Yankee](../../Subgrupos/Yankee.md)        |         [Papa](../../Subgrupos/Papa.md)          |
+| `1.3`  | 07/04/2024 |  Adicionando ponto de controle 2  |       [Yankee](../../Subgrupos/Yankee.md)        | [João Lucas](https://github.com/VasconcelosJoao) |
+| `1.4`  | 07/04/2024 | Correção de Hiperlinks e do texto | [João Lucas](https://github.com/VasconcelosJoao) |      [Foxtrot](../../Subgrupos/Foxtrot.md)       |
 
 </center>

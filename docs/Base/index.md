@@ -36,8 +36,8 @@ O Desenho de Software (Base) é importante por diversos motivos:
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão |    Data    |      Descrição      |                      Autor                       |            Revisor            |
-| :----: | :--------: | :-----------------: | :----------------------------------------------: | :---------------------------: |
+| Versão |    Data    |      Descrição      |                      Autor                       |              Revisor               |
+| :----: | :--------: | :-----------------: | :----------------------------------------------: | :--------------------------------: |
 | `1.0`  | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Foxtrot](../Subgrupos/Foxtrot.md) |
 
 </center>

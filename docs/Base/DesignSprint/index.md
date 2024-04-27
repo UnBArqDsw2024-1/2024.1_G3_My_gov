@@ -37,15 +37,15 @@ Durante este trabalho, adotamos metodologias ágeis como SCRUM e uma versão ada
 
 ## <a>*Bibliografia*</a>
 
-> GOOGLE VENTURES. The Design Sprint, 2023. Disponível em: <<http://www.gv.com/sprint/>>. Acesso em: 03/04/2024.
+    GOOGLE VENTURES. The Design Sprint, 2023. Disponível em: <<http://www.gv.com/sprint/>>. Acesso em: 03/04/2024.
 
 <center>
 
 ## <a>*Histórico de Versões*</a>
 
-| Versão | Data       | Descrição           | Autor(es)                           | Revisor(es)                     |
-| ------ | ---------- | ------------------- | ----------------------------------- | ------------------------------- |
-| `1.0`  | 07/04/2024 | Criação do artefato | [Yankee](../../Subgrupos/Yankee.md) | [Papa](../../Subgrupos/Papa.md) |
+| Versão |    Data    |      Descrição      |                    Autor(es)                     |              Revisor(es)              |
+| :----: | :--------: | :-----------------: | :----------------------------------------------: | :-----------------------------------: |
+| `1.0`  | 07/04/2024 | Criação do artefato |       [Yankee](../../Subgrupos/Yankee.md)        |    [Papa](../../Subgrupos/Papa.md)    |
 | `1.1`  | 06/04/2024 | Correções de Padrão | [João Lucas](https://github.com/VasconcelosJoao) | [foxtrot](../../Subgrupos/Foxtrot.md) |
 
 </center>
