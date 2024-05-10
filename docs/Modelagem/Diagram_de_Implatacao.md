@@ -11,9 +11,9 @@
 ![alt text](../../Assets/DiagramaImplantacao/DiagramadeImplantacao.png)
 
 </center>
+
+
 ## <a> *Notação do Diagrama de implantação* </a>
-
-
 
 
 ### <a> *Computador* </a> 
