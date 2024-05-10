@@ -7,3 +7,42 @@
 ## <a> *Diagrama* </a>
 
  Foto do diagram
+
+## <a> *Notação do Diagrama de implantação* </a>
+
+
+
+
+### <a> *Computador* </a> 
+
+O usuário, por meio de um computador com acesso a internet acessa um navegador para entrar no site.
+
+### <a> *Firewall* </a>
+
+Monitora e controla o tráfego de entrada e de saída a fim de garantir a segurança e integridade do sistema.
+
+### <a> *WebServer* </a>
+
+ Atende às solicitações dos usuários através de uma interface web.
+
+### <a> *Servidor da aplicação* </a>
+
+ Executa a lógica de negócios do sistema e manipula operações sobre os dados.
+
+### <a> *Banco de dados* </a> 
+
+Usado para  armazenar e gerenciar dados como também assegurar sua segurança e integridade.
+
+### <a> *Sistema de notificações* </a> 
+
+Enviará notificações aos usuários por email sobre o status de suas solicitações.
+
+### <a> *Conexões externas* </a> 
+
+Realizar, por meio de APIs, a conexão com outros sistemas conforme a necessidade identificada na etapa anterior do projeto.
+
+A conexão entre os componentes do diagrama em sua maioria se dá através do protocolo TCP/IP, que de maneira geral é o padrão dominante para comunicações em redes de dados. 
+	Quando usuários acessam o sistema através de uma interface web, o servidor web e o servidor da aplicação comunicam-se utilizando TCP/IP para trocar dados e comandos.
+Conexões de Banco de Dados: O servidor de aplicações se comunica com servidores de banco de dados usando TCP/IP, garantindo que as transações de dados sejam realizadas de maneira segura e eficiente. 
+A conexão entre o banco de dados e o sistema de notificações seria por meio também do protocolo TCP/IP permitindo que esse sistema acesse informações atualizadas de forma confiável e segura para executar suas funções de notificação corretamente.
+
