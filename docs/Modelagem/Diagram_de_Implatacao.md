@@ -46,3 +46,18 @@ A conexão entre os componentes do diagrama em sua maioria se dá através do pr
 Conexões de Banco de Dados: O servidor de aplicações se comunica com servidores de banco de dados usando TCP/IP, garantindo que as transações de dados sejam realizadas de maneira segura e eficiente. 
 A conexão entre o banco de dados e o sistema de notificações seria por meio também do protocolo TCP/IP permitindo que esse sistema acesse informações atualizadas de forma confiável e segura para executar suas funções de notificação corretamente.
 
+
+## <a> *Conclusão* </a>
+
+O diagrama de implantação apresentado revela uma arquitetura de sistema robusta e bem estruturada, composta por hardware e software interligados de forma eficiente. A análise do diagrama permite observar que a infraestrutura em camadas garante modularidade, facilitando manutenções e expansões futuras. A segurança da rede é protegida por firewalls, enquanto a comunicação entre os componentes se dá através do protocolo TCP/IP, um padrão confiável e eficiente. As comunicações direcionadas e seguras minimizam o risco de perda ou interceptação de dados. Em suma, o diagrama demonstra um sistema bem estruturado, com foco na segurança e eficiência. A documentação completa, incluindo detalhes sobre dimensionamento, redundância e monitoramento, é crucial para uma avaliação completa da sua capacidade de atender às demandas do negócio.
+
+## <a>*Referências Bibliográficas*</a>
+
+- add as referencias
+
+## <a>*Histórico de Versão*</a>
+
+| Versão | Data       | Descrição            | Autor(es)                    | Revisor(es)                        |
+| ------ | ---------- | -------------------- | ---------------------------- | ---------------------------------- |
+| `1.0`  | 10/05/2024 | Criação do documento | [Papa](../../Subgrupos/Papa.md) | |
+| `1.1`  |  | Correções de Padrão | | 
