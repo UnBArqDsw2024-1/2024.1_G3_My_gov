@@ -18,7 +18,7 @@
 
 <center>
 
-[alt text](../../Assets/Base/Questionario/ResultadoIdade.jpeg)
+![alt text](../../Assets/Base/Questionario/ResultadoIdade.jpeg)
 
 </center>
 
