@@ -67,7 +67,6 @@ nav:
   - Modelagem:
     - Modelagem/index.md
     - Diagrama de implantação:  Modelagem/Diagram_de_Implatacao.md
- 
   - Padrões de Projeto:
     - PadroesDeProjeto/index.md
   - Arquitetura de Software & Reutilização:
