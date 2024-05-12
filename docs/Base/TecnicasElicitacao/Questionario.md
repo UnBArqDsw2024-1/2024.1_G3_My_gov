@@ -18,7 +18,7 @@
 
 <center>
 
-[alt text](../../Assets/Base/Questionario/ResultadoIdade.jpeg)
+![alt text](../../Assets/Base/Questionario/ResultadoIdade.jpeg)
 
 </center>
 
@@ -110,9 +110,9 @@
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão | Data       | Descrição            | Autor(es)                       | Revisor(es)                           |
-| ------ | ---------- | -------------------- | ------------------------------- | ------------------------------------- |
-| `1.0`  | 06/04/2024 | Criação do documento | [Papa](../../Subgrupos/Papa.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
-| `1.1`  | 06/04/2024 | Correções de Padrão | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](../../Subgrupos/Papa.md) |
+| Versão |    Data    |      Descrição       |                    Autor(es)                     |              Revisor(es)              |
+| :----: | :--------: | :------------------: | :----------------------------------------------: | :-----------------------------------: |
+| `1.0`  | 06/04/2024 | Criação do documento |         [Papa](../../Subgrupos/Papa.md)          | [Foxtrot](../../Subgrupos/Foxtrot.md) |
+| `1.1`  | 06/04/2024 | Correções de Padrão  | [João Lucas](https://github.com/VasconcelosJoao) |    [Papa](../../Subgrupos/Papa.md)    |
 
 </center>

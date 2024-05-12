@@ -14,3 +14,12 @@
 <p align="justify">&emsp;&emsp; Idade: 36 anos</p>
 <p align="justify">&emsp;&emsp; Profissão: Analista de Marketing</p>
 <p align="justify">&emsp;&emsp; Luana é uma profissional de marketing experiente que trabalha para uma empresa de médio porte. Ela é apaixonada por estratégias de marketing digital e está sempre buscando maneiras de melhorar o desempenho das campanhas online da empresa em que trabalha. Luana é uma pessoa muito ocupada e está sempre buscando ferramentas que possam ajudá-la a economizar tempo e aprimorar suas habilidades.</p>
+
+<center>
+
+## <a>*Histórico de Versão*</a>
+
+| Versão |    Data    |      Descrição      |            Autor(es)            |              Revisor(es)              |
+| :----: | :--------: | :-----------------: | :-----------------------------: | :-----------------------------------: |
+| `1.0`  | 06/04/2024 | Criação do artefato | [Papa](../../Subgrupos/Papa.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
+</center>

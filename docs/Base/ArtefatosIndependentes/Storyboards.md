@@ -28,10 +28,10 @@ O usuário utiliza o site para regularizar um imóvel, encontrando informações
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão | Data       | Descrição              | Autor(es)                     | Revisor(es)                                      |
-| ------ | ---------- | ---------------------- | ----------------------------- | ------------------------------------------------ |
-| `1.0`  | 06/04/2024 | Criação do documento   | [Foxtrot](../../Subgrupos/Foxtrot.md) | [Yankee](../../Subgrupos/Yankee.md)  |
-| `1.1`  | 07/04/2024 | Adição dos storyboards |[Foxtrot](../../Subgrupos/Foxtrot.md) | [Papa](../../Subgrupos/Papa.md)          |
+| Versão |    Data    |       Descrição        |               Autor(es)               |             Revisor(es)             |
+| :----: | :--------: | :--------------------: | :-----------------------------------: | :---------------------------------: |
+| `1.0`  | 06/04/2024 |  Criação do documento  | [Foxtrot](../../Subgrupos/Foxtrot.md) | [Yankee](../../Subgrupos/Yankee.md) |
+| `1.1`  | 07/04/2024 | Adição dos storyboards | [Foxtrot](../../Subgrupos/Foxtrot.md) |   [Papa](../../Subgrupos/Papa.md)   |
 
 
 </center>
