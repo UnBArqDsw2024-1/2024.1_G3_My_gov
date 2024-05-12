@@ -61,13 +61,13 @@ Na entrevista estarão disponíveis capturas de tela para que o usuário possa v
 
 **Tabela 1** - Perguntas ao usuário.
 
-| ID | Enunciado| Resposta| Justificativa |
-| :---: | :----------------------------------------------------------: | :-----------------:|:------------|
-|   1   |   A interface apresentada foi de fácil utilização?        |     Aberta         | Justifique |
-|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |     Aberta         | Justifique |
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |     Aberta         | Justifique |
-|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Aberta         | Justifique |
-|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |     Aberta         | Justifique |
+|  ID   |                                      Enunciado                                       | Resposta | Justificativa |
+| :---: | :----------------------------------------------------------------------------------: | :------: | :------------ |
+|   1   |                   A interface apresentada foi de fácil utilização?                   |  Aberta  | Justifique    |
+|   2   |        Você acredita que as tarefas solicitadas correspondem com ações reais?        |  Aberta  | Justifique    |
+|   3   |           Alguma sugestão com relação à dispozição dos elementos na tela?            |  Aberta  | Justifique    |
+|   4   | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? |  Aberta  | Justifique    |
+|   5   |       Você encontrou alguma inconsistência ou erro durante o uso da interface?       |  Aberta  | Justifique    |
 
 
 **Fonte** [Rafael Ferreira](https://github.com/RafaelCLG0).
@@ -81,14 +81,14 @@ Na entrevista estarão disponíveis capturas de tela para que o usuário possa v
 
 **Tabela 2** - Perguntas a serem observadas pelos avaliadores.
 
-| ID | Enunciado| Resposta| 
-| :---: | :----------------------------------------------------------: | :-----------------:|
-|   1   |   O usuário conseguiu operar o sistema      |     Fechada     | 
-|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     Aberta    | 
-|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Fechada     | 
-|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Aberta    | 
-|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |     Aberta     | 
-|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Aberta     | 
+|  ID   |                                                   Enunciado                                                   | Resposta |
+| :---: | :-----------------------------------------------------------------------------------------------------------: | :------: |
+|   1   |                                     O usuário conseguiu operar o sistema                                      | Fechada  |
+|   2   |         Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?          |  Aberta  |
+|   3   |                               Ele entendeu o que deveria ser feito em seguida?                                | Fechada  |
+|   4   | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? |  Aberta  |
+|   5   |                        Quais barreiras o usuário encontrou ao atingir seus objetivos?                         |  Aberta  |
+|   6   |                 Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?                 |  Aberta  |
 
 
 **Fonte** [Rafael Ferreira](https://github.com/RafaelCLG0).
@@ -107,17 +107,16 @@ O objetivo da avaliação do protótipo de alta fidelidade é testar e obter fee
 
 ## <a>*Referências Bibliográficas*</a>
 
-> <a id="anchor_1" href="#REF1">1.</a> Design, Prototipação e Construção. In: ROGERS, Yvonne. Design de Interação: Além da Interação Humano-Computador. 3. ed. [S. l.]: Bookman, 2013. cap. 8, p. 259-297.cle
-
-> <a id="FRM1" href="#anchor_1">^2^.</a> Figma. Dispónivel: https://www.figma.com Acesso em: 06 de Abril 2024.
+    Design, Prototipação e Construção. In: ROGERS, Yvonne. Design de Interação: Além da Interação Humano-Computador. 3. ed. [S. l.]: Bookman, 2013. cap. 8, p. 259-297.cle
+    Figma. Dispónivel: https://www.figma.com Acesso em: 06 de Abril 2024.
 
 <center>
 
 ## <a>*Histórico de Versão*</a>
 
-Versão  | Data | Descrição | Autor(es) | Revisor(es)
--------- | ------ | ------ | ---------- | ----------
-`1.0` | 07/04/2024 | Criação do artefato  |[Yankee](../../Subgrupos/Yankee.md) | [Foxtrot](../../Subgrupos/Foxtrot.md)
-| `1.1`  | 06/04/2024 | Correções de Padrão | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](../../Subgrupos/Papa.md) |
+| Versão |    Data    |      Descrição      |                    Autor(es)                     |              Revisor(es)              |
+| :----: | :--------: | :-----------------: | :----------------------------------------------: | :-----------------------------------: |
+| `1.0`  | 07/04/2024 | Criação do artefato |       [Yankee](../../Subgrupos/Yankee.md)        | [Foxtrot](../../Subgrupos/Foxtrot.md) |
+| `1.1`  | 06/04/2024 | Correções de Padrão | [João Lucas](https://github.com/VasconcelosJoao) |    [Papa](../../Subgrupos/Papa.md)    |
 
 </center>

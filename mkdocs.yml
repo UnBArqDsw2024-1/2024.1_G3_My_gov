@@ -63,10 +63,18 @@ nav:
       - Mapa Mental: Base/ArtefatosIndependentes/MapaMental.md
       - Storyboard: Base/ArtefatosIndependentes/Storyboards.md
     - Metodologia: Base/Metodologia.md
-    - Participações - Base: Base/ParticipacoesBase.md
+    - Participações: Base/Participacoes.md
   - Modelagem:
     - Modelagem/index.md
-    - Diagrama de implantação:  Modelagem/Diagram_de_Implatacao.md
+    - Modelagem Estática:
+      - Modelagem/ModelagemEstatica/index.md
+      - Diagrama de Classes: Modelagem/ModelagemEstatica/DiagramaDeClasses.md
+      - Diagrama de Implantacao: Modelagem/ModelagemEstatica/Diagram_de_Implatacao.md
+    - Modelagem Dinâmica:
+      - Modelagem/ModelagemDinamica/index.md
+      - Diagrama de Sequencia: Modelagem/ModelagemDinamica/DiagramaDeSequencia.md
+      - Diagrama de Atividades: Modelagem/ModelagemDinamica/DiagramaDeAtividades.md
+    - Participações: Modelagem/Participacoes.md
   - Padrões de Projeto:
     - PadroesDeProjeto/index.md
   - Arquitetura de Software & Reutilização:
