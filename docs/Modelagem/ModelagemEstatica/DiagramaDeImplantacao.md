@@ -58,11 +58,11 @@ A conexão entre o banco de dados e o sistema de notificações seria por meio t
 
 ## <a>*Referências Bibliográficas*</a>
 
-1. Creately. Tutorial do diagrama de implantação. Disponível em: https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-implantacao. Acesso em: 06 de maio de 2024.
-
-2. Lucidchart. O que é diagrama de implementação UML. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-implementacao-uml. Acesso em: 06 de maio de 2024.
-
-3. IBM. Topologias de diagramas de implantação. Disponível em: https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=topologies-deployment-diagrams. Acesso em: 06 de maio de 2024.
+    Creately. Tutorial do diagrama de implantação. Disponível em: https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-implantacao. Acesso em: 06 de maio de 2024.
+    
+    Lucidchart. O que é diagrama de implementação UML. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-implementacao-uml. Acesso em: 06 de maio de 2024.
+    
+    IBM. Topologias de diagramas de implantação. Disponível em: https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=topologies-deployment-diagrams. Acesso em: 06 de maio de 2024.
 
 <center>
 
