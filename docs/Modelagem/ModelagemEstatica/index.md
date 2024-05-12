@@ -99,4 +99,4 @@ A modelagem estática é uma etapa fundamental no desenvolvimento de software or
 
 | Versão |    Data    |      Descrição      |                    Autor(es)                     |             Revisor(es)             |
 | :----: | :--------: | :-----------------: | :----------------------------------------------: | :---------------------------------: |
-|  1.0   | 27/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Yankee](../../Subgrupos/Yankee.md) |
+| `1.0`  | 27/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Yankee](../../Subgrupos/Yankee.md) |

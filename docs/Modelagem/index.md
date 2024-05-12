@@ -49,4 +49,4 @@ A modelagem de software é uma prática fundamental para o desenvolvimento de so
 
 | Versão |    Data    |      Descrição      |                    Autor(es)                     |         Revisor(es)          |
 | :----: | :--------: | :-----------------: | :----------------------------------------------: | :--------------------------: |
-|  1.0   | 27/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](../Subgrupos/Papa.md) |
+|  `1.0`   | 27/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](../Subgrupos/Papa.md) |

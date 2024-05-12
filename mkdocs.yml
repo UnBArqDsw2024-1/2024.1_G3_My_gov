@@ -69,7 +69,7 @@ nav:
     - Modelagem Estática:
       - Modelagem/ModelagemEstatica/index.md
       - Diagrama de Classes: Modelagem/ModelagemEstatica/DiagramaDeClasses.md
-      - Diagrama de Implantacao: Modelagem/ModelagemEstatica/Diagram_de_Implatacao.md
+      - Diagrama de Implantacao: Modelagem/ModelagemEstatica/DiagramaDeImplantacao.md
     - Modelagem Dinâmica:
       - Modelagem/ModelagemDinamica/index.md
       - Diagrama de Sequencia: Modelagem/ModelagemDinamica/DiagramaDeSequencia.md
