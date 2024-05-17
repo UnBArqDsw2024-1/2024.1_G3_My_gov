@@ -1,0 +1,42 @@
+# Diagrama de Atividade
+
+Um Diagrama de Atividade é uma representação gráfica que ilustra o fluxo de atividades em um sistema ou processo. Ele mostra como as operações são realizadas, em que sequência e sob quais condições. Este diagrama é útil para visualizar tanto o fluxo de controle (sequência de ações) quanto o fluxo de dados (movimentação de objetos) dentro do sistema.
+
+## Principais Elementos de um Diagrama de Atividade
+
+1. Atividades
+
+Representam ações ou etapas individuais no processo. São normalmente desenhadas como retângulos arredondados.
+
+2. Transições
+
+Setas que mostram a sequência de atividades.
+
+3. Decisões
+
+Representadas por losangos, indicam pontos no fluxo onde uma escolha é feita.
+
+4. Estados Iniciais e Finais
+
+O estado inicial é indicado por um círculo sólido, e o estado final por um círculo com um círculo menor dentro.
+
+5. Ramos e Junções
+
+Mostram pontos onde o fluxo pode se dividir em várias direções ou convergir de várias direções em uma só.
+
+6. Pools e Swimlanes
+
+Utilizados para organizar atividades que pertencem a diferentes agentes ou partes do sistema.
+
+## Vantagens do Diagrama de Atividade
+
+- Fluxo de Controle: Proporciona uma visão clara de como as atividades estão interligadas e a sequência em que ocorrem.
+- Identificação de Condições: Ajuda a identificar e entender pontos de decisão no processo.
+- Comunicação: Serve como uma linguagem comum visual que facilita a comunicação entre membros da equipe, que podem ter diferentes níveis de entendimento técnico.
+- Planejamento e Design: Auxilia no planejamento do sistema, destacando como os processos interagem, o que é essencial para o design e implementação eficazes.
+
+## Quando Usar um Diagrama de Atividade?
+
+- Desenvolvimento de Software: Para mapear a lógica de processos complexos ou casos de uso específicos.
+- Modelagem de Processos de Negócio: Para visualizar e melhorar processos de negócios.
+- Documentação de Sistemas: Para criar uma documentação clara e compreensível dos fluxos de trabalho.
