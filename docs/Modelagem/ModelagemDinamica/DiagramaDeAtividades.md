@@ -32,7 +32,15 @@ Utilizados para organizar atividades que pertencem a diferentes agentes ou parte
 
 ## Fluxo de login
 
-![Alt text](../../../../Assets/DiagramaAtividades/login.jpeg)
+![Diagrama de atividades do login](../../../../Assets/DiagramaAtividades/login.jpeg)
+
+## Fluxo de cadastro
+
+![Diagrama de atividades do cadastro](../../../../Assets/DiagramaAtividades/cadastro.jpeg)
+
+## Fluxo de declaração da retrovenda
+
+![Diagrama de atividades da declaração da retrovenda](../../../../Assets/DiagramaAtividades/retrovenda.jpeg)
 
 ## Vantagens do Diagrama de Atividade
 
