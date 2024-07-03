@@ -54,3 +54,15 @@ Utilizados para organizar atividades que pertencem a diferentes agentes ou parte
 - Desenvolvimento de Software: Para mapear a lógica de processos complexos ou casos de uso específicos.
 - Modelagem de Processos de Negócio: Para visualizar e melhorar processos de negócios.
 - Documentação de Sistemas: Para criar uma documentação clara e compreensível dos fluxos de trabalho.
+
+<center>
+
+## <a>*Histórico de Versão*</a>
+
+| Versão |    Data    |      Descrição       |                    Autor(es)                     |              Revisor(es)              |
+| :----: | :--------: | :------------------: | :----------------------------------------------: | :-----------------------------------: |
+| `1.0`  | 03/06/2024 | Criação do documento | [Vitor B.](https://github.com/VitorB2002) | |
+| `1.1`  | 01/07/2024 | Adicionado diagrama de Login | [Vitor B.](https://github.com/VitorB2002) | |
+| `1.2`  | 02/07/2024 | Adicionado diagrama de Retrovenda | [Vitor B.](https://github.com/VitorB2002) | |
+
+</center>
