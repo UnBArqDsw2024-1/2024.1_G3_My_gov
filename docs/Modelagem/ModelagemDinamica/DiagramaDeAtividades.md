@@ -28,6 +28,12 @@ Mostram pontos onde o fluxo pode se dividir em várias direções ou convergir d
 
 Utilizados para organizar atividades que pertencem a diferentes agentes ou partes do sistema.
 
+# Fluxos
+
+## Fluxo de login
+
+![Alt text](../../../../Assets/DiagramaAtividades/login.jpeg)
+
 ## Vantagens do Diagrama de Atividade
 
 - Fluxo de Controle: Proporciona uma visão clara de como as atividades estão interligadas e a sequência em que ocorrem.
