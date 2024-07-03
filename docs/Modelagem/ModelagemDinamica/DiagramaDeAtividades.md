@@ -30,15 +30,15 @@ Utilizados para organizar atividades que pertencem a diferentes agentes ou parte
 
 # Fluxos
 
-## Fluxo de login
-
-![Diagrama de atividades do login](../../../../Assets/DiagramaAtividades/login.jpeg)
-
-## Fluxo de cadastro
+## Cadastro
 
 ![Diagrama de atividades do cadastro](../../../../Assets/DiagramaAtividades/cadastro.jpeg)
 
-## Fluxo de declaração da retrovenda
+## Login
+
+![Diagrama de atividades do login](../../../../Assets/DiagramaAtividades/login.jpeg)
+
+## Solicitar Declaração de Retrovenda
 
 ![Diagrama de atividades da declaração da retrovenda](../../../../Assets/DiagramaAtividades/retrovenda.jpeg)
 
