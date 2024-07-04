@@ -4,27 +4,27 @@ Um Diagrama de Atividade é uma representação gráfica que ilustra o fluxo de 
 
 ## Principais Elementos de um Diagrama de Atividade
 
-1. Atividades
+#####  1. Atividades
 
 Representam ações ou etapas individuais no processo. São normalmente desenhadas como retângulos arredondados.
 
-2. Transições
+##### 2. Transições
 
 Setas que mostram a sequência de atividades.
 
-3. Decisões
+##### 3. Decisões
 
 Representadas por losangos, indicam pontos no fluxo onde uma escolha é feita.
 
-4. Estados Iniciais e Finais
+##### 4. Estados Iniciais e Finais
 
 O estado inicial é indicado por um círculo sólido, e o estado final por um círculo com um círculo menor dentro.
 
-5. Ramos e Junções
+##### 5. Ramos e Junções
 
 Mostram pontos onde o fluxo pode se dividir em várias direções ou convergir de várias direções em uma só.
 
-6. Pools e Swimlanes
+##### 6. Pools e Swimlanes
 
 Utilizados para organizar atividades que pertencem a diferentes agentes ou partes do sistema.
 
@@ -32,15 +32,15 @@ Utilizados para organizar atividades que pertencem a diferentes agentes ou parte
 
 ## Cadastro
 
-![Diagrama de atividades do cadastro](../../../../Assets/DiagramaAtividades/cadastro.jpeg)
+![Diagrama de atividades do cadastro](../../Assets/DiagramaAtividades/cadastro.jpeg)
 
 ## Login
 
-![Diagrama de atividades do login](../../../../Assets/DiagramaAtividades/login.jpeg)
+![Diagrama de atividades do login](../../Assets/DiagramaAtividades/login.jpeg)
 
 ## Solicitar Declaração de Retrovenda
 
-![Diagrama de atividades da declaração da retrovenda](../../../../Assets/DiagramaAtividades/retrovenda.jpeg)
+![Diagrama de atividades da declaração da retrovenda](../../Assets/DiagramaAtividades/retrovenda.jpeg)
 
 ## Vantagens do Diagrama de Atividade
 
@@ -62,7 +62,8 @@ Utilizados para organizar atividades que pertencem a diferentes agentes ou parte
 | Versão |    Data    |      Descrição       |                    Autor(es)                     |              Revisor(es)              |
 | :----: | :--------: | :------------------: | :----------------------------------------------: | :-----------------------------------: |
 | `1.0`  | 03/06/2024 | Criação do documento | [Vitor B.](https://github.com/VitorB2002) | |
-| `1.1`  | 01/07/2024 | Adicionado diagrama de Login | [Vitor B.](https://github.com/VitorB2002) | |
-| `1.2`  | 02/07/2024 | Adicionado diagrama de Retrovenda | [Vitor B.](https://github.com/VitorB2002) | |
+| `1.1`  | 01/07/2024 | Adicionado diagrama de Login | [Vitor B.](https://github.com/VitorB2002) | [Joao Nobrega](https://github.com/bot-do-jao) |
+| `1.2`  | 02/07/2024 | Adicionado diagrama de Retrovenda | [Vitor B.](https://github.com/VitorB2002) | [Joao Nobrega](https://github.com/bot-do-jao) |
+| `1.3`  | 04/07/2024 | Correção das imagens e revisão | [Joao Nobrega](https://github.com/bot-do-jao) | |
 
 </center>
