@@ -65,6 +65,13 @@ Utilizados para organizar atividades que pertencem a diferentes agentes ou parte
 - Modelagem de Processos de Negócio: Para visualizar e melhorar processos de negócios.
 - Documentação de Sistemas: Para criar uma documentação clara e compreensível dos fluxos de trabalho.
 
+## Bibliografia
+
+[1] SERRANO. MILENE, AULA - MODELAGEM UML DIN MICA, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2790248/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20Modelagem%20UML%20Din%C3%A2mica%20-%20Profa.%20Milene.pdf>
+
+[2] LUCIDCHART, UML Activity Diagram Tutorial. Disponível em: <https://www.lucidchart.com/pages/uml-activity-diagram>
+
+
 <center>
 
 ## <a>*<a>*Histórico de Versão*</a>*</a>
@@ -75,5 +82,6 @@ Utilizados para organizar atividades que pertencem a diferentes agentes ou parte
 | `1.1`  | 01/07/2024 |   Adicionado diagrama de Login    | [Whiskey](../../Subgrupos/Whiskey.md) |       [Yankee](../../Subgrupos/Yankee.md)        |
 | `1.2`  | 02/07/2024 | Adicionado diagrama de Retrovenda | [Whiskey](../../Subgrupos/Whiskey.md) |      [Foxtrot](../../Subgrupos/Foxtrot.md)       |
 | `1.3`  | 04/07/2024 |  Correção das imagens e revisão   | [Whiskey](../../Subgrupos/Whiskey.md) |         [Papa](../../Subgrupos/Papa.md)          |
+| `1.4`  | 05/07/2024 | Adição de Introdução, Metodologia e Bibliografia | [Whiskey](../../Subgrupos/Whiskey.md)| [Papa](../../Subgrupos/Papa.md)    |
 
 </center>
