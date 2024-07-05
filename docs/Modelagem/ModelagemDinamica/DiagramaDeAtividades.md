@@ -1,5 +1,15 @@
 # <a>*Diagrama de Atividade*</a>
 
+## Introdução
+
+Esse artefato ilustra por meio de diagramas de atividade, os fluxos de interação do usuário baseados no site da Terracap. As atividades selecionadas para representação foram, cadastro, login, e solicitação de declaração de retrovenda.
+
+## Metodologia
+
+Para a elaboração desse artefato, foi utilizado o material didático em slides, e o material complementar disponibilizado pela professora Milene Serrano. Para a criação do diagrama, foi utilizada a ferramenta LucidChart.
+
+## O que é um Diagrama de Atividade?
+
 Um Diagrama de Atividade é uma representação gráfica que ilustra o fluxo de atividades em um sistema ou processo. Ele mostra como as operações são realizadas, em que sequência e sob quais condições. Este diagrama é útil para visualizar tanto o fluxo de controle (sequência de ações) quanto o fluxo de dados (movimentação de objetos) dentro do sistema.
 
 ## <a>*Principais Elementos de um Diagrama de Atividade*</a>
