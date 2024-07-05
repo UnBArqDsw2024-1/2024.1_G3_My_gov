@@ -1,5 +1,15 @@
 # Diagrama de Atividade
 
+## Introdução
+
+Esse artefato ilustra por meio de diagramas de atividade, os fluxos de interação do usuário baseados no site da Terracap. As atividades selecionadas para representação foram, cadastro, login, e solicitação de declaração de retrovenda.
+
+## Metodologia
+
+Para a elaboração desse artefato, foi utilizado o material didático em slides, e o material complementar disponibilizado pela professora Milene Serrano. Para a criação do diagrama, foi utilizada a ferramenta LucidChart.
+
+## O que é um Diagrama de Atividade?
+
 Um Diagrama de Atividade é uma representação gráfica que ilustra o fluxo de atividades em um sistema ou processo. Ele mostra como as operações são realizadas, em que sequência e sob quais condições. Este diagrama é útil para visualizar tanto o fluxo de controle (sequência de ações) quanto o fluxo de dados (movimentação de objetos) dentro do sistema.
 
 ## Principais Elementos de um Diagrama de Atividade
@@ -57,6 +67,12 @@ Utilizados para organizar atividades que pertencem a diferentes agentes ou parte
 
 <center>
 
+## Bibliografia
+
+[1] SERRANO. MILENE, AULA - MODELAGEM UML DINÂMICA, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2790248/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20Modelagem%20UML%20Din%C3%A2mica%20-%20Profa.%20Milene.pdf>
+
+[2] LUCIDCHART, UML Activity Diagram Tutorial. Disponível em: <https://www.lucidchart.com/pages/uml-activity-diagram>
+
 ## <a>*Histórico de Versão*</a>
 
 | Versão |    Data    |      Descrição       |                    Autor(es)                     |              Revisor(es)              |
@@ -65,5 +81,6 @@ Utilizados para organizar atividades que pertencem a diferentes agentes ou parte
 | `1.1`  | 01/07/2024 | Adicionado diagrama de Login | [Vitor B.](https://github.com/VitorB2002) | [Joao Nobrega](https://github.com/bot-do-jao) |
 | `1.2`  | 02/07/2024 | Adicionado diagrama de Retrovenda | [Vitor B.](https://github.com/VitorB2002) | [Joao Nobrega](https://github.com/bot-do-jao) |
 | `1.3`  | 04/07/2024 | Correção das imagens e revisão | [Joao Nobrega](https://github.com/bot-do-jao) | |
+| `1.4`  | 05/07/2024 | Adição de Introdução, Metodoligia e Bibliografia|  [Leonardo Machado](https://github.com/leonardogonmac)| | 
 
 </center>
