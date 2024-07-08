@@ -40,7 +40,7 @@ Figura 2 - Notação de Relacionamento
 
 ### <a> *Versão 1.0* </a>
 
-<br> ![alt text](../Assets/DiagramaClasse/DigramaClasse.jpg) <br>
+<br> ![alt text](../Assets/DiagramaClasse/DiagramaClasse.jpg) <br>
 
 ## <a> *Conclusão* </a>
 

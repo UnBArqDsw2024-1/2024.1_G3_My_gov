@@ -7,7 +7,7 @@ O diagrama de pacotes é uma ferramenta essencial na linguagem de modelagem unif
 
 ## <a> *Metodologia* </a>
 
-Para elaboração do nosso Diagrama de Pacote tivemos como base nosso [Diagrama de Classes](Diagrama_de_Classe.md) e por meio de uma reunião realizada via plataforma Discord, para a produção do diagrama inicialmente consideramos a adoção do padrão arquitetural Modelo-Visão-Controladora (MVC) como uma abordagem para melhor visualização e organização do sistema. Foi utilizado a ferramenta de construção [Draw.oi](https://app.diagrams.net) e a linguagem foi a UML. Cada membro do subgrupo ficou participou nas seguintes etapas simultaneamente (via Discord):
+Para elaboração do nosso Diagrama de Pacote tivemos como base nosso [Diagrama de Classes](Diagrama_de_Classe.md) e por meio de uma reunião realizada via plataforma Discord, para a produção do diagrama inicialmente consideramos a adoção do padrão arquitetural Modelo-Visão-Controladora (MVC) como uma abordagem para melhor visualização e organização do sistema. Foi utilizado a ferramenta de construção [Draw.io](https://app.diagrams.net) e a linguagem foi a UML. Cada membro do subgrupo ficou participou nas seguintes etapas simultaneamente (via Discord):
 > Criação da Documentação
 >
 > Elaboração e Discussão do Diagrama de Pacote (Via Discord)
