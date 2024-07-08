@@ -16,11 +16,11 @@ Um Diagrama de Sequência é uma representação gráfica que ilustra o fluxo de
 
 ##### <a>*1. LifeLine*</a>
 
-Rpresentados por retangulos grandes com a identificação de uma determinado objeto, logo a abaixo do retângulo temos uma linha que representa o "tempo de vida" de determinada entidade durante o fluxo da atividade.
+Rpresentados por retângulos grandes com a identificação de uma determinado objeto, logo abaixo do retângulo temos uma linha que representa o "tempo de vida" de determinada entidade durante o fluxo da atividade.
 
 ##### <a>*2. Execution specification*</a>
 
-Representado por retangulos longos e finos, ilustram o tempo em que determinado método leva para leva para ser executado e retornar uma resposta.
+Representado por retângulos longos e finos, ilustram o tempo em que determinado método leva para leva para ser executado e retornar uma resposta.
 
 ##### <a>*3. Synchronous/asynchronous message*</a>
 
@@ -40,7 +40,7 @@ Mesma representação de uma "Synchronous/asynchronous message", contudo com um 
 
 ##### <a>*6. Destruction object*</a>
 
-Representado por um "X", demarcar o final de uma "LifeLine" de determinada entidade, sendo encerrada e só poderá ser chamada novamente se alguma método contrutor da entidade for chamado antes. 
+Representado por um "X", demarcar o final de uma "LifeLine" de determinada entidade, sendo encerrada e só poderá ser chamada novamente se algum método construtor da entidade for chamado antes. 
 
 # <a>*Fluxos*</a>
 
@@ -56,14 +56,14 @@ Representado por um "X", demarcar o final de uma "LifeLine" de determinada entid
 
 ![Diagrama de atividades da declaração da retrovenda](../../Assets/DiagramaSequencia/solicitar_dec_sequencia.png)
 
-## <a>*Vantagens do Diagrama de Sequência</a>
+## <a>*Vantagens do Diagrama de Sequência*</a>
 
 - Fluxo de Controle: Proporciona uma visão clara do fluxo de processos de determinada atividade.
-- Identificação de Condições: Ajuda a identificar, gargalos e depências de processos no fluxo.
+- Identificação de Condições: Ajuda a identificar gargalos e dependências de processos no fluxo.
 
 ## <a>*Quando Usar um Diagrama de Sequência?*</a>
 
-- Desenvolvimento de Software: Mapear a comunicação entreos diversos componentes do sistema, principalmente usas dependências e paralelismo.
+- Desenvolvimento de Software: Mapear a comunicação entre os diversos componentes do sistema, principalmente suas dependências e paralelismo.
 - Modelagem de Processos de Negócio: Estabelecer um fluxo de prioridade e dependência com maior eficiência.
 - Documentação de Sistemas: Contribui para criar uma documentação clara e compreensível dos fluxos de trabalho.
 
@@ -81,5 +81,7 @@ Representado por um "X", demarcar o final de uma "LifeLine" de determinada entid
 | Versão |    Data    |             Descrição             |               Autor(es)               |                   Revisor(es)                    |
 | :----: | :--------: | :-------------------------------: | :-----------------------------------: | :----------------------------------------------: |
 | `1.0`  | 07/07/2024 |       Criação do documento        | [Foxtrot](../../Subgrupos/Foxtrot.md) | [João Lucas](https://github.com/VasconcelosJoao) |
+| `1.1`  | 08/07/2024 |       Revisão e correção do documento        | [Nóbrega](https://github.com/bot-do-jao) |  |
+
 
 </center>
