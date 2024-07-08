@@ -6,7 +6,7 @@ Um diagrama de classes é uma representação visual das estruturas e interaçõ
 
 ## <a> *Metodologia* </a>
 
-O desenvolvimento do nosso Diagrama de Classes teve início com uma reunião realizada via plataforma Discord, na qual realizamos uma análise detalhada das tarefas a serem executadas. Durante essa discussão, estabelecemos um escopo claro para o projeto, priorizando os aspectos relacionados ao fluxo de cadastro no sistema e login, bem como a solicitação de Declaração de Retrovenda, a pesquisa por uma Região Administrativa e por setor, e a seleção de um imóvel. Após a reunião inicial realizada por meio da plataforma Discord, nossa equipe procedeu à conexão com o ambiente de modelagem Draw.io para iniciar o desenvolvimento do Diagrama de Classes. Conforme recebermos o feedback da entrega faremos modificações no diagrama.
+O desenvolvimento do nosso Diagrama de Classes teve início com uma reunião realizada via plataforma Discord, na qual realizamos uma análise detalhada das tarefas a serem executadas. Durante essa discussão, estabelecemos um escopo claro para o projeto, priorizando os aspectos relacionados ao fluxo de cadastro no sistema e login, bem como a solicitação de Declaração de Retrovenda, a pesquisa por uma Região Administrativa e por setor, e a seleção de um imóvel. Após a reunião inicial realizada por meio da plataforma Discord, nossa equipe procedeu à conexão com o ambiente de modelagem [Draw.io](https://app.diagrams.net) para iniciar o desenvolvimento do Diagrama de Classes. Conforme recebermos o feedback da entrega faremos modificações no diagrama.
 
 ## <a> *Notações do Diagrama de Classes* </a>
 
@@ -39,6 +39,8 @@ Figura 2 - Notação de Relacionamento
 ## <a> *Diagrama de Classes* </a>
 
 ### <a> *Versão 1.0* </a>
+
+<br> ![alt text](../Assets/DiagramaClasse/DigramaClasse.jpg) <br>
 
 ## <a> *Conclusão* </a>
 
