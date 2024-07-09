@@ -1,5 +1,6 @@
 # <a>*Participações - Base*</a>
 
+<center>
 
 ## <a>*Design Sprint*</a>
 
@@ -75,7 +76,6 @@
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |                       x                        |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |                       x                        |
 
-<center>
 
 ## <a>*Histórico de Versão*</a>
 
