@@ -7,14 +7,14 @@
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Excelente         |       Participou das discussões e da elaboração do artefato e do diagrama       |
-|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
+|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |       Boa        |      participação na revisão final do artefato       |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Atuou na revisão do artefato       |
 |   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Excelente         |       Participei do processo de modelagem do diagrama e na confecção do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
-|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
+|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa         |       participação na revisão do artefato     |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Paticipação na revisão do artefato      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Excelente         |       Contribuiu na parte de elaboração,criação e nas discussões sobre o diagrama.     |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        Boa         |      Paticipação na revisão do artefato        |
@@ -25,14 +25,14 @@
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Excelente         |       Participou das discussões e da elaboração do artefato e do diagrama      |
-|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
+|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        boa        |       participação na revisão do artefato      |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Atuou na revisão do artefato       |
 |   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Excelente         |       Participei do processo de modelagem do diagrama e na confecção do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
-|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
+|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa       |      Participação na revisão final do artefato e em possiveis correções       |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Paticipação na revisão do artefato       |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Excelente         |       Contribuiu na parte de elaboração,criação e nas discussões sobre o diagrama.        |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        Boa         |       Paticipação na revisão do artefato       |
@@ -43,14 +43,14 @@
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Boa         |       Atuou na revisão do artefato       |
-|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
+|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |       Boa        |     Participação na revisão do artefato      |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Excelente         |       Atuou na Criação do artefato e nas correções dos erros    |
 |   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Boa         |       Atuei na revisão do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
-|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
+|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa        |      Participação ativa na revisão do artefato      |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Excelente        |       Participou na criação do artefato e nas correções necessárias     |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        x         |       x       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        Boa         |       Paticipação na revisão do artefato       |
@@ -61,14 +61,14 @@
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Boa         |       Atuou na revisão do artefato       |
-|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
+|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |       Excelente        |       Participação ativa em todas as etapas de  revisão e discussão do artefato   |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Atuou na revisão do artefato       |
 |   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Boa         |       Atuei na revisão do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
-|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
+|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Excelente        |     Participação ativa  nas revisões e discussão da realização do  artefato       |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Paticipação na revisão do artefato       |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Boa         |       Atuei na revisão final do artefato.       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        Excelente         |       Paticipação na elaboração e desenvolvimento do artefato       |
@@ -79,14 +79,14 @@
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Boa         |       Atuou na revisão do artefato       |
-|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
+|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |       Boa         |       Participação na revisão dos artefatos      |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Atuou na revisão das correções do artefato       |
 |   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Boa         |       Atuei na revisão do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
-|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
+|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa       |      Participação na revisão dos artefatos       |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa        |       Paticipação na revisão das correções feitas no artefato       |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |         Boa         |       Revisei o Diagrama de Login.       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        Boa         |       Paticipação na revisão do artefato       |
@@ -97,14 +97,14 @@
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Boa         |       Atuou na revisão do artefato       |
-|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
+|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        Boa        |      Participação na revisão dos artefatos        |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Atuou na revisão do artefato      |
 |   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Boa         |       Participei da modelagem do diagrama de pacotes       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
-|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
+|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa        |       Participação na revisão dos artefatos         |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Paticipação na revisão do artefato      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Média         |       Atuei na revisão das adições das imagens do artefato.       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        Boa         |       Paticipação na revisão do artefato       |
@@ -120,5 +120,7 @@
 | `1.2`  | 09/07/2024 | Adição da minha participação | [Arthur Grandão de Mello](https://github.com/arthurgrandao) | [Yankee](../Subgrupos/Yankee.md) |
 | `1.3`  | 09/07/2024 | Adição da minha participação | [Pedro Henrique](https://github.com/Muniz2811) | [Yankee](../Subgrupos/Yankee.md) |
 | `1.4`  | 09/07/2024 | Adição da minha participação | [Renann de Oliveira Gomes](https://github.com/NyndoND) | [Foxtrot](../Subgrupos/Foxtrot.md) |
+| `1.5`  | 09/07/2024 | Adição da minha participação | [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS) | [Foxtrot](../Subgrupos/Foxtrot.md) |
+| `1.6`  | 09/07/2024 | Adição da minha participação | [Arthur Marmo Cathalá](https://github.com/artmarmocathala) | [Foxtrot](../Subgrupos/Foxtrot.md) |
 
 </center>
