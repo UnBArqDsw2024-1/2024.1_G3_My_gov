@@ -1,4 +1,4 @@
-# <a> *Digrama de Classes* </a>
+# <a> *Diagrama de Classes* </a>
 
 ## <a> *Introdução* </a>
 

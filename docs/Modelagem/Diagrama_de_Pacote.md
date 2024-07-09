@@ -69,4 +69,4 @@ Figura 1 - Componentes do diagrama de pacotes
 | ------ | ---------- | ------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------- |
 | `1.0`  | 08/07/2024 | Criação do documento | [Yankee](../../Subgrupos/Yankee.md) | [Whiskey](../../Subgrupos/Whiskey.md) |
 
-</center>                                    | 
+</center>                                    
