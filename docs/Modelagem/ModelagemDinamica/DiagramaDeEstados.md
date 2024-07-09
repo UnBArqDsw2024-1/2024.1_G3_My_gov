@@ -17,9 +17,11 @@ Os diagramas de estados elaborados apresentam os seguintes elementos:
 **Estado Simples:** Representado por uma célula retangular com o nome do estado.
 <center>
 
+Figura 1: Estado Simples
+
 ![estado-simples](../../Assets/DiagramaEstados/estado.png)
 
-Imagem 1: Estado Simples
+<font>Fonte: <a>[Whyskey](../../Subgrupos/Whiskey.md)</a>, 2024</font>
 
 </center>
 
@@ -27,9 +29,11 @@ Imagem 1: Estado Simples
 
 <center>
 
+Figura 2: Transição
+
 ![transicao](../../Assets/DiagramaEstados/transicao.png)
 
-Imagem 2: Transição
+<font>Fonte: <a>[Whyskey](../../Subgrupos/Whiskey.md)</a>, 2024</font>
 
 </center>
 
@@ -37,9 +41,11 @@ Imagem 2: Transição
 
 <center>
 
+Figura 3: Pseudo-estado de início
+
 ![inicio](../../Assets/DiagramaEstados/inicio.png)
 
-Imagem 3: Pseudo-estado de início
+<font>Fonte: <a>[Whyskey](../../Subgrupos/Whiskey.md)</a>, 2024</font>
 
 </center>
 
@@ -47,9 +53,11 @@ Imagem 3: Pseudo-estado de início
 
 <center>
 
+Figura 4: Estado de fim
+
 ![fim](../../Assets/DiagramaEstados/fim.png)
 
-Imagem 4: Estado de fim
+<font>Fonte: <a>[Whyskey](../../Subgrupos/Whiskey.md)</a>, 2024</font>
 
 </center>
 
@@ -61,9 +69,11 @@ O diagrama abaixo representa os estados em que um objeto que representa a conta 
 
 <center>
 
+Figura 5: Diagrama de Estados da Conta do Usuário
+
 ![diagrama-conta](../../Assets/DiagramaEstados/diagrama-conta.png)
 
-Imagem 5: Diagrama de Estados da Conta do Usuário
+<font>Fonte: <a>[Whyskey](../../Subgrupos/Whiskey.md)</a>, 2024</font>
 
 </center>
 
@@ -73,9 +83,11 @@ O diagrama abaixo representa os estados em que um objeto que representa um imóv
 
 <center>
 
+Figura 6: Diagrama de Estados do Imóvel
+
 ![diagrama-imovel](../../Assets/DiagramaEstados/diagrama-imovel.png)
 
-Imagem 6: Diagrama de Estados do Imóvel
+<font>Fonte: <a>[Whyskey](../../Subgrupos/Whiskey.md)</a>, 2024</font>
 
 </center>
 
