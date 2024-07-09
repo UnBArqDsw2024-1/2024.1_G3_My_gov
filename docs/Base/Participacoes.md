@@ -15,7 +15,7 @@
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        Média         |   Atuou na revisão das tarefas                                          |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |                       x                        |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |                       x                        |
-|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |                       x                        |
+|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa        |                      Paticipação na revisão do artefato                      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |    Excelente     | Participei da criação dos artefatos DesignSprint, Protótipo de alta fidelidade e Validação do Produto  |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |                       x                        |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |                       x                        |
@@ -35,7 +35,7 @@
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        Média       |                       Atuou em algumas revisões                   |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |                       x                        |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |                       x                        |
-|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |                       x                        |
+|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Excelente      |                      Trabalhou na criação dos artefatos e em correções                  |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |       Média      |          Atuou em algumas revisões             |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |                       x                        |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |                       x                        |
@@ -53,7 +53,7 @@
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        Boa        |                     Participou ativamente em revisões e contribuiu para resolução de problemas no artefato do cronograma e storyboard                    |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |                     x                     |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |                     x                     |
-|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |                     x                     |
+|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa      |                     Paticipação na revisão do artefato                |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Boa          |                     Participei na revisões dos artefatos, além de contribuir na reunião de documentação dos artefatos.                     |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |                     x                     |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |                     x                     |
@@ -71,7 +71,7 @@
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        Excelente        |                       Confeccionou o diagrama BPMN e auxiliou na confecção do artefato e do template                       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |                       x                        |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |                       x                        |
-|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |                       x                        |
+|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa        |                       Paticipação na revisão do artefato                       |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |       Média      |           Atuou em algumas revisões            |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |                       x                        |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |                       x                        |

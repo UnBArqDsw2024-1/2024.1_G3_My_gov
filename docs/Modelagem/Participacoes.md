@@ -15,7 +15,7 @@
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
-|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |       x       |
+|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Paticipação na revisão do artefato      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Excelente         |       Contribuiu na parte de elaboração,criação e nas discussões sobre o diagrama.     |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
@@ -33,7 +33,7 @@
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
-|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |       x       |
+|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Paticipação na revisão do artefato       |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Excelente         |       Contribuiu na parte de elaboração,criação e nas discussões sobre o diagrama.        |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        Boa       |       Atuou na revisão do artefato       |
@@ -51,7 +51,7 @@
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
-|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |       x       |
+|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Excelente        |       Participou na criação do artefato e nas correções necessárias     |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        x         |       x       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
@@ -69,7 +69,7 @@
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
-|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |       x       |
+|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Paticipação na revisão do artefato       |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Boa         |       Atuei na revisão final do artefato.       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
@@ -87,7 +87,7 @@
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
-|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |       x       |
+|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa        |       Paticipação na revisão das correções feitas no artefato       |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |         Boa         |       Revisei o Diagrama de Login.       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        Excelente         |       Atuou na criação do artefato      |
@@ -105,7 +105,7 @@
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
-|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |       x       |
+|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Paticipação na revisão do artefato      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Média         |       Atuei na revisão das adições das imagens do artefato.       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
@@ -118,5 +118,6 @@
 | `1.0`  | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Yankee](../Subgrupos/Yankee.md) |
 | `1.1`  | 09/04/2024 | Adição da minha participação | [Rafael Ferreira](https://github.com/RafaelCLG0) | [Yankee](../Subgrupos/Yankee.md) |
 | `1.2`  | 09/04/2024 | Adição da minha participação | [Arthur Grandão de Mello](https://github.com/arthurgrandao) | [Yankee](../Subgrupos/Yankee.md) |
+| `1.3`  | 09/04/2024 | Adição da minha participação | [Pedro Henrique](https://github.com/Muniz2811) | [Yankee](../Subgrupos/Yankee.md) |
 
 </center>
