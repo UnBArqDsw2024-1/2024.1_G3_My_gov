@@ -52,7 +52,19 @@ Figura 1 - Componentes do diagrama de pacotes
 
 ### <a> *Versão 1.0* </a>
 
+<center>
+
+Figura 2 - Diagrama de Pacotes
+
+<br> ![alt text](../Assets/DiagramaPacote/DiagramaPacote.jpg) <br>
+
+<font>Fonte: <a href="[Yankee](../../Subgrupos/Yankee.md">Yankee</a>, 2024</font>
+
+</center>
+
 ## <a> *Conclusão* </a>
+
+Através da elaboração do Diagrama de Pacote, o grupo pôde visualizar e organizar de forma mais clara e estruturada os elementos do sistema projetado. A adoção do padrão arquitetural Modelo-Visão-Controladora (MVC) proporcionou uma melhor compreensão das relações entre os componentes. Além disso, a integração dos pacotes em outros diagramas UML facilitou a simplificação e a compreensão do modelo como um todo. Com base no feedback recebido, o grupo está preparado para fazer modificações no diagrama, aprimorando ainda mais a representação do sistema.
 
 ## <a>*Referências Bibliográficas*</a>
 
@@ -68,5 +80,6 @@ Figura 1 - Componentes do diagrama de pacotes
 | Versão | Data       | Descrição                                                          | Autor(es)                                        | Revisor(es)                           |
 | ------ | ---------- | ------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------- |
 | `1.0`  | 08/07/2024 | Criação do documento | [Yankee](../../Subgrupos/Yankee.md) | [Whiskey](../../Subgrupos/Whiskey.md) |
+| `2.0`  | 08/07/2024 | Adição do Diagrama | [Yankee](../../Subgrupos/Yankee.md) | [Whiskey](../../Subgrupos/Whiskey.md) |
 
 </center>                                    
