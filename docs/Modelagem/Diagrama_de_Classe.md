@@ -40,7 +40,7 @@ Figura 2 - Notação de Relacionamento
 
 ### <a> *Versão 1.0* </a>
 
-<br> ![alt text](../Assets/DiagramaClasse/DiagramaClasse.jpg) <br>
+<br> ![alt text](../Assets/DiagramaClasse/DiagramaClasseV2.jpg) <br>
 
 ## <a> *Conclusão* </a>
 
@@ -61,5 +61,7 @@ O diagrama de classes ofereceu ao grupo uma visão mais clara e concisa da estru
 | Versão | Data       | Descrição                                                          | Autor(es)                                        | Revisor(es)                           |
 | ------ | ---------- | ------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------- |
 | `1.0`  | 04/05/2024 | Criação do documento | [Yankee](../../Subgrupos/Yankee.md) | [Whiskey](../../Subgrupos/Whiskey.md) |
+| `2.0`  | 08/07/2024 | Adição da Versão Atualizada | [Yankee](../../Subgrupos/Yankee.md) | [Whiskey](../../Subgrupos/Whiskey.md) |
+
 
 </center>
