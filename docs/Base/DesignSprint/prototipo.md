@@ -105,7 +105,7 @@ O objetivo da avaliação do protótipo de alta fidelidade é testar e obter fee
 * Comparar ideias e alternativas de design.
 
 
-## <a>*Referências Bibliográficas*</a>
+## <a>*Bibliografia*</a>
 
     Design, Prototipação e Construção. In: ROGERS, Yvonne. Design de Interação: Além da Interação Humano-Computador. 3. ed. [S. l.]: Bookman, 2013. cap. 8, p. 259-297.cle
     Figma. Dispónivel: https://www.figma.com Acesso em: 06 de Abril 2024.
