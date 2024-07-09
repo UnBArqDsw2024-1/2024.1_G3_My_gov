@@ -11,7 +11,7 @@
       
       
       
-        <link rel="prev" href="../DiagramaDeClasses/">
+        <link rel="prev" href="../DiagramaDePacotes/">
       
       
         <link rel="next" href="../../ModelagemDinamica/">
@@ -872,6 +872,8 @@
       
         
       
+        
+      
     
     
       
@@ -925,6 +927,27 @@
   
   <span class="md-ellipsis">
     Diagrama de Classes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../DiagramaDePacotes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Diagrama de Pacotes
   </span>
   
 
@@ -1101,9 +1124,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#referencias-bibliograficas" class="md-nav__link">
+  <a href="#bibliografia" class="md-nav__link">
     <span class="md-ellipsis">
-      Referências Bibliográficas
+      Bibliografia
     </span>
   </a>
   
@@ -1146,6 +1169,8 @@
       
         
           
+        
+      
         
       
         
@@ -1226,6 +1251,27 @@
   
   <span class="md-ellipsis">
     Diagrama de Atividades
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ModelagemDinamica/DiagramaDeEstados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Diagrama de Estados
   </span>
   
 
@@ -1608,9 +1654,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#referencias-bibliograficas" class="md-nav__link">
+  <a href="#bibliografia" class="md-nav__link">
     <span class="md-ellipsis">
-      Referências Bibliográficas
+      Bibliografia
     </span>
   </a>
   
@@ -1642,11 +1688,15 @@
 
 <h1 id="digrama-de-implantacao"><a> <em>Digrama de implantação</em> </a></h1>
 <h2 id="introducao"><a> <em>Introdução</em> </a></h2>
-<p align="justify">&emsp;&emsp;Um diagrama de implantação é uma representação visual que descreve a configuração física de um sistema de software, incluindo hardware e software, e as interações entre seus componentes. Ele oferece uma visão detalhada das diferentes partes do sistema e como elas estão distribuídas em uma infraestrutura física, como servidores, dispositivos de rede e outros recursos. A importância desse tipo de diagrama reside na sua capacidade de fornecer uma compreensão clara e concisa da arquitetura de implantação de um sistema, permitindo que os desenvolvedores, arquitetos e administradores de sistemas compreendam melhor como os componentes do sistema estão interconectados e como eles funcionam em conjunto para fornecer funcionalidades específicas. Além disso, o diagrama de implantação também pode ser uma ferramenta valiosa para planejar e otimizar a infraestrutura de um sistema, identificar possíveis pontos de falha e melhorar a escalabilidade e a eficiência do sistema como um todo.e no caso do nosso projeto o diagrama de implantação realizado foi baseado no sistema do terracap e abaixo é possível visualizar o diagrama completo</p>
-
+<p>Um diagrama de implantação é uma representação visual que descreve a configuração física de um sistema de software, incluindo hardware e software, e as interações entre seus componentes. Ele oferece uma visão detalhada das diferentes partes do sistema e como elas estão distribuídas em uma infraestrutura física, como servidores, dispositivos de rede e outros recursos. </p>
+<p>A importância desse tipo de diagrama reside na sua capacidade de fornecer uma compreensão clara e concisa da arquitetura de implantação de um sistema, permitindo que os desenvolvedores, arquitetos e administradores de sistemas compreendam melhor como os componentes do sistema estão interconectados e como eles funcionam em conjunto para fornecer funcionalidades específicas. </p>
+<p>Além disso, o diagrama de implantação também pode ser uma ferramenta valiosa para planejar e otimizar a infraestrutura de um sistema, identificar possíveis pontos de falha e melhorar a escalabilidade e a eficiência do sistema como um todo.e no caso do nosso projeto o diagrama de implantação realizado foi baseado no sistema do terracap e abaixo é possível visualizar o diagrama completo</p>
 <h2 id="diagrama"><a> <em>Diagrama</em> </a></h2>
-<p><center></p>
+<p>E na figura a seguir o Diagrama confecionado pelo subgrupo <a href="../../../Subgrupos/Papa/">Papa</a></p>
+<p><center>
+Figura 3 - Diagrama de implantação 1.0</p>
 <p><img alt="alt text" src="../../../Assets/DiagramaImplantacao/DiagramadeImplantacao.png" /></p>
+<p><font>Fonte: <a><a href="../../../Subgrupos/Papa/">Papa</a></a>, 2024</font></p>
 <p></center></p>
 <h2 id="notacao-do-diagrama-de-implantacao"><a> <em>Notação do Diagrama de implantação</em> </a></h2>
 <h3 id="computador"><a> <em>Computador</em> </a></h3>
@@ -1664,15 +1714,15 @@
 <h3 id="conexoes-externas"><a> <em>Conexões externas</em> </a></h3>
 <p>Realizar, por meio de APIs, a conexão com outros sistemas conforme a necessidade identificada na etapa anterior do projeto.</p>
 <h3 id="conexoes-entre-os-componentes"><a> <em>Conexões entre os componentes</em> </a></h3>
-<p align="justify">&emsp;&emsp;A conexão entre os componentes do diagrama em sua maioria se dá através do protocolo TCP/IP, que de maneira geral é o padrão dominante para comunicações em redes de dados. 
-Quando usuários acessam o sistema através de uma interface web, o servidor web e o servidor da aplicação comunicam-se utilizando TCP/IP para trocar dados e comandos.
-Conexões de Banco de Dados: O servidor de aplicações se comunica com servidores de banco de dados usando TCP/IP, garantindo que as transações de dados sejam realizadas de maneira segura e eficiente. 
-A conexão entre o banco de dados e o sistema de notificações seria por meio também do protocolo TCP/IP permitindo que esse sistema acesse informações atualizadas de forma confiável e segura para executar suas funções de notificação corretamente.</p>
-
+<p>A conexão entre os componentes do diagrama em sua maioria se dá através do protocolo TCP/IP, que de maneira geral é o padrão dominante para comunicações em redes de dados. </p>
+<p>Quando usuários acessam o sistema através de uma interface web, o servidor web e o servidor da aplicação comunicam-se utilizando TCP/IP para trocar dados e comandos.</p>
+<p>Conexões de Banco de Dados: O servidor de aplicações se comunica com servidores de banco de dados usando TCP/IP, garantindo que as transações de dados sejam realizadas de maneira segura e eficiente. </p>
+<p>A conexão entre o banco de dados e o sistema de notificações seria por meio também do protocolo TCP/IP permitindo que esse sistema acesse informações atualizadas de forma confiável e segura para executar suas funções de notificação corretamente.</p>
 <h2 id="conclusao"><a> <em>Conclusão</em> </a></h2>
-<p align="justify">&emsp;&emsp;O diagrama de implantação apresentado revela uma arquitetura de sistema robusta e bem estruturada, composta por hardware e software interligados de forma eficiente. A análise do diagrama permite observar que a infraestrutura em camadas garante modularidade, facilitando manutenções e expansões futuras. A segurança da rede é protegida por firewalls, enquanto a comunicação entre os componentes se dá através do protocolo TCP/IP, um padrão confiável e eficiente. As comunicações direcionadas e seguras minimizam o risco de perda ou interceptação de dados. Em suma, o diagrama demonstra um sistema bem estruturado, com foco na segurança e eficiência. A documentação completa, incluindo detalhes sobre dimensionamento, redundância e monitoramento, é crucial para uma avaliação completa da sua capacidade de atender às demandas do negócio.</p>
-
-<h2 id="referencias-bibliograficas"><a><em>Referências Bibliográficas</em></a></h2>
+<p>O diagrama de implantação apresentado revela uma arquitetura de sistema robusta e bem estruturada, composta por hardware e software interligados de forma eficiente. A análise do diagrama permite observar que a infraestrutura em camadas garante modularidade, facilitando manutenções e expansões futuras. </p>
+<p>A segurança da rede é protegida por firewalls, enquanto a comunicação entre os componentes se dá através do protocolo TCP/IP, um padrão confiável e eficiente. </p>
+<p>As comunicações direcionadas e seguras minimizam o risco de perda ou interceptação de dados. Em suma, o diagrama demonstra um sistema bem estruturado, com foco na segurança e eficiência. A documentação completa, incluindo detalhes sobre dimensionamento, redundância e monitoramento, é crucial para uma avaliação completa da sua capacidade de atender às demandas do negócio.</p>
+<h2 id="bibliografia"><a><em>Bibliografia</em></a></h2>
 <pre><code>Creately. Tutorial do diagrama de implantação. Disponível em: https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-implantacao. Acesso em: 06 de maio de 2024.
 
 Lucidchart. O que é diagrama de implementação UML. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-implementacao-uml. Acesso em: 06 de maio de 2024.
@@ -1713,8 +1763,16 @@ IBM. Topologias de diagramas de implantação. Disponível em: https://www.ibm.c
 <td style="text-align: center;"><a href="../../../Subgrupos/Yankee/">Yankee</a></td>
 <td style="text-align: center;"><a href="../../../Subgrupos/Foxtrot/">Foxtrot</a></td>
 </tr>
+<tr>
+<td style="text-align: center;"><code>1.3</code></td>
+<td style="text-align: center;">09/07/2024</td>
+<td style="text-align: center;">Revisão Final e correção de padrão</td>
+<td style="text-align: center;"><a href="https://github.com/VasconcelosJoao">João Lucas</a></td>
+<td style="text-align: center;"><a href="../../../Subgrupos/Papa/">Papa</a></td>
+</tr>
 </tbody>
 </table>
+<p></center></p>
 
 
 
