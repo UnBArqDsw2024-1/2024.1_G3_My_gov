@@ -6,17 +6,17 @@
 
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
-|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
+|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Excelente         |       Participou das discussões e da elaboração do artefato       |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Atuou na revisão do artefato       |
-|   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        Excelente         |       Participei do processo de modelagem do diagram e na confecção do artefato       |
+|   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Excelente         |       Participei do processo de modelagem do diagrama e na confecção do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |       x       |
-|   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Excelente         |       Contribui na parte de elaboração,criação e nas discussões sobre o diagrama.     |
+|   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Excelente         |       Contribuiu na parte de elaboração,criação e nas discussões sobre o diagrama.     |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
 
@@ -24,17 +24,17 @@
 
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
-|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
+|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Excelente         |       Participou das discussões e da elaboração do artefato       |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Atuou na revisão do artefato       |
-|   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        Boa         |       Atuei na revisão do artefato       |
+|   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Boa         |       Atuei na revisão do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |       x       |
-|   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Excelente         |       Contribui na parte de elaboração,criação e nas discussões sobre o diagrama.        |       x         |       x       |
+|   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Excelente         |       Contribuiu na parte de elaboração,criação e nas discussões sobre o diagrama.        |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        Boa       |       Atuou na revisão do artefato       |
 
@@ -42,11 +42,11 @@
 
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
-|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
+|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Boa         |       Atuou na revisão do artefato       |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Excelente         |       Atuou na Criação do artefato e nas correções dos erros    |
-|   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        Boa         |       Atuei na revisão do artefato       |
+|   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Boa         |       Atuei na revisão do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
@@ -60,11 +60,11 @@
 
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
-|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
+|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Boa         |       Atuou na revisão do artefato       |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Atuou na revisão do artefato       |
-|   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        Boa         |       Atuei na revisão do artefato       |
+|   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Boa         |       Atuei na revisão do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
@@ -78,11 +78,11 @@
 
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
-|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
+|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Boa         |       Atuou na revisão do artefato       |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Atuou na revisão das correções do artefato       |
-|   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        Boa         |       Atuei na revisão do artefato       |
+|   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Boa         |       Atuei na revisão do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
@@ -96,11 +96,11 @@
 
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
-|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
+|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Boa         |       Atuou na revisão do artefato       |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Atuou na revisão do artefato      |
-|   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        Boa         |       Participei da modelagem do diagrama de pacotes       |
+|   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Boa         |       Participei da modelagem do diagrama de pacotes       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
