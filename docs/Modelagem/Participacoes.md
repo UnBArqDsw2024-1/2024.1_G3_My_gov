@@ -36,7 +36,7 @@
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |       x       |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        x         |       x       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
-|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
+|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        Boa       |       Atuou na revisão do artefato       |
 
 ## <a>*Diagrama de Implantacao*</a>
 
@@ -90,7 +90,7 @@
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |       x       |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        x         |       x       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
-|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
+|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        Excelente         |       Atuou na criação do artefato      |
 
 ## <a>*Diagrama de Estados*</a>
 
