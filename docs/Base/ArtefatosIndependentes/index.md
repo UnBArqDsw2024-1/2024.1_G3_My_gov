@@ -28,6 +28,15 @@ A criação de um artefato independente de metodologia não segue um processo r�
 
 Os artefatos independentes de metodologia são ferramentas poderosas para a resolução de problemas. Eles permitem a visualização de informações complexas, facilitam a colaboração e a co-criação de soluções, e são flexíveis o suficiente para se adaptar a diferentes contextos e necessidades.
 
+
+## <a>*Bibliografia*</a>
+
+    Pressman, Roger S. (2020). Engenharia de Software: Uma Abordagem Moderna. 9ª ed. AMGH Editora.: URL Pressman Engenharia de Software
+
+    Sommerville, Ian (2016). Engenharia de Software. 10ª ed. Pearson Education.: URL Sommerville Engenharia de Software
+
+    Fowler, Martin (2013). UML Distilled: A Brief Guide to the Standard Object Modeling Language. 3rd ed. Addison-Wesley Professional.: URL Fowler UML Distilled
+
 <center>
 
 ## <a>*Histórico de Versão*</a>

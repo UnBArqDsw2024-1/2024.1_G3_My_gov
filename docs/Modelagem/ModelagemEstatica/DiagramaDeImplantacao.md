@@ -2,13 +2,23 @@
 
 ## <a> *Introdução* </a>
 
-<p align="justify">&emsp;&emsp;Um diagrama de implantação é uma representação visual que descreve a configuração física de um sistema de software, incluindo hardware e software, e as interações entre seus componentes. Ele oferece uma visão detalhada das diferentes partes do sistema e como elas estão distribuídas em uma infraestrutura física, como servidores, dispositivos de rede e outros recursos. A importância desse tipo de diagrama reside na sua capacidade de fornecer uma compreensão clara e concisa da arquitetura de implantação de um sistema, permitindo que os desenvolvedores, arquitetos e administradores de sistemas compreendam melhor como os componentes do sistema estão interconectados e como eles funcionam em conjunto para fornecer funcionalidades específicas. Além disso, o diagrama de implantação também pode ser uma ferramenta valiosa para planejar e otimizar a infraestrutura de um sistema, identificar possíveis pontos de falha e melhorar a escalabilidade e a eficiência do sistema como um todo.e no caso do nosso projeto o diagrama de implantação realizado foi baseado no sistema do terracap e abaixo é possível visualizar o diagrama completo</p>
+
+Um diagrama de implantação é uma representação visual que descreve a configuração física de um sistema de software, incluindo hardware e software, e as interações entre seus componentes. Ele oferece uma visão detalhada das diferentes partes do sistema e como elas estão distribuídas em uma infraestrutura física, como servidores, dispositivos de rede e outros recursos. 
+
+A importância desse tipo de diagrama reside na sua capacidade de fornecer uma compreensão clara e concisa da arquitetura de implantação de um sistema, permitindo que os desenvolvedores, arquitetos e administradores de sistemas compreendam melhor como os componentes do sistema estão interconectados e como eles funcionam em conjunto para fornecer funcionalidades específicas. 
+
+Além disso, o diagrama de implantação também pode ser uma ferramenta valiosa para planejar e otimizar a infraestrutura de um sistema, identificar possíveis pontos de falha e melhorar a escalabilidade e a eficiência do sistema como um todo.e no caso do nosso projeto o diagrama de implantação realizado foi baseado no sistema do terracap e abaixo é possível visualizar o diagrama completo
 
 ## <a> *Diagrama* </a>
 
+E na figura a seguir o Diagrama confecionado pelo subgrupo [Papa](../../Subgrupos/Papa.md)
+
 <center>
+Figura 3 - Diagrama de implantação 1.0
 
 ![alt text](../../Assets/DiagramaImplantacao/DiagramadeImplantacao.png)
+
+<font>Fonte: <a>[Papa](../../Subgrupos/Papa.md)</a>, 2024</font>
 
 </center>
 
@@ -46,17 +56,26 @@ Realizar, por meio de APIs, a conexão com outros sistemas conforme a necessidad
 
 ### <a> *Conexões entre os componentes* </a> 
 
-<p align="justify">&emsp;&emsp;A conexão entre os componentes do diagrama em sua maioria se dá através do protocolo TCP/IP, que de maneira geral é o padrão dominante para comunicações em redes de dados. 
+
+A conexão entre os componentes do diagrama em sua maioria se dá através do protocolo TCP/IP, que de maneira geral é o padrão dominante para comunicações em redes de dados. 
+
 Quando usuários acessam o sistema através de uma interface web, o servidor web e o servidor da aplicação comunicam-se utilizando TCP/IP para trocar dados e comandos.
+
 Conexões de Banco de Dados: O servidor de aplicações se comunica com servidores de banco de dados usando TCP/IP, garantindo que as transações de dados sejam realizadas de maneira segura e eficiente. 
-A conexão entre o banco de dados e o sistema de notificações seria por meio também do protocolo TCP/IP permitindo que esse sistema acesse informações atualizadas de forma confiável e segura para executar suas funções de notificação corretamente.</p>
+
+A conexão entre o banco de dados e o sistema de notificações seria por meio também do protocolo TCP/IP permitindo que esse sistema acesse informações atualizadas de forma confiável e segura para executar suas funções de notificação corretamente.
 
 
 ## <a> *Conclusão* </a>
 
-<p align="justify">&emsp;&emsp;O diagrama de implantação apresentado revela uma arquitetura de sistema robusta e bem estruturada, composta por hardware e software interligados de forma eficiente. A análise do diagrama permite observar que a infraestrutura em camadas garante modularidade, facilitando manutenções e expansões futuras. A segurança da rede é protegida por firewalls, enquanto a comunicação entre os componentes se dá através do protocolo TCP/IP, um padrão confiável e eficiente. As comunicações direcionadas e seguras minimizam o risco de perda ou interceptação de dados. Em suma, o diagrama demonstra um sistema bem estruturado, com foco na segurança e eficiência. A documentação completa, incluindo detalhes sobre dimensionamento, redundância e monitoramento, é crucial para uma avaliação completa da sua capacidade de atender às demandas do negócio.</p>
 
-## <a>*Referências Bibliográficas*</a>
+O diagrama de implantação apresentado revela uma arquitetura de sistema robusta e bem estruturada, composta por hardware e software interligados de forma eficiente. A análise do diagrama permite observar que a infraestrutura em camadas garante modularidade, facilitando manutenções e expansões futuras. 
+
+A segurança da rede é protegida por firewalls, enquanto a comunicação entre os componentes se dá através do protocolo TCP/IP, um padrão confiável e eficiente. 
+
+As comunicações direcionadas e seguras minimizam o risco de perda ou interceptação de dados. Em suma, o diagrama demonstra um sistema bem estruturado, com foco na segurança e eficiência. A documentação completa, incluindo detalhes sobre dimensionamento, redundância e monitoramento, é crucial para uma avaliação completa da sua capacidade de atender às demandas do negócio.
+
+## <a>*Bibliografia*</a>
 
     Creately. Tutorial do diagrama de implantação. Disponível em: https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-implantacao. Acesso em: 06 de maio de 2024.
     
@@ -68,8 +87,11 @@ A conexão entre o banco de dados e o sistema de notificações seria por meio t
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão |    Data    |                Descrição                 |              Autor(es)              |                   Revisor(es)                    |
-| :----: | :--------: | :--------------------------------------: | :---------------------------------: | :----------------------------------------------: |
-| `1.0`  | 10/05/2024 |           Criação do documento           |   [Papa](../../Subgrupos/Papa.md)   | [João Lucas](https://github.com/VasconcelosJoao) |
-| `1.1`  | 10/05/2024 | Correções de Padrão e adição do diagrama |   [Papa](../../Subgrupos/Papa.md)   |      [Whiskey](../../Subgrupos/Whiskey.md)       |
-| `1.2`  | 10/05/2024 |           Revisão do artefato            | [Yankee](../../Subgrupos/Yankee.md) |      [Foxtrot](../../Subgrupos/Foxtrot.md)       |
+| Versão |    Data    |                Descrição                 |                    Autor(es)                     |                   Revisor(es)                    |
+| :----: | :--------: | :--------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
+| `1.0`  | 10/05/2024 |           Criação do documento           |         [Papa](../../Subgrupos/Papa.md)          | [João Lucas](https://github.com/VasconcelosJoao) |
+| `1.1`  | 10/05/2024 | Correções de Padrão e adição do diagrama |         [Papa](../../Subgrupos/Papa.md)          |      [Whiskey](../../Subgrupos/Whiskey.md)       |
+| `1.2`  | 10/05/2024 |           Revisão do artefato            |       [Yankee](../../Subgrupos/Yankee.md)        |      [Foxtrot](../../Subgrupos/Foxtrot.md)       |
+| `1.3`  | 09/07/2024 |    Revisão Final e correção de padrão    | [João Lucas](https://github.com/VasconcelosJoao) |      [Papa](../../Subgrupos/Papa.md)       |
+
+</center>

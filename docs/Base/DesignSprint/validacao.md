@@ -36,7 +36,7 @@ Ao iniciar a gravação, foi apresentado o termo de consentimento, previamente l
 Ao analisar o entrevistado foi relatado que o portal estáva bem coerente com os padrões gov, além de apresentar um interface intuitiva não apresentando problema para realizar tais ações proposta. Já em relação as perguntar observou-se que o objetivo foi alcançado com a padronização. É não sendo sugeridas possiveis alterações do protótipo.
 
 
-## <a>*Referências Bibliográficas*</a>
+## <a>*Bibliografia*</a>
 
     BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
