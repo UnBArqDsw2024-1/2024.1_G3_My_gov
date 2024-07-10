@@ -66,7 +66,7 @@
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Atuou na revisão do artefato       |
 |   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Boa         |       Atuei na revisão do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
-|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
+|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        Boa         |       Atuou na revisão do artefato       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Excelente        |     Participação ativa  nas revisões e discussão da realização do  artefato       |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Paticipação na revisão do artefato       |
@@ -84,7 +84,7 @@
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Atuou na revisão das correções do artefato       |
 |   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Boa         |       Atuei na revisão do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
-|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
+|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        Excelente         |       Atuou na confecção e em correções do Artefato      |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        excelente         |       Criação das seções de Introdução, Metodologia e Bibliografia       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa       |      Participação na revisão dos artefatos       |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa        |       Paticipação na revisão das correções feitas no artefato       |
@@ -122,6 +122,7 @@
 | `1.4`  | 09/07/2024 | Adição da minha participação | [Renann de Oliveira Gomes](https://github.com/NyndoND) | [Foxtrot](../Subgrupos/Foxtrot.md) |
 | `1.5`  | 09/07/2024 | Adição da minha participação | [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS) | [Foxtrot](../Subgrupos/Foxtrot.md) |
 | `1.6`  | 09/07/2024 | Adição da minha participação | [Arthur Marmo Cathalá](https://github.com/artmarmocathala) | [Foxtrot](../Subgrupos/Foxtrot.md) |
-| `1.7`  | 09/07/2024 | Adição da minha participação | [Leonardo Gonçalves Machado](https://github.com/leonardogonamc) | [Foxtrot](../Subgrupos/Foxtrot.md) |
+| `1.7`  | 09/07/2024 | Adição da minha participação | [Leonardo Gonçalves Machado](https://github.com/leonardogonamc) | [Whiskey](../Subgrupos/Whiskey.md) |
+| `1.8`  | 09/07/2024 | Adição da minha participação | [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao) | [Whiskey](../Subgrupos/Whiskey.md) |
 
 </center>
