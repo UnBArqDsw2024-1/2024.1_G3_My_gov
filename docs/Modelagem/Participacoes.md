@@ -118,5 +118,6 @@
 | `1.6`  | 09/07/2024 | Adição da minha participação |   [Arthur Marmo Cathalá](https://github.com/artmarmocathala)    | [Foxtrot](../Subgrupos/Foxtrot.md) |
 | `1.7`  | 09/07/2024 | Adição da minha participação | [Leonardo Gonçalves Machado](https://github.com/leonardogonamc) | [Whiskey](../Subgrupos/Whiskey.md) |
 | `1.8`  | 09/07/2024 | Adição da minha participação |  [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)  | [Whiskey](../Subgrupos/Whiskey.md) |
+| `1.9`  | 09/07/2024 | Adição da minha participação |        [João Lucas](https://github.com/VasconcelosJoao)         |  [Yankee](../Subgrupos/Yankee.md)  |
 
 </center>
