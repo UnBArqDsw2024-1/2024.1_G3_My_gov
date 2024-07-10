@@ -13,7 +13,7 @@
 |   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Excelente         |       Participei do processo de modelagem do diagrama e na confecção do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
-|   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
+|   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |       Média         |       Participação na revisão final do artefato       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa         |       participação na revisão do artefato     |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Paticipação na revisão do artefato      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Excelente         |       Contribuiu na parte de elaboração,criação e nas discussões sobre o diagrama.     |
@@ -31,7 +31,7 @@
 |   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Excelente         |       Participei do processo de modelagem do diagrama e na confecção do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
-|   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
+|   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        Média         |       Participou na revisão final do artefato       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa       |      Participação na revisão final do artefato e em possiveis correções       |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Paticipação na revisão do artefato       |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Excelente         |       Contribuiu na parte de elaboração,criação e nas discussões sobre o diagrama.        |
