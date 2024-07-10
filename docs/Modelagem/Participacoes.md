@@ -12,8 +12,8 @@
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Atuou na revisão do artefato       |
 |   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Excelente         |       Participei do processo de modelagem do diagrama e na confecção do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
-|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
-|   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |       Média         |       Participação na revisão final do artefato       |
+|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |       Boa         |       Atuou na revisão do artefato       |
+|   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |       Média         |       Participação na revisão final do artefato       | 
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa         |       participação na revisão do artefato     |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Paticipação na revisão do artefato      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Excelente         |       Contribuiu na parte de elaboração,criação e nas discussões sobre o diagrama.     |
@@ -30,7 +30,7 @@
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Atuou na revisão do artefato       |
 |   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Excelente         |       Participei do processo de modelagem do diagrama e na confecção do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
-|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
+|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        Boa         |       Atuou na revisão do artefato       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        Média         |       Participou na revisão final do artefato       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa       |      Participação na revisão final do artefato e em possiveis correções       |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Paticipação na revisão do artefato       |
@@ -48,7 +48,7 @@
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Excelente         |       Atuou na Criação do artefato e nas correções dos erros    |
 |   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Boa         |       Atuei na revisão do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
-|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
+|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        Boa         |       Atuou na revisão do artefato       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa        |      Participação ativa na revisão do artefato      |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Excelente        |       Participou na criação do artefato e nas correções necessárias     |
@@ -102,7 +102,7 @@
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Atuou na revisão do artefato      |
 |   211039439   |         [Gabriel Campello Marques](https://github.com/G16C)         |        Boa         |       Participei da modelagem do diagrama de pacotes       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
-|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
+|   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        Boa         |       Atuou na revisão do artefato       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        Excelente         |       Criação das seções de Introdução, Metodologia, Fundamentos e elaboração dos diagramas       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa        |       Participação na revisão dos artefatos         |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Paticipação na revisão do artefato      |
