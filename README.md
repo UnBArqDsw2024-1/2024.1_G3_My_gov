@@ -13,7 +13,6 @@ No quadro a seguir a lista de participantes da equipe:
 | ------------- | ------------------------------------------------------------------ |
 | 211039250     | [Arthur Grandão de Mello](https://github.com/arthurgrandao)        |
 | 211043610     | [Arthur Marmo Cathalá](https://github.com/artmarmocathala)         |
-| 211061494     | [Bruno Tarquinio Silva](https://github.com/brunotarquinio)         |
 | 211031691     | [Fause Carlos](https://github.com/FauseSkyWalker)                  |
 | 211039439     | [Gabriel Campello Marque](https://github.com/G16C)                 |
 | 190089601     | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |
