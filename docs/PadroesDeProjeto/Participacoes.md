@@ -19,8 +19,6 @@
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
 
-
-
 ## <a>*GoFs Estruturais*</a>
 
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
@@ -60,6 +58,6 @@
 
 | Versão |    Data    |      Descrição      |                      Autor                       |             Revisor              |
 | :----: | :--------: | :-----------------: | :----------------------------------------------: | :------------------------------: |
-| `1.0`  | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Yankee](../Subgrupos/Yankee.md) |
+| `1.0`  | 17/07/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Yankee](../Subgrupos/Yankee.md) |
 
 </center>
