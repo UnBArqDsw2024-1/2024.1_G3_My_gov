@@ -79,6 +79,10 @@ nav:
     - Participações: Modelagem/Participacoes.md
   - Padrões de Projeto:
     - PadroesDeProjeto/index.md
+    - GoFs Criacionais: PadroesDeProjeto/GoFsCriacionais.md
+    - GoFs Estruturais: PadroesDeProjeto/GoFsEstruturais.md
+    - GoFs Comportamentais: PadroesDeProjeto/GoFsComportamentais.md
+    - Participações: PadroesDeProjeto/Participacoes.md
   - Arquitetura de Software & Reutilização:
     - ArquiteturaReutilizacao/index.md
   - Reuniões: 
