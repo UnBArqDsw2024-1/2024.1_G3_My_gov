@@ -26,7 +26,6 @@ No quadro a seguir a lista de participantes da equipe:
 | :-----------: | :----------------------------------------------------------------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |
-|   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |
@@ -56,7 +55,7 @@ O MyGov visa solucionar esses problemas e oferecer aos usuários da Terracap uma
 
 ### <a>*Divisão do Grupo*</a>
 
-O Grupo 3 é composto por 13 alunos e está organizado em 4 subgrupos de 3 membros cada, além de um Scrum Master que atua como coringa. Essa organização visa promover a colaboração, a comunicação e a eficiência no desenvolvimento do projeto.
+O Grupo 3 é composto por 12 alunos e está organizado em 4 subgrupos de 3 membros cada, além de um Scrum Master que atua como coringa. Essa organização visa promover a colaboração, a comunicação e a eficiência no desenvolvimento do projeto.
 
 Subgrupos:
 
@@ -81,16 +80,6 @@ O Scrum se concentra em três funções principais:
 - <a>**Organização do Repositório**</a>: Manter o repositório organizado e estruturado facilita o acesso e a gestão das informações, otimizando o fluxo de trabalho e garantindo a qualidade do código.
 - <a>**Padronização dos Artefatos**</a>: Assegurar um padrão entre os artefatos contribui para a coesão e a uniformidade do projeto, facilitando a comunicação e a compreensão do código.
 - <a>**Pós-Revisão**</a>: Realizar uma revisão cuidadosa após a conclusão de cada sprint permite identificar pontos de melhoria e oportunidades de otimização, aprimorando continuamente o processo de desenvolvimento.
-
-
-## <a>*Screenshots Primeira Entrega FOCO: DSW(Base)*</a>
-Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
-
-## <a>*Descritivo dos Principais Aspectos Técnicos *</a>
-Principal(is) Metodologia(s) Adotada(s): <a>**Scrum**</a> <br>
-Principais Linguagens Utilizadas e/ou Pretendidas: <a>**xxxxxx**</a> <br>
-Principais Tecnologias Utilizadas e/ou Pretendidas: <a>**xxxxxx**</a> <br>
-Principal(is) Estilo(s) Arquitetural(is) Adotado(s): <a>**xxxxxx**</a> <br>
 
 <center>
 
