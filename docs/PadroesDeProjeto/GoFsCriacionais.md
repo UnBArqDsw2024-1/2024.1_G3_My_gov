@@ -25,9 +25,7 @@ Na aplicação, utilizamos o padrão de projeto Factory Method para gerenciar a 
 
 ## <a>*Modelagem do Factory Method*</a>
 
-![Diagram Gof Criacional Factory Method](/docs/Assets/GoFCriacional/DiagramaPacotes.png)
-
-Texto do Diagrama
+![Diagrama Criacional Factory Method](docs/Assets/GoFCriacional/DiagramaPacotes.png)
 
 
 ## <a>*Aplicação do Factory Method*</a>
@@ -36,11 +34,14 @@ codigo
 
 ## <a>*Conclusão*</a>
 
-Conclusão
+Com o uso do padrão de projeto Factory Method, conseguimos organizar e gerenciar eficientemente a criação de diferentes tipos de documentos na aplicação TerraCap. Este padrão oferece vários benefícios, como desacoplamento, extensibilidade e manutenibilidade, ao centralizar a lógica de criação de documentos e delegar a responsabilidade de instanciar objetos específicos para subclasses concretas. Dessa forma, a aplicação se torna mais flexível e adaptável a mudanças futuras, permitindo a adição de novos tipos de documentos sem a necessidade de modificar o código existente. A implementação do Factory Method, portanto, contribui significativamente para a manutenção da coesão e da organização do código, facilitando o desenvolvimento e a extensão contínua da aplicação.
+
 
 ## <a>*Bibliografia*</a>
 
-    Referencia:Padrao
+    SERRANO. MILENE, AULA - GoFs Criacionais, Universidade de Brasília, 2024
+
+    Gamma, Erich, Richard Helm, Ralph Johnson, e John Vlissides.Design Patterns: Elements of Reusable Object-Oriented Software*. Addison-Wesley, 1994.
 
 <Center>
 
