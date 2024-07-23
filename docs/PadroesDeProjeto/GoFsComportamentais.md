@@ -14,7 +14,10 @@ Descrição breve sobre o que se trata o artefato.
 
 ## <a>*Metodologia*</a>
 
-Descrição de como o artefato foi concebido.
+O subgrupo [Whiskey](Subgrupos/Whiskey.md) se reuniu para discutir e viualizar os diversos padrões de projeto GoFs Comportamentais, com o objetivo de apresentar um padrão GoF Comportamental, com nível de modelagem e nível de implementação que possam ser utilizados na melhoria da plataforma da Terracap. Nesta reunião, após discutir e analisar os padrões, decidimos modelar e implementar os seguintes padrões: 
+
+* State
+* Observer
 
 ## <a>*Tópico 1*</a>
 
@@ -34,4 +37,4 @@ Favor não copiar o histórico de versão dobrado, essa seção é apenas para r
 
 | Versão |    Data    |       Descrição       | Autor(es) | Revisor(es) |
 | :----: | :--------: | :-------------------: | :-------: | :---------: |
-| `1.0`  | 06/04/2024 | Confecção do artefato |   Autor   |   revisor   |
+| `1.0`  | 23/07/2024 | Descrição da metodologia utilizada |   [Whiskey](Subgrupos/Whiskey.md)  |      |
