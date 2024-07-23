@@ -25,7 +25,10 @@ Na aplicação, utilizamos o padrão de projeto Factory Method para gerenciar a 
 
 ## <a>*Modelagem do Factory Method*</a>
 
-Diagrama
+![Diagram Gof Criacional Factory Method](/docs/Assets/GoFCriacional/DiagramaPacotes.png)
+
+Texto do Diagrama
+
 
 ## <a>*Aplicação do Factory Method*</a>
 
