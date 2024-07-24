@@ -42,4 +42,4 @@ Luana vê o Terra Cap como um aliado importante em sua carreira, oferecendo-lhe 
 | Versão |    Data    |      Descrição      |            Autor(es)            |              Revisor(es)              |
 | :----: | :--------: | :-----------------: | :-----------------------------: | :-----------------------------------: |
 | `1.0`  | 06/04/2024 | Criação do artefato | [Papa](../../Subgrupos/Papa.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
-| `2.0`  | 06/04/2024 | Ajustes conforme feedback |  [Foxtrot](../../Subgrupos/Foxtrot.md) |  [Papa](../../Subgrupos/Papa.md) |
+| `2.0`  | 24/07/2024 | Ajustes conforme feedback |  [Foxtrot](../../Subgrupos/Foxtrot.md) |  [Papa](../../Subgrupos/Papa.md) |
