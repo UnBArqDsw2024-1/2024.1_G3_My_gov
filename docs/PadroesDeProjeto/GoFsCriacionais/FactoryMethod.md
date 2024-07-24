@@ -13,12 +13,19 @@ Beneficios do factory Method:
 
 ## <a>*Metodologia*</a>
 
-Na aplicação, utilizamos o padrão de projeto Factory Method para gerenciar a criação de diferentes tipos de documentos, como declarações de retrovenda e boletos. Centralizamos a lógica de criação de documentos na classe abstrata Documento Factory, que define um método Create_Documento a ser implementado por suas subclasses concretas, Declaracao_RetrovendaFactory e Boleto_Factory. Essas fábricas concretas são responsáveis por instanciar os documentos específicos (declaração de retrovenda e boleto), cada um com seus atributos particulares. Esse padrão nos permite adicionar novos tipos de documentos conforme necessidade futura, de maneira flexível mantendo a coesão e a organização do código, além de facilitar a manutenção e a extensão da aplicação.
+Na aplicação, utilizamos o padrão de projeto Factory Method para gerenciar a criação de diferentes tipos de documentos, como declarações de retrovenda e boletos. Centralizamos a lógica de criação de documentos na classe abstrata Documento Factory, que define um método Create_Documento a ser implementado por suas subclasses concretas, Declaracao_RetrovendaFactory e Boleto_Factory. Essas fábricas concretas são responsáveis por instanciar os documentos específicos (declaração de retrovenda e boleto), cada um com seus atributos particulares. Esse padrão nos permite adicionar novos tipos de documentos conforme necessidade futura, de maneira flexível mantendo a coesão e a organização do código, além de facilitar a manutenção e a extensão da aplicação. Para exemplificar o uso no sistema e facilitar a compreensão foi utilizado uma biblioteca do python para gerar um Mock Document, dessa forma é possível ver o funcionamento do código.
 
 ## <a>*Modelagem*</a>
 
 ![Diagrama Criacional Factory Method](../../Assets/GoFCriacional/Factory.png)
 
+<center>
+
+<b>Vídeo 1</b>: Reunião subgrupo papa
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LU2X5XbeiTM?si=P2kcRYVjYsMK2WI-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 ## <a>*Implementação*</a>
 
@@ -145,6 +152,8 @@ Com o uso do padrão de projeto Factory Method, conseguimos organizar e gerencia
     SERRANO. MILENE, AULA - GoFs Criacionais, Universidade de Brasília, 2024
 
     Gamma, Erich, Richard Helm, Ralph Johnson, e John Vlissides.Design Patterns: Elements of Reusable Object-Oriented Software*. Addison-Wesley, 1994.
+
+    REFACTORING GURU. Design Patterns. Disponível em: https://refactoring.guru/design-patterns. Acesso em: 22/07/2024.
 
 <Center>
 
