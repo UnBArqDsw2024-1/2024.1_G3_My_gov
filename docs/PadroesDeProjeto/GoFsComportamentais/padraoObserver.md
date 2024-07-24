@@ -10,7 +10,7 @@ Demais orientações disponíveis nas Diretrizes (vide Moodle). -->
 
 ## <a>*Introdução*</a>
 
-Descrição breve sobre o que se trata o artefato.
+Artefato de especificação do GoF Comportamental de padrão Observer implementado pelo subgrupo [Whiskey](Subgrupos/Whiskey.md).
 
 ## <a>*Metodologia*</a>
 
@@ -19,7 +19,6 @@ O subgrupo [Whiskey](Subgrupos/Whiskey.md) se reuniu para discutir e viualizar o
 * State
 * Observer
 
-## <a>*Padrão State*</a>
 
 ## <a>*Padrão Observer*</a>
 
