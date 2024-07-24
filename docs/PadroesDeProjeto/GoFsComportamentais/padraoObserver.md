@@ -10,11 +10,11 @@ Demais orientações disponíveis nas Diretrizes (vide Moodle). -->
 
 ## <a>*Introdução*</a>
 
-Artefato de especificação do GoF Comportamental de padrão Observer implementado pelo subgrupo [Whiskey](/Subgrupos/Whiskey.md).
+Artefato de especificação do GoF Comportamental de padrão Observer implementado pelo subgrupo [Whiskey](../../Subgrupos/Whiskey.md).
 
 ## <a>*Metodologia*</a>
 
-O subgrupo [Whiskey](/Subgrupos/Whiskey.md) se reuniu para discutir e viualizar os diversos padrões de projeto GoFs Comportamentais, com o objetivo de apresentar um padrão GoF Comportamental, com nível de modelagem e nível de implementação que possam ser utilizados na melhoria da plataforma da Terracap. Nesta reunião, após discutir e analisar os padrões, decidimos modelar e implementar os seguintes padrões:
+O subgrupo [Whiskey](../../Subgrupos/Whiskey.md) se reuniu para discutir e viualizar os diversos padrões de projeto GoFs Comportamentais, com o objetivo de apresentar um padrão GoF Comportamental, com nível de modelagem e nível de implementação que possam ser utilizados na melhoria da plataforma da Terracap. Nesta reunião, após discutir e analisar os padrões, decidimos modelar e implementar os seguintes padrões:
 
 * State
 * Observer
@@ -183,5 +183,6 @@ Favor não copiar o histórico de versão dobrado, essa seção é apenas para r
 
 | Versão |    Data    |             Descrição              |            Autor(es)             |           Revisor(es)            |
 | :----: | :--------: | :--------------------------------: | :------------------------------: | :------------------------------: |
-| `1.0`  | 23/07/2024 | Descrição da metodologia utilizada | [Whiskey](/Subgrupos/Whiskey.md) | [Foxtrot](/Subgrupos/Foxtrot.md) |
-| `1.1`  | 24/07/2024 |        Adição dos diagramas        | [Whiskey](/Subgrupos/Whiskey.md) | [Foxtrot](/Subgrupos/Foxtrot.md) |
+| `1.0`  | 23/07/2024 | Descrição da metodologia utilizada | [Whiskey](../../Subgrupos/Whiskey.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
+| `1.1`  | 24/07/2024 |        Adição dos diagramas        | [Whiskey](../../Subgrupos/Whiskey.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
+| `1.2`  | 24/07/2024 |        Revisão                     | [Foxtrot](../../Subgrupos/Foxtrot.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
