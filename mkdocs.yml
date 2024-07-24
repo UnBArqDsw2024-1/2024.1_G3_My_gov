@@ -1,4 +1,4 @@
-site_name: Arquitetura e Desenho de Software
+site_name: MyGov
 
 site_description: Site de documentação do projeto MyGov
 
@@ -79,13 +79,13 @@ nav:
     - Participações: Modelagem/Participacoes.md
   - Padrões de Projeto:
     - PadroesDeProjeto/index.md
-    - GoFs Criacionais: PadroesDeProjeto/GoFsCriacionais.md
-    - GoFs Estruturais: 
-      - Gof Estrutural 1: PadroesDeProjeto/GoFsEstruturais/Facade.md
+    - GoF's Criacionais: 
+      - PadroesDeProjeto/GoFsCriacionais/index.md
+      - Factory Method: PadroesDeProjeto/GoFsCriacionais/FactoryMethod.md
+    - GoF's Estruturais: 
+      - Gof Estrutural 1: PadroesDeProjeto/GoFsEstruturais/GoFComportamental1.md
       - Gof Estrutural 2: PadroesDeProjeto/GoFsEstruturais/GoFComportamental2.md
-    - GoFs Comportamentais:
-      - Gof Comportamental 1: PadroesDeProjeto/GoFsComportamentais/padraoObserver.md
-      - Gof Comportamental 2: PadroesDeProjeto/GoFsComportamentais/padraoState.md
+    - GoF's Comportamentais: PadroesDeProjeto/GoFsComportamentais.md
     - Participações: PadroesDeProjeto/Participacoes.md
   - Arquitetura de Software & Reutilização:
     - ArquiteturaReutilizacao/index.md
