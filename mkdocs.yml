@@ -83,7 +83,9 @@ nav:
     - GoFs Estruturais: 
       - Gof Estrutural 1: PadroesDeProjeto/GoFsEstruturais/GoFComportamental1.md
       - Gof Estrutural 2: PadroesDeProjeto/GoFsEstruturais/GoFComportamental2.md
-    - GoFs Comportamentais: PadroesDeProjeto/GoFsComportamentais.md
+    - GoFs Comportamentais:
+      - Gof Comportamental 1: PadroesDeProjeto/GoFsComportamentais/padraoObserver.md
+      - Gof Comportamental 2: PadroesDeProjeto/GoFsComportamentais/padraoState.md
     - Participações: PadroesDeProjeto/Participacoes.md
   - Arquitetura de Software & Reutilização:
     - ArquiteturaReutilizacao/index.md
