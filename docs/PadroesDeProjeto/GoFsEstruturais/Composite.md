@@ -13,7 +13,7 @@ Para elaboração do artefato o subgrupo [Yankee](../../Subgrupos/Yankee.md) rea
 
 ### Problema
 
-O contexto de Retrovenda foi selecionado com base nas inspirações acima, identificando o problema ao solicitar um retrovenda, além das funcionalidades de Solicitar Agendamendo de Serviços e Validar Certidão ou Documento. 
+O contexto de Baixa de Retrovenda foi selecionado com base nas inspirações acima, identificando o problema ao solicitar uma retrovenda e o respectivo formulário associado a ela, além das funcionalidades de Solicitar Agendamendo de Serviços e Validar Certidão ou Documento. 
 
 ### Solução
 
@@ -21,10 +21,16 @@ A seguir são apresentados o diagrama UML e ocódigo relativo à problemática e
 
 ## <a>*UML*</a>
 
+<center>
+ <a id='ref2'>Figura 1 - Diagrama UML </a>
 
-[! Âncora do UML] <a id='ref3'>[3.](#ref3)</a>
+<br> ![alt text](../../Assets/DiagramaUML/GoFComposite.png) <br>
 
-O diagrama foi construído de maneira semelhante a estrutura proposta pelo site [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns/observer). <a id='anchor2'>[2](#ref2)</a>
+<font>Fonte: <a>[Yankee](../../Subgrupos/Yankee.md)</a>, 2024</font>
+
+</center>
+
+O diagrama foi construído baseado na estrutura apresentada em sala de aula e com o auxílio do site [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns/observer). <a id='anchor2'>[2](#ref2)</a>
 
 
 ## <a>*Código*</a>
