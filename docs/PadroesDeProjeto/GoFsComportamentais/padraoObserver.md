@@ -26,7 +26,11 @@ Decidimos modelar e implementar um sistema de notificações para o usuário, qu
 
 ### <a>*Modelagem*</a>
 
+<center> 
+
 ![estado-simples](../../Assets/DiagramaUML/PadraoObserver.png)
+Figura 1 - Diagrama de classes do padrão Observer[2]
+</center>
 
 ### <a>*Implementação*</a>
 

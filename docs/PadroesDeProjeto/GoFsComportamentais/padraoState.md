@@ -25,9 +25,11 @@ O subgrupo [Whiskey](/Subgrupos/Whiskey.md) se reuniu para discutir e viualizar 
 Decidimos modelar e implementar 
 
 ### <a>*Modelagem*</a>
+<center>
 
 ![estado-simples](../../Assets/DiagramaUML/padraoState.png)
-
+Figura 1 - Diagrama de classes do padrão State[2]
+</center>
 ### <a>*Implementação*</a>
 
 Para a implementação do padrão, foi utilizado a linguagem de programação Python e os arquivos individuais de cada classe estao disponíveis na pasta `./srcState` .
