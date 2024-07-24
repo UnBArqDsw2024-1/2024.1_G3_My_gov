@@ -10,11 +10,11 @@ Demais orientações disponíveis nas Diretrizes (vide Moodle). -->
 
 ## <a>*Introdução*</a>
 
-Artefato de especificação do GoF Comportamental de padrão State implementado pelo subgrupo [Whiskey](Subgrupos/Whiskey.md).
+Artefato de especificação do GoF Comportamental de padrão State implementado pelo subgrupo [Whiskey](/Subgrupos/Whiskey.md).
 
 ## <a>*Metodologia*</a>
 
-O subgrupo [Whiskey](Subgrupos/Whiskey.md) se reuniu para discutir e viualizar os diversos padrões de projeto GoFs Comportamentais, com o objetivo de apresentar um padrão GoF Comportamental, com nível de modelagem e nível de implementação que possam ser utilizados na melhoria da plataforma da Terracap. Nesta reunião, após discutir e analisar os padrões, decidimos modelar e implementar os seguintes padrões: 
+O subgrupo [Whiskey](/Subgrupos/Whiskey.md) se reuniu para discutir e viualizar os diversos padrões de projeto GoFs Comportamentais, com o objetivo de apresentar um padrão GoF Comportamental, com nível de modelagem e nível de implementação que possam ser utilizados na melhoria da plataforma da Terracap. Nesta reunião, após discutir e analisar os padrões, decidimos modelar e implementar os seguintes padrões:
 
 * State
 * Observer
@@ -25,6 +25,8 @@ O subgrupo [Whiskey](Subgrupos/Whiskey.md) se reuniu para discutir e viualizar o
 Decidimos modelar e implementar 
 
 ### <a>*Modelagem*</a>
+
+![estado-simples](../../Assets/DiagramaUML/padraoState.png)
 
 ### <a>*Implementação*</a>
 
@@ -133,26 +135,18 @@ class estadoRegular(estadoImovel):
 
 * A classe estadoRegular define todos os métodos e atributos de um imóvel regular.
 
-Exemplo de uso:
 
-```python
-# se quiser criar isso tmj, senao so tira
-```
-
-A saída para o seguinte código será:
-
-```bash
-
-```
 
 ## <a>*Bibliografia*</a>
 
-    Jones Roberto Nuzzi, Design Patterns — Parte 2 — Os Padrões do GOF, 2019, Medium, Disponível em: <https://medium.com/design-pattern-pt/design-patterns-parte-2-os-padroes-do-gof-d7c0a0d5b5e>
+    1. Jones Roberto Nuzzi, Design Patterns — Parte 2 — Os Padrões do GOF, 2019, Medium, Disponível em: <https://medium.com/design-pattern-pt/design-patterns-parte-2-os-padroes-do-gof-d7c0a0d5b5e>
+    2. PLANTUML. PlantUML. Disponível em: <https://www.plantuml.com/>. Acesso em: 23 jul. 2024.
 
 ## <a>*Histórico de Versão (do template)*</a>
 
 Favor não copiar o histórico de versão dobrado, essa seção é apenas para rastrear o template de artefato
 
-| Versão |    Data    |       Descrição       |            Autor(es)            | Revisor(es) |
-| :----: | :--------: | :-------------------: | :-----------------------------: | :---------: |
-| `1.0`  | 23/07/2024 | Confecção do artefato | [Whiskey](Subgrupos/Whiskey.md) |             |
+| Versão |    Data    |       Descrição       |            Autor(es)             |           Revisor(es)            |
+| :----: | :--------: | :-------------------: | :------------------------------: | :------------------------------: |
+| `1.0`  | 23/07/2024 | Confecção do artefato | [Whiskey](/Subgrupos/Whiskey.md) | [Foxtrot](/Subgrupos/Foxtrot.md) |
+| `1.1`  | 24/07/2024 | Adição dos diagramas  | [Whiskey](/Subgrupos/Whiskey.md) | [Foxtrot](/Subgrupos/Foxtrot.md) |

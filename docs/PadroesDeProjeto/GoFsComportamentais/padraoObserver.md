@@ -10,11 +10,11 @@ Demais orientações disponíveis nas Diretrizes (vide Moodle). -->
 
 ## <a>*Introdução*</a>
 
-Artefato de especificação do GoF Comportamental de padrão Observer implementado pelo subgrupo [Whiskey](Subgrupos/Whiskey.md).
+Artefato de especificação do GoF Comportamental de padrão Observer implementado pelo subgrupo [Whiskey](/Subgrupos/Whiskey.md).
 
 ## <a>*Metodologia*</a>
 
-O subgrupo [Whiskey](Subgrupos/Whiskey.md) se reuniu para discutir e viualizar os diversos padrões de projeto GoFs Comportamentais, com o objetivo de apresentar um padrão GoF Comportamental, com nível de modelagem e nível de implementação que possam ser utilizados na melhoria da plataforma da Terracap. Nesta reunião, após discutir e analisar os padrões, decidimos modelar e implementar os seguintes padrões: 
+O subgrupo [Whiskey](/Subgrupos/Whiskey.md) se reuniu para discutir e viualizar os diversos padrões de projeto GoFs Comportamentais, com o objetivo de apresentar um padrão GoF Comportamental, com nível de modelagem e nível de implementação que possam ser utilizados na melhoria da plataforma da Terracap. Nesta reunião, após discutir e analisar os padrões, decidimos modelar e implementar os seguintes padrões:
 
 * State
 * Observer
@@ -26,11 +26,13 @@ Decidimos modelar e implementar um sistema de notificações para o usuário, qu
 
 ### <a>*Modelagem*</a>
 
+![estado-simples](../../Assets/DiagramaUML/PadraoObserver.png)
+
 ### <a>*Implementação*</a>
 
 Para a implementação do padrão, foi utilizado a linguagem de programação Python.
 
-```
+```python
 # Subject
 class Subject(ABC):
     def __init__(self):
@@ -49,7 +51,7 @@ class Subject(ABC):
 
 * A classe Subject possui métodos para anexar (attach), desanexar (detach) e notificar (notify) observadores. Desta forma é possível criar uma lista de elementos que serão notificados quando a classe Subject for notificada.
 
-```
+```python
 # Classe de conta de usuário
 class Account(Subject):
     # Construtor, para criar uma conta de usuário é necessário informar seu nome, e-mail, CPF e data de nascimento
@@ -109,7 +111,7 @@ class Account(Subject):
 
 * Quando o telefone, endereço ou 'foreign'(usuário estrangeiro) for alterado, a classe Account notifica todos os observadores.
 
-```
+```python
 # Observer
 class Observer(ABC):
     @abstractmethod
@@ -119,7 +121,7 @@ class Observer(ABC):
 
 * A classe Observer define uma interface com o método update que deve ser implementado por observadores concretos.
 
-```
+```python
 # Notificador de e-mail
 class EmailNotifier(Observer):
     def __init__(self, account):
@@ -137,7 +139,7 @@ class EmailNotifier(Observer):
 
 Exemplo de uso:
 
-```
+```python
 def main():
     # Cria uma lista de contas
     accounts = [
@@ -160,7 +162,7 @@ if __name__ == "__main__":
 
 A saída para o seguinte código será:
 
-```
+```bash
 Os dados da sua conta: (John Doe, 123.456.789-90) foram alterados.
 Os dados da sua conta: (Jane Doe, 123.456.789-91) foram alterados.
 Os dados da sua conta: (Bob Smith, 123.456.789-92) foram alterados.
@@ -168,12 +170,14 @@ Os dados da sua conta: (Bob Smith, 123.456.789-92) foram alterados.
 
 ## <a>*Bibliografia*</a>
 
-    Jones Roberto Nuzzi, Design Patterns — Parte 2 — Os Padrões do GOF, 2019, Medium, Disponível em: <https://medium.com/design-pattern-pt/design-patterns-parte-2-os-padroes-do-gof-d7c0a0d5b5e>
+    1. Jones Roberto Nuzzi, Design Patterns — Parte 2 — Os Padrões do GOF, 2019, Medium, Disponível em: <https://medium.com/design-pattern-pt/design-patterns-parte-2-os-padroes-do-gof-d7c0a0d5b5e>
+    2. PLANTUML. PlantUML. Disponível em: <https://www.plantuml.com/>. Acesso em: 23 jul. 2024.
 
 ## <a>*Histórico de Versão (do template)*</a>
 
 Favor não copiar o histórico de versão dobrado, essa seção é apenas para rastrear o template de artefato
 
-| Versão |    Data    |       Descrição       | Autor(es) | Revisor(es) |
-| :----: | :--------: | :-------------------: | :-------: | :---------: |
-| `1.0`  | 23/07/2024 | Descrição da metodologia utilizada |   [Whiskey](Subgrupos/Whiskey.md)  |      |
+| Versão |    Data    |             Descrição              |            Autor(es)             |           Revisor(es)            |
+| :----: | :--------: | :--------------------------------: | :------------------------------: | :------------------------------: |
+| `1.0`  | 23/07/2024 | Descrição da metodologia utilizada | [Whiskey](/Subgrupos/Whiskey.md) | [Foxtrot](/Subgrupos/Foxtrot.md) |
+| `1.1`  | 24/07/2024 |        Adição dos diagramas        | [Whiskey](/Subgrupos/Whiskey.md) | [Foxtrot](/Subgrupos/Foxtrot.md) |
