@@ -48,9 +48,7 @@ O padrão Prototype permite que um objeto crie cópias de si mesmo, facilitando 
 
 <Center>
 
-## <a>*Histórico de Versão (do template)*</a>
-
-Favor não copiar o histórico de versão dobrado, essa seção é apenas para rastrear o template de artefato
+## <a>*Histórico de Versão*</a>
 
 | Versão |    Data    |       Descrição       |                    Autor(es)                     | Revisor(es) |
 | :----: | :--------: | :-------------------: | :----------------------------------------------: | :---------: |
