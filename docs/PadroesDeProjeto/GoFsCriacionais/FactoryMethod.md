@@ -1,8 +1,8 @@
-# <a>*Factory Method*</a>
+# <a>*Factory*</a>
 
 ## <a>*Introdução*</a>
 
-<p align="justify">&emsp;&emsp;O Factory Method é um padrão de projeto criacional que define uma interface para criar um objeto, mas permite que as subclasses alterem o tipo de objeto que será criado. Ele promove o princípio aberto/fechado, permitindo a extensão do código sem modificá-lo. O Factory Method é útil quando a classe não pode antecipar a classe dos objetos que deve criar ou quando uma classe deseja que suas subclasses especifiquem esses objetos.</p>
+O Factory Method é um padrão de projeto criacional que define uma interface para criar um objeto, mas permite que as subclasses alterem o tipo de objeto que será criado. Ele promove o princípio aberto/fechado, permitindo a extensão do código sem modificá-lo. O Factory Method é útil quando a classe não pode antecipar a classe dos objetos que deve criar ou quando uma classe deseja que suas subclasses especifiquem esses objetos.
 
 Beneficios do factory Method:
 
@@ -13,7 +13,7 @@ Beneficios do factory Method:
 
 ## <a>*Metodologia*</a>
 
-<p align="justify">&emsp;&emsp; Na aplicação, utilizamos o padrão de projeto Factory Method para gerenciar a criação de diferentes tipos de documentos, como declarações de retrovenda e boletos. Centralizamos a lógica de criação de documentos na classe abstrata Documento Factory, que define um método Create_Documento a ser implementado por suas subclasses concretas, Declaracao_RetrovendaFactory e Boleto_Factory. Essas fábricas concretas são responsáveis por instanciar os documentos específicos (declaração de retrovenda e boleto), cada um com seus atributos particulares. Esse padrão nos permite adicionar novos tipos de documentos conforme necessidade futura, de maneira flexível mantendo a coesão e a organização do código, além de facilitar a manutenção e a extensão da aplicação. Para exemplificar o uso no sistema e facilitar a compreensão foi utilizado uma biblioteca do python para gerar um Mock Document, dessa forma é possível ver o funcionamento do código.</p>
+Na aplicação, utilizamos o padrão de projeto Factory Method para gerenciar a criação de diferentes tipos de documentos, como declarações de retrovenda e boletos. Centralizamos a lógica de criação de documentos na classe abstrata Documento Factory, que define um método Create_Documento a ser implementado por suas subclasses concretas, Declaracao_RetrovendaFactory e Boleto_Factory. Essas fábricas concretas são responsáveis por instanciar os documentos específicos (declaração de retrovenda e boleto), cada um com seus atributos particulares. Esse padrão nos permite adicionar novos tipos de documentos conforme necessidade futura, de maneira flexível mantendo a coesão e a organização do código, além de facilitar a manutenção e a extensão da aplicação. Para exemplificar o uso no sistema e facilitar a compreensão foi utilizado uma biblioteca do python para gerar um Mock Document, dessa forma é possível ver o funcionamento do código.
 
 ## <a>*Modelagem*</a>
 
@@ -144,7 +144,7 @@ if __name__ == "__main__":
 
 ## <a>*Conclusão*</a>
 
-<p align="justify">&emsp;&emsp;Com o uso do padrão de projeto Factory Method, conseguimos organizar e gerenciar eficientemente a criação de diferentes tipos de documentos na aplicação TerraCap. Este padrão oferece vários benefícios, como desacoplamento, extensibilidade e manutenibilidade, ao centralizar a lógica de criação de documentos e delegar a responsabilidade de instanciar objetos específicos para subclasses concretas. Dessa forma, a aplicação se torna mais flexível e adaptável a mudanças futuras, permitindo a adição de novos tipos de documentos sem a necessidade de modificar o código existente. A implementação do Factory Method, portanto, contribui significativamente para a manutenção da coesão e da organização do código, facilitando o desenvolvimento e a extensão contínua da aplicação.</p>
+Com o uso do padrão de projeto Factory Method, conseguimos organizar e gerenciar eficientemente a criação de diferentes tipos de documentos na aplicação TerraCap. Este padrão oferece vários benefícios, como desacoplamento, extensibilidade e manutenibilidade, ao centralizar a lógica de criação de documentos e delegar a responsabilidade de instanciar objetos específicos para subclasses concretas. Dessa forma, a aplicação se torna mais flexível e adaptável a mudanças futuras, permitindo a adição de novos tipos de documentos sem a necessidade de modificar o código existente. A implementação do Factory Method, portanto, contribui significativamente para a manutenção da coesão e da organização do código, facilitando o desenvolvimento e a extensão contínua da aplicação.
 
 
 ## <a>*Bibliografia*</a>

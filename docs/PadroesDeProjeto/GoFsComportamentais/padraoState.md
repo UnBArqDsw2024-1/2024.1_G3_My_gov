@@ -2,7 +2,10 @@
 
 ## <a>*Introdução*</a>
 
-Artefato de especificação do GoF Comportamental de padrão State implementado pelo subgrupo [Whiskey](../../Subgrupos/Whiskey.md).
+O padrão State é um padrão de projeto comportamental que permite que um objeto altere seu comportamento quando seu estado interno muda. O objeto parecerá mudar de classe.
+O padrão State encapsula diferentes estados em objetos separados e delega o trabalho para esses objetos, em vez de usar instruções condicionais para determinar o comportamento com base no estado atual do objeto.
+
+Isso torna o código mais organizado, flexível e fácil de estender quando novos estados são adicionados ou quando o comportamento de um estado muda.Artefato de especificação do GoF Comportamental de padrão State implementado pelo subgrupo [Whiskey](../../Subgrupos/Whiskey.md).
 
 ## <a>*Metodologia*</a>
 

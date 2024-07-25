@@ -2,7 +2,9 @@
 
 ## <a>*Introdução*</a>
 
-Artefato de especificação do GoF Comportamental de padrão Observer implementado pelo subgrupo [Whiskey](../../Subgrupos/Whiskey.md).
+O padrão Observer é um padrão de projeto comportamental que permite que um objeto, chamado de "sujeito", notifique uma lista de objetos dependentes, chamados de "observadores", sobre quaisquer mudanças em seu estado. Isso permite que os observadores sejam atualizados automaticamente sempre que o estado do sujeito muda, sem que o sujeito precise conhecer os detalhes de implementação de cada observador.
+
+O padrão Observer é útil em situações em que vários objetos precisam ser notificados sobre mudanças em um objeto central. Por exemplo, em um sistema de estoque, vários objetos, como a interface do usuário, o banco de dados e os relatórios, podem precisar ser atualizados sempre que o estoque de um produto mudar. Artefato de especificação do GoF Comportamental de padrão Observer implementado pelo subgrupo [Whiskey](../../Subgrupos/Whiskey.md).
 
 ## <a>*Metodologia*</a>
 
