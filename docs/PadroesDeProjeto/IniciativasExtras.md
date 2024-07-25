@@ -2,7 +2,7 @@
 
 ## <a>*Introdução*</a>
 
-Este artefato tem como objetivo expor as melhorias realizadas em artefatos de outras entregas na entrega atual
+Este artefato tem com o objetivo expor as melhorias realizadas em artefatos de outras entregas na entrega atual
 
 ## <a>*[Mapa Mental](../Base/ArtefatosIndependentes/MapaMental.md)*</a>
 
