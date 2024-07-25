@@ -81,14 +81,15 @@ nav:
     - PadroesDeProjeto/index.md
     - GoF's Criacionais: 
       - PadroesDeProjeto/GoFsCriacionais/index.md
-      - Factory Method: PadroesDeProjeto/GoFsCriacionais/FactoryMethod.md
+      - Factory: PadroesDeProjeto/GoFsCriacionais/FactoryMethod.md
     - GoF's Estruturais: 
       - PadroesDeProjeto/GoFsEstruturais/index.md
+      - Composite: PadroesDeProjeto/GoFsEstruturais/Composite.md
       - Facade: PadroesDeProjeto/GoFsEstruturais/Facade.md
     - GoF's Comportamentais: 
       - PadroesDeProjeto/GoFsComportamentais/index.md
-      - Observer: PadroesDeProjeto/GoFsComportamentais/padraoObserver.md
       - State: PadroesDeProjeto/GoFsComportamentais/padraoState.md
+      - Observer: PadroesDeProjeto/GoFsComportamentais/padraoObserver.md
     - Participações: PadroesDeProjeto/Participacoes.md
   - Arquitetura de Software & Reutilização:
     - ArquiteturaReutilizacao/index.md

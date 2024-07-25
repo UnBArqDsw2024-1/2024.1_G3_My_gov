@@ -1,4 +1,4 @@
-# <a>*Factory Method*</a>
+# <a>*Factory*</a>
 
 ## <a>*Introdução*</a>
 

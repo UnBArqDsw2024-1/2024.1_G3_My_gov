@@ -2,20 +2,24 @@
 
 ## <a>*Introdução*</a>
 
-O Composite é um padrão de projeto estrutural que permite que você componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais. <a id='anchor1'>[1](#ref1)</a>
+O padrão Composite é um padrão de projeto estrutural que permite que objetos sejam compostos em estruturas de árvore, possibilitando que os clientes tratem tanto os objetos individuais quanto as composições de objetos de forma uniforme. Este padrão é especialmente útil em situações onde é necessário representar hierarquias de objetos, como em sistemas de arquivos ou interfaces gráficas, onde componentes podem ser agrupados e manipulados de maneira consistente.
+
+A principal vantagem do padrão Composite é a simplificação do código que manipula estruturas complexas, permitindo que operações sejam realizadas em grupos de objetos sem a necessidade de diferenciar entre objetos simples e compostos. Isso resulta em um design mais flexível e extensível, facilitando a adição de novos tipos de componentes sem a necessidade de modificar o código existente.
+
+Neste artefato, o subgrupo [Yankee](../../Subgrupos/Yankee.md) explora a aplicação do padrão Composite em um contexto específico, abordando a problemática da baixa de retrovenda e propondo uma solução que utiliza a composição de serviços para facilitar o agendamento, validação de documentos e o preenchimento de formulários. A implementação em Python é apresentada, juntamente com um diagrama UML que ilustra a estrutura do sistema.
 
 ## <a>*Metodologia*</a>
 
-Para elaboração do artefato o subgrupo [Yankee](../../Subgrupos/Yankee.md) realizou reuniões e discussões entre os dias 17/07 até 24/07 sendo realizada a entrega no dia 25/07. Nos primeiro dia (17) foi realizado um estudo sobre o padrão e escolhido uma problemática que ele poderia resolver, no qual optamos por fazer uma adaptação do Composite com base no [Prótipo](../../Base/DesignSprint/prototipo.md) e no [Diagrama de Classe](../../Modelagem/ModelagemEstatica/DiagramaDeClasses.md). Depois entre os dias 22 a 24, foi realizada a escrita dos textos de introdução, problemática e de solução, além da construção do diagrama UML .<a id='anchor3'>[3](#ref3)</a>. Por fim no dia 24 foi dedicado para a implementação do UML em código Python.
+Para elaboração do artefato o subgrupo [Yankee](../../Subgrupos/Yankee.md) realizou reuniões e discussões entre os dias 17/07 até 24/07 sendo realizada a entrega no dia 25/07. Nos primeiro dia (17) foi realizado um estudo sobre o padrão e escolhido uma problemática que ele poderia resolver, no qual optamos por fazer uma adaptação do Composite com base no [Prótipo](../../Base/DesignSprint/prototipo.md) e no [Diagrama de Classe](../../Modelagem/ModelagemEstatica/DiagramaDeClasses.md). Depois entre os dias 22 a 24, foi realizada a escrita dos textos de introdução, problemática e de solução, além da construção do diagrama UML. Por fim no dia 24 foi dedicado para a implementação do UML em código Python.
 
 
 ## <a>*Problema e Solução*</a>
 
-### Problema
+### <a>*Problema*</a>
 
 O contexto de Baixa de Retrovenda foi selecionado com base nas inspirações acima, identificando o problema ao solicitar uma retrovenda e o respectivo formulário associado a ela, além das funcionalidades de Solicitar Agendamendo de Serviços e Validar Certidão ou Documento. 
 
-### Solução
+### <a>*Solução*</a>
 
 A seguir são apresentados o diagrama UML e ocódigo relativo à problemática em questão. 
 
@@ -30,7 +34,7 @@ A seguir são apresentados o diagrama UML e ocódigo relativo à problemática e
 
 </center>
 
-O diagrama foi construído baseado na estrutura apresentada em sala de aula e com o auxílio do site [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns/observer). <a id='anchor2'>[2](#ref2)</a>
+O diagrama foi construído baseado na estrutura apresentada em sala de aula e com o auxílio do site [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns/observer).
 
 
 ## <a>*Código*</a>
@@ -188,10 +192,10 @@ Executando formulário de retrovenda para imóvel: 101
 
 ## <a>*Bibliografia*</a>
 
-> <a id='ref1'>[1.](#anchor1)</a> GAMMA, Eric, et al. **Design Patterns: Elements of Reusable Object-Oriented Software.** 1rd ed. Indianapolis: Pearson Education, 1994.
->
-> <a id='ref2'>2. [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns/composite).
->
+    GAMMA, Eric, et al. **Design Patterns: Elements of Reusable Object-Oriented Software.** 1rd ed. Indianapolis: Pearson Education, 1994.
+
+    [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns/composite).
+
 
 ## <a>*Histórico de Versão*</a>
 
