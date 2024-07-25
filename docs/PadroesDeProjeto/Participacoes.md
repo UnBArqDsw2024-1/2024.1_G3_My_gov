@@ -6,7 +6,7 @@
 
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
-|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
+|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Boa         |       Participou da revisão dos artefatos       |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Excelente          |       Atuou na elaboração do artefato Factory Method       |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
@@ -23,7 +23,7 @@
 
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
-|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
+|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Excelente         |       Participou das reuniões, das discussões e da elaboração do artefato Composite   |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Excelente          |       Atuou na revisão do codigo e correção       |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
@@ -40,7 +40,7 @@
 
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
-|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
+|   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Boa         |       Participou da revisão dos artefatos       |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Otimo       |       Atuou na revisão e correção de ortografia       |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
@@ -63,4 +63,5 @@
 | `1.2`  | 25/07/2024 | Adição da participação| [Vitor Borges](https://github.com/RafaelCLG0) | [Whiskey](../../Subgrupos/Whiskey.md) |
 | `1.3`  | 25/07/2024 | Adição da participação|  [Pedro Henrique](https://github.com/Muniz2811) | [Yankee](../Subgrupos/Yankee.md) |
 | `1.4`  | 25/07/2024 | Adição da participação|  [Leonardo Machado](https://github.com/leonardogonmac) | [Foxtrot](../Subgrupos/Yankee.md) |
+| `1.5`  | 25/07/2024 | Adição da participação| [Arthur Grandão](https://github.com/arthurgrandao) | [Papa](../../Subgrupos/Papa.md) |
 </center>
