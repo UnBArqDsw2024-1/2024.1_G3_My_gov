@@ -2,28 +2,24 @@
 
 ## <a>*Introdução*</a>
 
-O mapa mental é uma ferramenta poderosa para organizar pensamentos, ideias e informações de forma visual e hierárquica. Através de um diagrama com cores, imagens e palavras-chave, o mapa mental permite estruturar o conhecimento de maneira eficiente, facilitando a compreensão e a memorização.
+O mapa mental é uma ferramenta para organizar pensamentos, ideias e informações de forma visual e hierárquica. Através de um diagrama com cores, imagens e palavras-chave, o mapa mental permite estruturar o conhecimento de maneira eficiente, facilitando a compreensão e a memorização. A metodologia também foi definida, por Tony Buzan, como um meio de utilizar a capacidade de associação do cérebro para maximizar o aprendizado e a criatividade.
 
 ## <a>*Metodologia*</a>
 
 1. **Defina o tema central:** Determine o assunto principal que o mapa mental irá abordar.
 2. **Brainstorming:** Faça uma lista de ideias, tópicos e subtópicos relacionados ao tema central.
 3. **Organização:** Estruture as ideias em um diagrama hierárquico, utilizando cores, imagens e palavras-chave para facilitar a visualização.
-4. **Revisão e Refinamento:** Revise o mapa mental para garantir a clareza, a lógica e a coerência das informações.
+4. **Revisão e Refinamento:** Revise o mapa mental para garantir a clareza, a lógica e a coerência das informações. Coffield destaca a importância de revisitar e ajustar continuamente os mapas mentais para refletir melhor a compreensão e novas informações.
+
+Já aplicado ao nosso projeto, devido aos beneficios do mapa mental apresentado abaixo, decidimos realizar esse artefato
 
 ## <a>*Benefícios do Mapa Mental*</a>
 
 * **Organização e clareza:** O mapa mental permite organizar e estruturar o conhecimento de forma visual e hierárquica, facilitando a compreensão e a memorização.
 * **Estimulação da criatividade:** A natureza visual do mapa mental estimula a criatividade e a geração de novas ideias.
-* **Melhor assimilação de informações:** A organização e a visualização das informações facilitam a assimilação e a retenção do conhecimento.
+* **Melhor assimilação de informações:** A organização e a visualização das informações facilitam a assimilação e a retenção do conhecimento. Jensen argumenta que métodos visuais, como mapas mentais, são eficazes para a aprendizagem porque envolvem mais sentidos, o que melhora a retenção.
 * **Resolução de problemas:** O mapa mental pode ser utilizado para analisar problemas, identificar causas e soluções de forma eficiente.
 
-## <a>*Como Criar um Mapa Mental*</a>
-
-* **Escolha o tema central:** Determine o assunto principal que o mapa mental irá abordar.
-* **Brainstorming:** Faça uma lista de ideias, tópicos e subtópicos relacionados ao tema central.
-* **Organização:** Estruture as ideias em um diagrama hierárquico, utilizando cores, imagens e palavras-chave para facilitar a visualização.
-* **Revisão e Refinamento:** Revise o mapa mental para garantir a clareza, a lógica e a coerência das informações.
 
 ## <a>*Ferramentas para Criar Mapas Mentais*</a>
 
@@ -37,6 +33,10 @@ O mapa mental é uma ferramenta poderosa para organizar pensamentos, ideias e in
 * **Tomada de decisões:** O mapa mental pode ser utilizado para analisar diferentes opções e tomar decisões de forma mais consciente.
 * **Estudos:** O mapa mental pode ser utilizado para organizar conteúdo de estudo, revisar para provas e apresentações.
 * **Brainstorming:** O mapa mental é uma ferramenta ideal para brainstorming, geração de novas ideias e soluções criativas.
+
+## <a>*Aplicação no Projeto*</a>
+
+Para a aplicação prática no projeto, utilizamos diversas ferramentas colaborativas. Durante o desenvolvimento do mapa mental, fizemos uso do Discord para realizar chamadas de voz, permitindo discussões em tempo real. Utilizamos o Live Share do Visual Studio Code para colaborar na elaboração do artefato de forma síncrona, facilitando a edição e a revisão do mapa mental. A ferramenta Whimsical foi escolhida para a criação do mapa mental devido à sua interface intuitiva e funcionalidades robustas para diagramas.
 
 ## <a>*Mapa Mental Criado*</a>
 
@@ -68,5 +68,6 @@ O mapa mental é uma ferramenta poderosa e versátil que pode ser utilizada para
 | :----: | :--------: | :-----------------: | :----------------------------------------------: | :---------------------------------: |
 | `1.0`  | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) |   [Papa](../../Subgrupos/Papa.md)   |
 | `1.1`  | 07/04/2024 |   Complementação    |      [Foxtrot](../../Subgrupos/Foxtrot.md)       | [Yankee](../../Subgrupos/Yankee.md) |
+| `2.0`  | 24/07/2024 | Ajustes conforme feedback  |      [Foxtrot](../../Subgrupos/Foxtrot.md)       | [Yankee](../../Subgrupos/Yankee.md) |
 
 </center>   
