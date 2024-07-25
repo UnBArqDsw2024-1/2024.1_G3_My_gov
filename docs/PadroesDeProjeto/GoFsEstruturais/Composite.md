@@ -26,12 +26,9 @@ A seguir são apresentados o diagrama UML e ocódigo relativo à problemática e
 ## <a>*UML*</a>
 
 <center>
- <a id='ref2'>Figura 1 - Diagrama UML </a>
-
+Figura 1 - Diagrama UML
 <br> ![alt text](../../Assets/DiagramaUML/GoFComposite.png) <br>
-
 <font>Fonte: <a>[Yankee](../../Subgrupos/Yankee.md)</a>, 2024</font>
-
 </center>
 
 O diagrama foi construído baseado na estrutura apresentada em sala de aula e com o auxílio do site [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns/observer).

@@ -22,10 +22,11 @@ Após a decisão, o subgrupo se reuniu em uma reunião no Discord e utilizou o l
 
 ## <a>*Modelagem*</a>
 
-<center> 
 
-![modelo-facade](../../Assets/DiagramaUML/modeloFacade.png)
+<center>
 Figura 1 - Diagrama de classes do padrão Facade
+<br> ![modelo-facade](../../Assets/DiagramaUML/modeloFacade.png) <br>
+<font>Fonte: <a>[Foxtrot](../../Subgrupos/Foxtrot.md)</a>, 2024</font>
 </center>
 
 ## <a>*Implementação*</a>
