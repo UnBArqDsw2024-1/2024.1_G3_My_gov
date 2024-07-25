@@ -7,7 +7,7 @@
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Boa         |       Participou da revisão dos artefatos       |
-|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
+|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        Boa         |       Participei da revisão do Factory Method       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Excelente          |       Atuou na elaboração do artefato Factory Method       |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
@@ -24,7 +24,7 @@
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Excelente         |       Participou das reuniões, das discussões e da elaboração do artefato Composite   |
-|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
+|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        Excelente        |       Participei em todas as etapas da criação do artefato       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Excelente          |       Atuou na revisão do codigo e correção       |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
@@ -41,7 +41,7 @@
 | **Matrícula** |                             **Aluno**                              | **Participação** | **Descrição** |
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        Boa         |       Participou da revisão dos artefatos       |
-|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
+|   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        Boa         |       Revisei o diagrama observer       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Otimo       |       Atuou na revisão e correção de ortografia       |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
