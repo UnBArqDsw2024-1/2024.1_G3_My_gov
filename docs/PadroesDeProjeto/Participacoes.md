@@ -8,7 +8,7 @@
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
-|   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        x         |       x       |
+|   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Excelente          |       Atuou na elaboração do artefato Factory Method       |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
@@ -25,7 +25,7 @@
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
-|   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        x         |       x       |
+|   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Excelente          |       Atuou na revisão do codigo e correção       |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
@@ -42,7 +42,7 @@
 | :-----------: | :----------------------------------------------------------------: | :--------------: | :-----------: |
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        x         |       x       |
-|   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        x         |       x       |
+|   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Otimo       |       Atuou na revisão e correção de ortografia       |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
