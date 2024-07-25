@@ -20,7 +20,7 @@ Descrição de como o artefato foi concebido.
 
 <Center>
 
-## <a>*Histórico de Versão (do template)*</a>
+## <a>*Histórico de Versão*</a>
 
 Favor não copiar o histórico de versão dobrado, essa seção é apenas para rastrear o template de artefato
 
