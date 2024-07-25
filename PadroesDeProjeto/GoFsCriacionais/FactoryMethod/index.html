@@ -18,7 +18,7 @@
       
       
       <link rel="icon" href="../../../Assets/favicon.png">
-      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.19">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.28">
     
     
       
@@ -26,7 +26,7 @@
       
     
     
-      <link rel="stylesheet" href="../../../assets/stylesheets/main.66ac8b77.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.6543a935.min.css">
       
         
         <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
@@ -1161,6 +1161,8 @@
       
         
       
+        
+      
     
     
       
@@ -1632,6 +1634,27 @@
 
               
             
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../IniciativasExtras/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Iniciativas Extras
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
           </ul>
         </nav>
       
@@ -1945,12 +1968,16 @@
 </ul>
 <h2 id="metodologia"><a><em>Metodologia</em></a></h2>
 <p>Na aplicação, utilizamos o padrão de projeto Factory Method para gerenciar a criação de diferentes tipos de documentos, como declarações de retrovenda e boletos. Centralizamos a lógica de criação de documentos na classe abstrata Documento Factory, que define um método Create_Documento a ser implementado por suas subclasses concretas, Declaracao_RetrovendaFactory e Boleto_Factory. Essas fábricas concretas são responsáveis por instanciar os documentos específicos (declaração de retrovenda e boleto), cada um com seus atributos particulares. Esse padrão nos permite adicionar novos tipos de documentos conforme necessidade futura, de maneira flexível mantendo a coesão e a organização do código, além de facilitar a manutenção e a extensão da aplicação. Para exemplificar o uso no sistema e facilitar a compreensão foi utilizado uma biblioteca do python para gerar um Mock Document, dessa forma é possível ver o funcionamento do código.</p>
-<h2 id="modelagem"><a><em>Modelagem</em></a></h2>
-<p><img alt="Diagrama Criacional Factory Method" src="../../../Assets/GoFCriacional/Factory.png" /></p>
 <p><center></p>
 <p><b>Vídeo 1</b>: Reunião subgrupo papa</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LU2X5XbeiTM?si=P2kcRYVjYsMK2WI-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<p></center></p>
+<h2 id="modelagem"><a><em>Modelagem</em></a></h2>
+<p><center>
+Figura 1 - Diagrama Criacional Factory</p>
+<p><br> <img alt="Diagrama Criacional Factory Method" src="../../../Assets/GoFCriacional/Factory.png" /> <br></p>
+<p><font>Fonte: <a><a href="../../../Subgrupos/Papa/">Papa</a></a>, 2024</font></p>
 <p></center></p>
 <h2 id="implementacao"><a><em>Implementação</em></a></h2>
 <pre><code class="language-python">from abc import ABC, abstractmethod
@@ -2176,7 +2203,7 @@ REFACTORING GURU. Design Patterns. Disponível em: https://refactoring.guru/desi
     <script id="__config" type="application/json">{"base": "../../..", "features": ["header.autohide", "navigation.tabs", "navigation.top", "navigation.indexes"], "search": "../../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "mais 1 nesta p\u00e1gina", "search.result.more.other": "# mais nesta p\u00e1gina", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
     
     
-      <script src="../../../assets/javascripts/bundle.dd8806f2.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.fe8b6f2b.min.js"></script>
       
     
   </body>
