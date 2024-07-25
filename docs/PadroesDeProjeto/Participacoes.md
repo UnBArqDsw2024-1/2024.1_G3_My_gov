@@ -13,7 +13,7 @@
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        Boa         |       Participei na revisão do diagrama de Factory Method       |
-|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
+|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        boa        |      Participei    na revisão do factory method   |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Excelente        |     Participei das reuniões e discussões e elaborei o artefato de factory method    |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Boa         |       Revisei o artefato Gofs Criacionais.       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
@@ -30,7 +30,7 @@
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        Boa         |       Participei na revisão do diagrama de Composite       |
-|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
+|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        excelente        |       participei  em todas as etapas da criação do artefato facade     |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa        |       Revisão geral do artefato e da estrutura, e revisão da implementação e do diagrama do Gof estrutural composite |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Excelente         |       Participei das reuniões, discussões e elaboração do Gofs Estrutural Composite.       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
@@ -47,7 +47,7 @@
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        Excelente         |       Elaboração do código em Python do padrão de State       |
-|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        x         |       x       |
+|   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |       boa       |      Participei brevemente da elaboração do diagrama observer, além de participar da revisão dos artefatos      |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa        |       Revisei o artefato apos sua confecção, garantindo alinhamento com o projeto e sua padronização e revisão da metodologia |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Excelente         |       Revisei os diagramas dos GoFs Comportamentais State e Observe.      |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
@@ -64,4 +64,5 @@
 | `1.3`  | 25/07/2024 | Adição da participação|  [Pedro Henrique](https://github.com/Muniz2811) | [Yankee](../Subgrupos/Yankee.md) |
 | `1.4`  | 25/07/2024 | Adição da participação|  [Leonardo Machado](https://github.com/leonardogonmac) | [Foxtrot](../Subgrupos/Yankee.md) |
 | `1.5`  | 25/07/2024 | Adição da participação| [Arthur Grandão](https://github.com/arthurgrandao) | [Papa](../../Subgrupos/Papa.md) |
+| `1.6`  | 25/07/2024 | Adição da participação| [Paulo Victor](https://github.com/PauloVictorFS) | [Whiskey](../../Subgrupos/Whiskey.md) |
 </center>
