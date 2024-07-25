@@ -1,17 +1,14 @@
- SPEC-<n>: Personas do Terra Cap
-:sectnums:
-:toc:
+# <a>*Personas*</a>
 
-
-## Introdução
+## <a>*Introdução*</a>
 Personas são personagens fictícias criadas para representar os usuários da aplicação. Elas devem possuir características que sumarizam bem os usuários “típicos”, mas que sejam específicas para torná-las ferramentas de design e comunicação eficientes. No contexto desse trabalho, elas serão utilizadas para melhor compreender como as funcionalidades do sistema interagem com as demandas dos usuários.
 
-## Metodologia 
+## <a>*Metodologia *</a>
 As personas foram traçadas a partir da entrevista e do questionario elaborado. No total, o elenco é composto por duas personas,  Essa quantidade foi escolhida porque essa quantidade menor ajuda em torná-las memoráveis ao designers e desenvolvedores aumentando assim as chances do time alcançar os objetivos desejáveis no projeto.
 
-## Personas
+## <a>*Personas*</a>
 
-### Rafael
+### <a>*Rafael*</a>
 
 Rafael tem 32 anos e trabalha como consultor de investimentos em São Paulo. Ele é um profissional ambicioso e sempre busca estar à frente das tendências do mercado financeiro. Seu trabalho exige que ele esteja constantemente atualizado sobre economia, finanças pessoais, negócios e investimentos. Para Rafael, a informação é uma ferramenta crucial para tomar decisões rápidas e informadas, algo essencial em sua profissão.
 
@@ -21,7 +18,7 @@ No trabalho, Rafael frequentemente consulta o Terra Cap para obter insights sobr
 
 À noite, ao chegar em casa, Rafael dedica um tempo para aprofundar seus conhecimentos através de artigos mais longos e detalhados sobre economia global e estratégias de investimento. Ele vê o Terra Cap como uma ferramenta indispensável que o ajuda a manter sua competitividade no mercado, permitindo-lhe oferecer um serviço de alta qualidade aos seus clientes.
 
-### Luana
+### <a>*Luana*</a>
 
 Luana, 36 anos, é analista de marketing em uma empresa de médio porte. Apaixonada por marketing digital, Luana está sempre buscando maneiras de melhorar o desempenho das campanhas online da empresa. Sua rotina é agitada, dividida entre reuniões, análises de métricas e planejamento de estratégias. Para Luana, o tempo é um recurso precioso, e ela está constantemente procurando ferramentas que possam ajudá-la a ser mais eficiente.
 
