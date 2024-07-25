@@ -160,6 +160,7 @@ Com o uso do padrão de projeto Factory Method, conseguimos organizar e gerencia
 ## <a>*Histórico de Versão*</a>
 
 
-| Versão |    Data    |       Descrição       |            Autor(es)            | Revisor(es) |
-| :----: | :--------: | :-------------------: | :-----------------------------: | :---------: |
-| `1.0`  | 23/07/2024 | Confecção do artefato | [Papa](../../Subgrupos/Papa.md) |   revisor   |
+| Versão |    Data    |       Descrição       |             Autor(es)             |              Revisor(es)              |
+| :----: | :--------: | :-------------------: | :-------------------------------: | :-----------------------------------: |
+| `1.0`  | 23/07/2024 | Confecção do artefato |  [Papa](../../Subgrupos/Papa.md)  | [Whiskey](../../Subgrupos/Whiskey.md) |
+| `1.1`  | 23/07/2024 |  Revisão do artefato  | [Yankee](../../Subgrupos/Papa.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) |

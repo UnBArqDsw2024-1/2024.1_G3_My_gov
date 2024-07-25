@@ -203,9 +203,11 @@ Executando formulário de retrovenda para imóvel: 101
 
 Favor não copiar o histórico de versão dobrado, essa seção é apenas para rastrear o template de artefato
 
-| Versão |    Data    |       Descrição       | Autor(es) | Revisor(es) |
-| :----: | :--------: | :-------------------: | :-------: | :---------: |
-| `1.0`  | 22/07/2024 | Confecção do artefato |   [Yankee](../../Subgrupos/Yankee.md)  |   [Whiskey](../../Subgrupos/Whiskey.md)   |
-| `2.0`  | 24/07/2024 | Finalização diagrama e implementação |   [Yankee](../../Subgrupos/Yankee.md)  |   [Whiskey](../../Subgrupos/Whiskey.md)   |
+| Versão |    Data    |              Descrição               |                    Autor(es)                     |              Revisor(es)              |
+| :----: | :--------: | :----------------------------------: | :----------------------------------------------: | :-----------------------------------: |
+| `1.0`  | 22/07/2024 |        Confecção do artefato         |       [Yankee](../../Subgrupos/Yankee.md)        | [Whiskey](../../Subgrupos/Whiskey.md) |
+| `1.1`  | 24/07/2024 | Finalização diagrama e implementação |       [Yankee](../../Subgrupos/Yankee.md)        |    [Papa](../../Subgrupos/Papa.md)    |
+| `1.2`  | 24/07/2024 |         Revisão e Correções          | [João Lucas](https://github.com/VasconcelosJoao) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
+
 
 </Center>

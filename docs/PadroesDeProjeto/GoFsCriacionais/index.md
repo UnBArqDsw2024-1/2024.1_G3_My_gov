@@ -50,6 +50,6 @@ O padrão Prototype permite que um objeto crie cópias de si mesmo, facilitando 
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão |    Data    |       Descrição       |                    Autor(es)                     | Revisor(es) |
-| :----: | :--------: | :-------------------: | :----------------------------------------------: | :---------: |
-| `1.0`  | 23/07/2024 | Confecção do artefato | [João Lucas](https://github.com/VasconcelosJoao) |   Revisor   |
+| Versão |    Data    |       Descrição       |                    Autor(es)                     |           Revisor(es)           |
+| :----: | :--------: | :-------------------: | :----------------------------------------------: | :-----------------------------: |
+| `1.0`  | 23/07/2024 | Confecção do artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Papa](../../Subgrupos/Papa.md) |
