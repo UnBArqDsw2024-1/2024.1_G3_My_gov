@@ -166,6 +166,7 @@ class Start():
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão |    Data    |       Descrição       | Autor(es)                                 | Revisor(es)                               | 
-| :----: | :--------: | :-------------------: | :-------:                                 | :---------:                               |
-| `1.0`  | 24/07/2024 | Confecção do artefato |   [Foxtrot](../../Subgrupos/Foxtrot.md)   |   [Whiskey](../../Subgrupos/Whiskey.md)   |
+| Versão |    Data    |       Descrição       |               Autor(es)               |              Revisor(es)              |
+| :----: | :--------: | :-------------------: | :-----------------------------------: | :-----------------------------------: |
+| `1.0`  | 24/07/2024 | Confecção do artefato | [Foxtrot](../../Subgrupos/Foxtrot.md) | [Whiskey](../../Subgrupos/Whiskey.md) |
+| `1.1`  | 24/07/2024 |  Revisão do artefato  |    [Papa](../../Subgrupos/Papa.md)    |  [Yankee](../../Subgrupos/Yankee.md)  |

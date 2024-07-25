@@ -62,6 +62,6 @@ O padrão Proxy fornece um substituto ou representante de outro objeto para cont
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão |    Data    |       Descrição       |                    Autor(es)                     | Revisor(es) |
-| :----: | :--------: | :-------------------: | :----------------------------------------------: | :---------: |
-| `1.0`  | 24/07/2024 | Confecção do artefato | [João Lucas](https://github.com/VasconcelosJoao) |   Revisor   |
+| Versão |    Data    |       Descrição       |                    Autor(es)                     |              Revisor(es)              |
+| :----: | :--------: | :-------------------: | :----------------------------------------------: | :-----------------------------------: |
+| `1.0`  | 24/07/2024 | Confecção do artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Foxtrot](../../Subgrupos/Foxtrot.md) |

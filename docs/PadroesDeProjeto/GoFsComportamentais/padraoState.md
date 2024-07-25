@@ -143,8 +143,8 @@ class estadoRegular(estadoImovel):
 
 Favor não copiar o histórico de versão dobrado, essa seção é apenas para rastrear o template de artefato
 
-| Versão |    Data    |       Descrição       |            Autor(es)             |           Revisor(es)            |
-| :----: | :--------: | :-------------------: | :------------------------------: | :------------------------------: |
-| `1.0`  | 23/07/2024 | Confecção do artefato | [Whiskey](../../Subgrupos/Whiskey.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
-| `1.1`  | 24/07/2024 | Adição dos diagramas  | [Whiskey](../../Subgrupos/Whiskey.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
-| `1.2`  | 24/07/2024 |        Revisão                     | [Foxtrot](../../Subgrupos/Foxtrot.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
+| Versão |    Data    |       Descrição       |               Autor(es)               |                   Revisor(es)                    |
+| :----: | :--------: | :-------------------: | :-----------------------------------: | :----------------------------------------------: |
+| `1.0`  | 23/07/2024 | Confecção do artefato | [Whiskey](../../Subgrupos/Whiskey.md) |        [Papa](../../Subgrupos/Foxtrot.md)        |
+| `1.1`  | 24/07/2024 | Adição dos diagramas  | [Whiskey](../../Subgrupos/Whiskey.md) |       [Yankee](../../Subgrupos/Yankee.md)        |
+| `1.2`  | 24/07/2024 |        Revisão        | [Foxtrot](../../Subgrupos/Foxtrot.md) | [João Lucas](https://github.com/VasconcelosJoao) |

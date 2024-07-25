@@ -40,6 +40,6 @@ Os padrões emergentes são aqueles que surgem a partir das práticas e experiê
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão |    Data    |       Descrição       |                    Autor(es)                     | Revisor(es) |
-| :----: | :--------: | :-------------------: | :----------------------------------------------: | :---------: |
-| `1.0`  | 23/07/2024 | Confecção do artefato | [João Lucas](https://github.com/VasconcelosJoao) |   Revisor   |
+| Versão |    Data    |       Descrição       |                    Autor(es)                     |           Revisor(es)            |
+| :----: | :--------: | :-------------------: | :----------------------------------------------: | :------------------------------: |
+| `1.0`  | 23/07/2024 | Confecção do artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Yankee](../Subgrupos/Yankee.md) |

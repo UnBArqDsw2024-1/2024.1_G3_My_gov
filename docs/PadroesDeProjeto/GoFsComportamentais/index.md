@@ -80,6 +80,6 @@ O padrão Visitor representa uma operação a ser realizada em elementos de uma 
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão |    Data    |       Descrição       |                    Autor(es)                     | Revisor(es) |
-| :----: | :--------: | :-------------------: | :----------------------------------------------: | :---------: |
-| `1.0`  | 24/07/2024 | Confecção do artefato | [João Lucas](https://github.com/VasconcelosJoao) |   Revisor   |
+| Versão |    Data    |       Descrição       |                    Autor(es)                     |              Revisor(es)              |
+| :----: | :--------: | :-------------------: | :----------------------------------------------: | :-----------------------------------: |
+| `1.0`  | 24/07/2024 | Confecção do artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Whiskey](../../Subgrupos/Whiskey.md) |
