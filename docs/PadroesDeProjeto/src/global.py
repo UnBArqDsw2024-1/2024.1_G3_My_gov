@@ -13,7 +13,7 @@ class Config:
     def get(self, key):
         return self.settings.get(key, None)
 
-# Uso do Padrão de Objeto Global
+# Uso do Padrão do Objeto Global
 config = Config()
 config.set('database_url', 'sqlite:///:memory:')
 print(config.get('database_url'))  # Acesso global à configuração

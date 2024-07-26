@@ -1,10 +1,10 @@
-# <a>*Padrão de Objeto Global*</a>
+# <a>*Padrão do Objeto Global*</a>
 
 ## <a>*Introdução*</a>
 
-O Padrão de Objeto Global é um padrão de design emergente que permite que um objeto seja acessível globalmente em um sistema, promovendo a reutilização e a consistência de dados. Esse padrão é particularmente útil em aplicações que requerem um único ponto de acesso a um conjunto de dados ou funcionalidades, como configurações de sistema ou serviços compartilhados. Ao implementar o Padrão de Objeto Global, os desenvolvedores podem evitar a duplicação de código e garantir que todas as partes do sistema utilizem a mesma instância de um objeto.
+O Padrão do Objeto Global é um padrão de design emergente que permite que um objeto seja acessível globalmente em um sistema, promovendo a reutilização e a consistência de dados. Esse padrão é particularmente útil em aplicações que requerem um único ponto de acesso a um conjunto de dados ou funcionalidades, como configurações de sistema ou serviços compartilhados. Ao implementar o Padrão do Objeto Global, os desenvolvedores podem evitar a duplicação de código e garantir que todas as partes do sistema utilizem a mesma instância de um objeto.
 
-<a>**Benefícios do Padrão de Objeto Global:**</a>
+<a>**Benefícios do Padrão do Objeto Global:**</a>
 
 - **Acesso Global**: Permite que um objeto seja acessado de qualquer parte do código, facilitando a interação entre diferentes componentes do sistema.
   
@@ -14,7 +14,7 @@ O Padrão de Objeto Global é um padrão de design emergente que permite que um 
 
 ## <a>*Metodologia*</a>
 
-Na aplicação, utilizamos o Padrão de Objeto Global para gerenciar a configuração do sistema e os serviços compartilhados. Criamos uma classe `Config` que encapsula as configurações globais e um singleton para garantir que apenas uma instância dessa classe seja criada. Essa instância é acessada em diferentes partes da aplicação, permitindo que todos os componentes leiam e modifiquem as configurações conforme necessário.
+Na aplicação, utilizamos o Padrão do Objeto Global para gerenciar a configuração do sistema e os serviços compartilhados. Criamos uma classe `Config` que encapsula as configurações globais e um singleton para garantir que apenas uma instância dessa classe seja criada. Essa instância é acessada em diferentes partes da aplicação, permitindo que todos os componentes leiam e modifiquem as configurações conforme necessário.
 
 A implementação do padrão foi realizada da seguinte forma:
 
@@ -42,7 +42,7 @@ class Config:
     def get(self, key):
         return self.settings.get(key, None)
 
-# Uso do Padrão de Objeto Global
+# Uso do Padrão do Objeto Global
 config = Config()
 config.set('database_url', 'sqlite:///:memory:')
 print(config.get('database_url'))  # Acesso global à configuração
@@ -50,7 +50,7 @@ print(config.get('database_url'))  # Acesso global à configuração
 
 ## <a>*Conclusão*</a>
 
-A implementação do Padrão de Objeto Global proporcionou uma maneira eficiente de gerenciar configurações e serviços compartilhados em nossa aplicação. Através da centralização das configurações, conseguimos garantir a consistência e facilitar a manutenção do código. O padrão também promoveu uma melhor organização, permitindo que novos desenvolvedores compreendam rapidamente a estrutura do sistema.
+A implementação do Padrão do Objeto Global proporcionou uma maneira eficiente de gerenciar configurações e serviços compartilhados em nossa aplicação. Através da centralização das configurações, conseguimos garantir a consistência e facilitar a manutenção do código. O padrão também promoveu uma melhor organização, permitindo que novos desenvolvedores compreendam rapidamente a estrutura do sistema.
 
 ## <a>*Bibliografia*</a>
     

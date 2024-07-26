@@ -1,0 +1,208 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../../../../docs/Assets/favicon.png">
+    <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.28">
+    <title>MyGov</title>
+    <style>
+        /* Estilos gerais */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        /* Cabeçalho */
+        header {
+            background-color: #0072C6;
+            color: #fff;
+            padding: 20px;
+        }
+        
+        header h1 {
+            margin: 0;
+        }
+        
+        /* Navegação */
+        nav {
+            background-color: #003C71;
+            color: #fff;
+            padding: 10px;
+        }
+        
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
+        
+        nav a {
+            color: #fff;
+            text-decoration: none;
+        }
+        
+        /* Conteúdo principal */
+        main {
+            padding: 20px;
+        }
+        
+        /* Rodapé */
+        footer {
+            background-color: #003C71;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>MyGov</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#">Início</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">Serviços</a></li>
+            <li><a href="#">Contato</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+       
+<p><Center></p>
+    <p></center></p>
+    <h2 id="introducao"><a><em>Introdução</em></a></h2>
+    <p>O projeto <strong>MyGov</strong> foi desenvolvido como parte da disciplina <strong>Arquitetura e Desenho de Software (FGA0208)</strong> do curso <strong>Engenharia de Software</strong> da <strong>Universidade de Brasília (UNB)</strong> no primeiro semestre de <strong>2024</strong>. O objetivo principal do projeto é <strong>apresentar uma proposta de modernização e otimização do site da Terracap, focando na experiência do usuário, acessibilidade e usabilidade.</strong></p>
+    <p><center></p>
+    <h2 id="equipe"><a><em>Equipe</em></a></h2>
+    <p>No quadro a seguir a lista de participantes da equipe:</p>
+    <table>
+    <thead>
+    <tr>
+    <th style="text-align: center;"><strong>Matrícula</strong></th>
+    <th style="text-align: center;"><strong>Aluno</strong></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td style="text-align: center;">211039250</td>
+    <td style="text-align: center;"><a href="https://github.com/arthurgrandao">Arthur Grandão de Mello</a></td>
+    </tr>
+    <tr>
+    <td style="text-align: center;">211043610</td>
+    <td style="text-align: center;"><a href="https://github.com/artmarmocathala">Arthur Marmo Cathalá</a></td>
+    </tr>
+    <tr>
+    <td style="text-align: center;">211031691</td>
+    <td style="text-align: center;"><a href="https://github.com/FauseSkyWalker">Fause Carlos</a></td>
+    </tr>
+    <tr>
+    <td style="text-align: center;">211039439</td>
+    <td style="text-align: center;"><a href="https://github.com/G16C">Gabriel Campello Marque</a></td>
+    </tr>
+    <tr>
+    <td style="text-align: center;">190089601</td>
+    <td style="text-align: center;"><a href="https://github.com/VasconcelosJoao">João Lucas Pinto Vasconcelos</a></td>
+    </tr>
+    <tr>
+    <td style="text-align: center;">211029361</td>
+    <td style="text-align: center;"><a href="https://github.com/bot-do-jao">João Pedro Nóbrega Fernandes</a></td>
+    </tr>
+    <tr>
+    <td style="text-align: center;">211029405</td>
+    <td style="text-align: center;"><a href="https://github.com/leonardogonmac">Leonardo Gonçalves Machado</a></td>
+    </tr>
+    <tr>
+    <td style="text-align: center;">211043718</td>
+    <td style="text-align: center;"><a href="https://github.com/PauloVictorFS">Paulo Victor Fonseca Sousa</a></td>
+    </tr>
+    <tr>
+    <td style="text-align: center;">200059947</td>
+    <td style="text-align: center;"><a href="https://github.com/Muniz2811">Pedro Henrique Muniz de Oliveira</a></td>
+    </tr>
+    <tr>
+    <td style="text-align: center;">211041286</td>
+    <td style="text-align: center;"><a href="https://github.com/RafaelCLG0">Rafael Ferreira Leandro</a></td>
+    </tr>
+    <tr>
+    <td style="text-align: center;">200043030</td>
+    <td style="text-align: center;"><a href="https://github.com/NyndoND">Renann de Oliveira Gomes</a></td>
+    </tr>
+    <tr>
+    <td style="text-align: center;">200028626</td>
+    <td style="text-align: center;"><a href="https://github.com/VitorB2002">Vitor Borges dos Santos</a></td>
+    </tr>
+    </tbody>
+    </table>
+    <p></center></p>
+    <h2 id="sobre"><a><em>Sobre</em></a></h2>
+    <p>O site da Terracap, como muitos sites governamentais, apresenta uma série de desafios para os usuários:</p>
+    <ul>
+    <li><a><strong>Interface desatualizada:</strong></a> O layout e a organização do site não acompanharam as tendências de design moderno, dificultando a navegação e a localização de informações.</li>
+    <li><a><strong>Conteúdo incompleto e desorganizado:</strong></a> As informações no site são frequentemente incompletas, desatualizadas ou desorganizadas, dificultando o acesso aos dados relevantes.</li>
+    <li><a><strong>Acessibilidade limitada:</strong></a> O site não foi desenvolvido com foco na acessibilidade, o que dificulta o uso por pessoas com deficiência.</li>
+    <li><a><strong>Falta de serviços online:</strong></a> O site oferece um número limitado de serviços online, o que exige que os usuários se desloquem pessoalmente para realizar diversos trâmites.</li>
+    </ul>
+    <p>O MyGov visa solucionar esses problemas e oferecer aos usuários da Terracap uma experiência mais amigável, acessível e eficiente.</p>
+    <h3 id="divisao-do-grupo"><a><em>Divisão do Grupo</em></a></h3>
+    <p>O Grupo 3 é composto por 12 alunos e está organizado em 4 subgrupos de 3 membros cada, além de um Scrum Master que atua como coringa. Essa organização visa promover a colaboração, a comunicação e a eficiência no desenvolvimento do projeto.</p>
+    <p>Subgrupos:</p>
+    <ul>
+    <li><a href="Subgrupos/Yankee/">Yankee</a></li>
+    <li><a href="Subgrupos/Papa/">Papa</a></li>
+    <li><a href="Subgrupos/Foxtrot/">Foxtrot</a></li>
+    <li><a href="Subgrupos/Whiskey/">Whiskey</a></li>
+    </ul>
+    <p>Scrum Master:</p>
+    <ul>
+    <li><a href="https://github.com/VasconcelosJoao">João Lucas</a></li>
+    </ul>
+    <h3 id="forma-de-atuacao"><a><em>Forma de Atuação</em></a></h3>
+    <p>O Scrum Master assume a responsabilidade de distribuir as tarefas para os subgrupos, assegurando que cada membro esteja ciente de suas responsabilidades e prazos. Essa distribuição estratégica visa otimizar o trabalho em equipe e garantir o cumprimento das metas do projeto.</p>
+    <p>Cada subgrupo possui autonomia para escolher a metodologia mais adequada à confecção do artefato designado. Essa liberdade permite que os membros explorem suas habilidades e conhecimentos, selecionando a abordagem que melhor se encaixa nas características e objetivos específicos do artefato.</p>
+    <p>O Scrum se concentra em três funções principais:</p>
+    <ul>
+    <li><a><strong>Organização do Repositório</strong></a>: Manter o repositório organizado e estruturado facilita o acesso e a gestão das informações, otimizando o fluxo de trabalho e garantindo a qualidade do código.</li>
+    <li><a><strong>Padronização dos Artefatos</strong></a>: Assegurar um padrão entre os artefatos contribui para a coesão e a uniformidade do projeto, facilitando a comunicação e a compreensão do código.</li>
+    <li><a><strong>Pós-Revisão</strong></a>: Realizar uma revisão cuidadosa após a conclusão de cada sprint permite identificar pontos de melhoria e oportunidades de otimização, aprimorando continuamente o processo de desenvolvimento.</li>
+    </ul>
+    <p><center></p>
+    <h2 id="historico-de-versao"><a>Histórico de Versão</a></h2>
+    <table>
+    <thead>
+    <tr>
+    <th style="text-align: center;">Versão</th>
+    <th style="text-align: center;">Data</th>
+    <th style="text-align: center;">Descrição</th>
+    <th style="text-align: center;">Autor</th>
+    <th style="text-align: center;">Revisor</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td style="text-align: center;"><code>1.0</code></td>
+    <td style="text-align: center;">07/04/2024</td>
+    <td style="text-align: center;">Criação do Artefato</td>
+    <td style="text-align: center;"><a href="https://github.com/VasconcelosJoao">João Lucas</a></td>
+    <td style="text-align: center;"><a href="Subgrupos/Whiskey/">Whiskey</a></td>
+    </tr>
+    </tbody>
+    </table>
+    <p></center></p>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 MyGov. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>

@@ -87,20 +87,22 @@
 
 /* width */
 ::-webkit-scrollbar {
-  width: 5px;
+  width: thin; /* Aumenta a largura do scrollbar */
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #9c9c9c;
+  background: #f1f1f1; /* Cor de fundo do track */
+  border-radius: 10px; /* Bordas arredondadas */
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgba(75, 75, 75, 0.714);
+  background: #888; /* Cor do handle */
+  border-radius: 10px; /* Bordas arredondadas */
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #181818e0;
+  background: #a1a1a1; /* Cor do handle ao passar o mouse */
 }
