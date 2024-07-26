@@ -90,6 +90,8 @@ nav:
       - PadroesDeProjeto/GoFsComportamentais/index.md
       - State: PadroesDeProjeto/GoFsComportamentais/padraoState.md
       - Observer: PadroesDeProjeto/GoFsComportamentais/padraoObserver.md
+    - Padrão do Objeto Global:  PadroesDeProjeto/ObjetoGlobal.md
+    - Iniciativas Extras: PadroesDeProjeto/IniciativasExtras.md
     - Participações: PadroesDeProjeto/Participacoes.md
   - Arquitetura de Software & Reutilização:
     - ArquiteturaReutilizacao/index.md

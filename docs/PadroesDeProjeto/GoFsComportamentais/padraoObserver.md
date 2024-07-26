@@ -20,11 +20,12 @@ Decidimos modelar e implementar um sistema de notificações para o usuário, qu
 
 ### <a>*Modelagem*</a>
 
-<center> 
-
-![estado-simples](../../Assets/DiagramaUML/PadraoObserver.png)
-Figura 1 - Diagrama de classes do padrão Observer[2]
+<center>
+Figura 1 - Diagrama de classes do padrão Observer
+<br> ![estado-simples](../../Assets/DiagramaUML/PadraoObserver.png) <br>
+<font>Fonte: <a>[Whiskey](../../Subgrupos/Whiskey.md)</a>, 2024</font>
 </center>
+
 
 ### <a>*Implementação*</a>
 
