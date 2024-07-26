@@ -59,12 +59,12 @@
 | Versão |    Data    |       Descrição        |                         Autor                         |                Revisor                |
 | :----: | :--------: | :--------------------: | :---------------------------------------------------: | :-----------------------------------: |
 | `1.0`  | 17/07/2024 |  Criação do Artefato   |   [João Lucas](https://github.com/VasconcelosJoao)    |   [Yankee](../Subgrupos/Yankee.md)    |
-| `1.1`  | 25/07/2024 | Adição da participação |   [Rafael Ferreira](https://github.com/RafaelCLG0)    |    [Papa](../../Subgrupos/Papa.md)    |
-| `1.2`  | 25/07/2024 | Adição da participação |     [Vitor Borges](https://github.com/RafaelCLG0)     | [Whiskey](../../Subgrupos/Whiskey.md) |
+| `1.1`  | 25/07/2024 | Adição da participação |   [Rafael Ferreira](https://github.com/RafaelCLG0)    |    [Papa](../Subgrupos/Papa.md)    |
+| `1.2`  | 25/07/2024 | Adição da participação |     [Vitor Borges](https://github.com/RafaelCLG0)     | [Whiskey](../Subgrupos/Whiskey.md) |
 | `1.3`  | 25/07/2024 | Adição da participação |    [Pedro Henrique](https://github.com/Muniz2811)     |   [Yankee](../Subgrupos/Yankee.md)    |
 | `1.4`  | 25/07/2024 | Adição da participação | [Leonardo Machado](https://github.com/leonardogonmac) |   [Foxtrot](../Subgrupos/Yankee.md)   |
-| `1.5`  | 25/07/2024 | Adição da participação |  [Arthur Grandão](https://github.com/arthurgrandao)   |    [Papa](../../Subgrupos/Papa.md)    |
-| `1.6`  | 25/07/2024 | Adição da participação |   [Paulo Victor](https://github.com/PauloVictorFS)    | [Whiskey](../../Subgrupos/Whiskey.md) |
+| `1.5`  | 25/07/2024 | Adição da participação |  [Arthur Grandão](https://github.com/arthurgrandao)   |    [Papa](../Subgrupos/Papa.md)    |
+| `1.6`  | 25/07/2024 | Adição da participação |   [Paulo Victor](https://github.com/PauloVictorFS)    | [Whiskey](../Subgrupos/Whiskey.md) |
 | `1.7`  | 25/07/2024 | Adição da participação |  [João Pedro Nóbrega](https://github.com/bot-do-jao)  |   [Foxtrot](../Subgrupos/Yankee.md)   |
 | `1.7`  | 25/07/2024 | Adição da participação |  [Gabriel Campello Marques](https://github.com/G16C)  |   [Yankee](../Subgrupos/Yankee.md)    |
 </center>
