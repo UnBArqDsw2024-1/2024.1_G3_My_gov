@@ -22,7 +22,7 @@
     
     
       
-        <title>Padrão de Objeto Global - MyGov</title>
+        <title>Padrão do Objeto Global - MyGov</title>
       
     
     
@@ -76,7 +76,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#padrao-de-objeto-global" class="md-skip">
+        <a href="#padrao-do-objeto-global" class="md-skip">
           Pular para conteúdo
         </a>
       
@@ -109,7 +109,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Padrão de Objeto Global
+              Padrão do Objeto Global
             
           </span>
         </div>
@@ -1530,7 +1530,7 @@
           
   
   <span class="md-ellipsis">
-    Padrão de Objeto Global
+    Padrão do Objeto Global
   </span>
   
 
@@ -1541,7 +1541,7 @@
         
   
   <span class="md-ellipsis">
-    Padrão de Objeto Global
+    Padrão do Objeto Global
   </span>
   
 
@@ -1960,10 +1960,10 @@
                   
 
 
-<h1 id="padrao-de-objeto-global"><a><em>Padrão de Objeto Global</em></a></h1>
+<h1 id="padrao-do-objeto-global"><a><em>Padrão do Objeto Global</em></a></h1>
 <h2 id="introducao"><a><em>Introdução</em></a></h2>
-<p>O Padrão de Objeto Global é um padrão de design emergente que permite que um objeto seja acessível globalmente em um sistema, promovendo a reutilização e a consistência de dados. Esse padrão é particularmente útil em aplicações que requerem um único ponto de acesso a um conjunto de dados ou funcionalidades, como configurações de sistema ou serviços compartilhados. Ao implementar o Padrão de Objeto Global, os desenvolvedores podem evitar a duplicação de código e garantir que todas as partes do sistema utilizem a mesma instância de um objeto.</p>
-<p><a><strong>Benefícios do Padrão de Objeto Global:</strong></a></p>
+<p>O Padrão do Objeto Global é um padrão de design emergente que permite que um objeto seja acessível globalmente em um sistema, promovendo a reutilização e a consistência de dados. Esse padrão é particularmente útil em aplicações que requerem um único ponto de acesso a um conjunto de dados ou funcionalidades, como configurações de sistema ou serviços compartilhados. Ao implementar o Padrão do Objeto Global, os desenvolvedores podem evitar a duplicação de código e garantir que todas as partes do sistema utilizem a mesma instância de um objeto.</p>
+<p><a><strong>Benefícios do Padrão do Objeto Global:</strong></a></p>
 <ul>
 <li>
 <p><strong>Acesso Global</strong>: Permite que um objeto seja acessado de qualquer parte do código, facilitando a interação entre diferentes componentes do sistema.</p>
@@ -1976,7 +1976,7 @@
 </li>
 </ul>
 <h2 id="metodologia"><a><em>Metodologia</em></a></h2>
-<p>Na aplicação, utilizamos o Padrão de Objeto Global para gerenciar a configuração do sistema e os serviços compartilhados. Criamos uma classe <code>Config</code> que encapsula as configurações globais e um singleton para garantir que apenas uma instância dessa classe seja criada. Essa instância é acessada em diferentes partes da aplicação, permitindo que todos os componentes leiam e modifiquem as configurações conforme necessário.</p>
+<p>Na aplicação, utilizamos o Padrão do Objeto Global para gerenciar a configuração do sistema e os serviços compartilhados. Criamos uma classe <code>Config</code> que encapsula as configurações globais e um singleton para garantir que apenas uma instância dessa classe seja criada. Essa instância é acessada em diferentes partes da aplicação, permitindo que todos os componentes leiam e modifiquem as configurações conforme necessário.</p>
 <p>A implementação do padrão foi realizada da seguinte forma:</p>
 <ol>
 <li><strong>Classe Config</strong>: Define as propriedades e métodos para acessar e modificar as configurações globais.</li>
@@ -2000,13 +2000,13 @@
     def get(self, key):
         return self.settings.get(key, None)
 
-# Uso do Padrão de Objeto Global
+# Uso do Padrão do Objeto Global
 config = Config()
 config.set('database_url', 'sqlite:///:memory:')
 print(config.get('database_url'))  # Acesso global à configuração
 </code></pre>
 <h2 id="conclusao"><a><em>Conclusão</em></a></h2>
-<p>A implementação do Padrão de Objeto Global proporcionou uma maneira eficiente de gerenciar configurações e serviços compartilhados em nossa aplicação. Através da centralização das configurações, conseguimos garantir a consistência e facilitar a manutenção do código. O padrão também promoveu uma melhor organização, permitindo que novos desenvolvedores compreendam rapidamente a estrutura do sistema.</p>
+<p>A implementação do Padrão do Objeto Global proporcionou uma maneira eficiente de gerenciar configurações e serviços compartilhados em nossa aplicação. Através da centralização das configurações, conseguimos garantir a consistência e facilitar a manutenção do código. O padrão também promoveu uma melhor organização, permitindo que novos desenvolvedores compreendam rapidamente a estrutura do sistema.</p>
 <h2 id="bibliografia"><a><em>Bibliografia</em></a></h2>
 <pre><code>python-patterns.guide. (n.d.). The Global Object Pattern. [online] Available at: https://python-patterns.guide/python/module-globals/#the-global-object-pattern [Accessed 25 Jul. 2024].
 </code></pre>
