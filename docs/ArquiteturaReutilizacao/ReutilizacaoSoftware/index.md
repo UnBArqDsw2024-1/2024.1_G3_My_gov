@@ -1,4 +1,4 @@
-# 4.2. Módulo Reutilização de Software
+# Reutilização de Software
 
 Foco_02: Reutilização de Software
 

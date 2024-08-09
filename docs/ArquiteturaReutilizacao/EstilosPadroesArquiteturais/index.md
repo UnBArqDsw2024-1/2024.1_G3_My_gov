@@ -1,4 +1,4 @@
-# 4.1. Módulo Estilos e Padrões Arquiteturais
+# Estilos e Padrões Arquiteturais
 
 Foco_01: Arquitetura de Software
 

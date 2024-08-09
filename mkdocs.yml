@@ -95,6 +95,15 @@ nav:
     - Participações: PadroesDeProjeto/Participacoes.md
   - Arquitetura de Software & Reutilização:
     - ArquiteturaReutilizacao/index.md
+    - Estilos e Padrões Arquiteturais:
+      - ArquiteturaReutilizacao/EstilosPadroesArquiteturais/index.md
+      - Visão Lógica: ArquiteturaReutilizacao/EstilosPadroesArquiteturais/VisaoLogica.md
+      - Visão de Processos: ArquiteturaReutilizacao/EstilosPadroesArquiteturais/VisaoProcessos.md
+    - Reutilização de Software:
+      - ArquiteturaReutilizacao/ReutilizacaoSoftware/index.md
+      - Conceitual: ArquiteturaReutilizacao/ReutilizacaoSoftware/Conceitual.md
+      - Codigo: ArquiteturaReutilizacao/ReutilizacaoSoftware/Codigo.md
+    - Diretrizes: ArquiteturaReutilizacao/Diretrizes.md
     - Participações: ArquiteturaReutilizacao/Participacoes.md
   - Reuniões: 
     - AtasReunioes/index.md

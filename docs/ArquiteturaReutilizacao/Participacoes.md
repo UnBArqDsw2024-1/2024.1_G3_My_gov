@@ -1,4 +1,6 @@
-# <a>*Participações - ArquiteturaReutilizacao*</a>
+<center>
+
+# <a>*Participações - Arquitetura & Reutilização de Software*</a>
 
 
 ## <a>*Tema 1*</a>
