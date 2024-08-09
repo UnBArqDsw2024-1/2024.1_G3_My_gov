@@ -101,8 +101,8 @@ nav:
       - Visão de Processos: ArquiteturaReutilizacao/EstilosPadroesArquiteturais/VisaoProcessos.md
     - Reutilização de Software:
       - ArquiteturaReutilizacao/ReutilizacaoSoftware/index.md
-      - Conceitual: ArquiteturaReutilizacao/ReutilizacaoSoftware/Conceitual.md
-      - Codigo: ArquiteturaReutilizacao/ReutilizacaoSoftware/Codigo.md
+      - Parte Conceitual: ArquiteturaReutilizacao/ReutilizacaoSoftware/Conceitual.md
+      - Parte de Código: ArquiteturaReutilizacao/ReutilizacaoSoftware/Codigo.md
     - Diretrizes: ArquiteturaReutilizacao/Diretrizes.md
     - Participações: ArquiteturaReutilizacao/Participacoes.md
   - Reuniões: 
