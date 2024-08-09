@@ -72,6 +72,6 @@ A especificação das visões do DAS, como a Visão Lógica, Visão de Processo 
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão |    Data    |       Descrição       | Autor(es) | Revisor(es) |
-| :----: | :--------: | :-------------------: | :-------: | :---------: |
-| `1.0`  | 06/04/2024 | Confecção do artefato |   Autor   |   revisor   | 
+| Versão |    Data    |      Descrição      |                    Autor(es)                     |            Revisor(es)             |
+| :----: | :--------: | :-----------------: | :----------------------------------------------: | :--------------------------------: |
+| `1.0`  | 09/08/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Yankee](../../Subgrupos/Yankee.md) |

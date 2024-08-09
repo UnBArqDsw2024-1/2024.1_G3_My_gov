@@ -81,8 +81,9 @@
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão |    Data    |      Descrição      |                      Autor                       |             Revisor              |
-| :----: | :--------: | :-----------------: | :----------------------------------------------: | :------------------------------: |
-| `1.0`  | 07/04/2024 | Criação do Artefato | [João Lucas](https://github.com/VasconcelosJoao) | [Yankee](../Subgrupos/Yankee.md) |
+| Versão |    Data    |      Descrição       |                      Autor                       |             Revisor              |
+| :----: | :--------: | :------------------: | :----------------------------------------------: | :------------------------------: |
+| `1.0`  | 07/04/2024 | Criação do Artefato  | [João Lucas](https://github.com/VasconcelosJoao) | [Yankee](../Subgrupos/Yankee.md) |
+| `1.1`  | 09/08/2024 | Correção dos tópicos | [João Lucas](https://github.com/VasconcelosJoao) | [Whiskey](../Subgrupos/Whiskey.md) |
 
 </center>
