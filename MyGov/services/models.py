@@ -1,47 +1,5 @@
 from django.db import models
-from django.contrib.auth.models import AbstractUser
-from django.contrib.auth import authenticate, login, logout
-from django.shortcuts import render, redirect
-from django.http import HttpResponse
-
-# Model User extendendo AbstractUser
-class User(AbstractUser):
-    email = models.EmailField(unique=True)
-    password = models.CharField(max_length=128)
-    date_of_birth = models.DateField(null=True, blank=True)
-    tipo_pessoa = models.CharField(max_length=50)
-    rg = models.CharField(max_length=20)
-    orgao_emissor = models.CharField(max_length=50)
-    uf_emissor = models.CharField(max_length=2)
-    estrangeiro = models.BooleanField(default=False)
-    estado_civil = models.CharField(max_length=50)
-    ddd = models.IntegerField(null=True, blank=True)
-    celular = models.IntegerField(null=True, blank=True)
-
-    def view_content(self, request):
-        # Função para exibir conteúdo após login
-        if request.user.is_authenticated:
-            return render(request, 'user/content.html', {'user': request.user})
-        else:
-            return redirect('login')  # redireciona para a página de login se não autenticado
-
-    def register(self, request):
-        if request.method == 'POST':
-            email = request.POST.get('email')
-            password = request.POST.get('password')
-            # Cria um novo usuário
-            user = User.objects.create_user(username=email, email=email, password=password)
-            user.save()
-            # Faz login automaticamente após o registro
-            login(request, user)
-            return redirect('home')  # Redireciona para a página inicial após o registro
-        return render(request, 'user/register.html')
-
-    def logout_user(self, request):
-        # Função para logout do usuário
-        logout(request)
-        return redirect('home')  # Redireciona para a página inicial após logout
-
+from user.models import User
 
 # Model Endereco
 class Endereco(models.Model):
