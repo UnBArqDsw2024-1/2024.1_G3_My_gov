@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <header>
+    <a href="https://www.gov.br"><img src="https://sso.acesso.gov.br/assets/govbr/img/govbr.png" alt="Logomarca GovBR" height="30px" width="auto"></a>
+  </header>
+
+  <main>
+    <div class="retro-container">
+      <h2>Baixa de Retrovenda/Obrigação de construir - Pesquisar</h2>
+
+      <span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M256 32c14.2 0 27.3 7.5 34.5 19.8l216 368c7.3 12.4 7.3 27.7 .2 40.1S486.3 480 472 480L40 480c-14.3 0-27.6-7.7-34.7-20.1s-7-27.8 .2-40.1l216-368C228.7 39.5 241.8 32 256 32zm0 128c-13.3 0-24 10.7-24 24l0 112c0 13.3 10.7 24 24 24s24-10.7 24-24l0-112c0-13.3-10.7-24-24-24zm32 224a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z"/></svg>
+        Aviso: Caso esteja com problemas para encontrar o lote desejado, entre em contato com o atendimento da terracap.
+      </span>
+
+      <div class="selectors">
+        <div class="selector" data-target="form1">POR REGIÃO/SETOR</div>
+        <div class="selector" data-target="form2">POR CÓDIGO DO IMÓVEL</div>
+      </div>
+
+      <div id="form1" class="form-container">
+        <h2>Formulário 1</h2>
+        <form>
+            <button class="submit-button" type="submit">Enviar</button>
+        </form>
+      </div>
+
+      <div id="form2" class="form-container">
+          <form action="{% url 'retrovenda' %}" method="post">
+            {% csrf_token %}
+            <div class="form-inputs">
+              <label for="codigo_imovel">Código do imóvel</label>
+              <input type="text" id="codigo_imovel" name="codigo_imovel">
+            </div>
+            <button class="submit-button" type="submit">Enviar</button>
+          </form>
+      </div>
+
+      <script>
+        const selectors = document.querySelectorAll('.selector');
+        const forms = document.querySelectorAll('.form-container');
+
+        selectors.forEach(selector => {
+            selector.addEventListener('click', function() {
+                selectors.forEach(sel => sel.classList.remove('active'));
+                forms.forEach(form => form.classList.remove('active'));
+
+                this.classList.add('active');
+                const targetForm = document.getElementById(this.getAttribute('data-target'));
+                targetForm.classList.add('active');
+            });
+        });
+    </script>
+    </div>
+  </main>
+</body>
+</html>
+
+<style>
+  html, body {margin: 0; height: 100%; overflow: hidden}
+  header {
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px !important;
+    align-items: center;
+    box-shadow: 0 3px 6px #00000029;
+    margin-bottom: 5px;
+    background-color: #fff;
+    width: 100%;
+    height: 3rem;
+    padding: 10px;
+  }
+  main {
+    display: flex;
+    justify-content: center;
+  }
+  .retro-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    background-color: #fff;
+    gap: 1rem;
+    h2 {
+      margin: 0;
+      padding: 0;
+      font-size: 1.5rem;
+      color: #1351B4;
+    }
+    span {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      border-radius: 4px;
+      background-color: lightgray;
+      gap: 0.5rem;
+      padding: 0.5rem;
+      svg {
+        width: 20px;
+        height: 20px;
+      }
+    }
+  }
+  .retro-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    width: 100%;
+  }
+  .form-inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+  .form-inputs label {
+    font-size: 1.2rem;
+  }
+  .form-inputs input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  .form-container {
+    display: none;
+    margin-top: 20px;
+  }
+
+  .active {
+    display: block;
+  }
+
+  .selectors {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .selector {
+    text-align: center;
+    width: 100%;
+    font-size: 12px;
+    color: black;
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    border-bottom: 1px solid #ccc;
+    display: inline-block;
+  }
+
+  .selector.active {
+    font-weight: 600;
+    border-bottom: 1px solid black;
+  }
+
+  .submit-button {
+    margin-top: 5px;
+    border: none;
+    border-radius: 100em;
+    min-width: 100px;
+    font-size: 1rem;
+    padding: 0.5rem;
+    color: #fff;
+    background-color: #1351B4;
+    cursor: pointer;
+  }
+</style>
