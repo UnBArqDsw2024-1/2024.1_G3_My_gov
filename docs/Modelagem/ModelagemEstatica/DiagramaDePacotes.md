@@ -53,7 +53,7 @@ Figura 1 - Componentes do diagrama de pacotes
 
 </center>
 
-## <a> *Diagrama de Pacote* </a>
+## <a> *Diagrama de Pacote * </a>
 
 E na figura a seguir o Diagrama confecionado pelo subgrupo [Yankee](../../Subgrupos/Yankee.md)
 
@@ -63,6 +63,12 @@ Figura 2 - Diagrama de Pacotes 1.0
 
 <br> ![alt text](../../Assets/DiagramaPacote/DiagramaPacote.jpg) <br>
 
+<font>Fonte: <a>[Yankee](../../Subgrupos/Yankee.md)</a>, 2024</font>
+
+
+Figura 3 - Diagrama de Pacotes 2.0
+
+<br> ![alt text](../../Assets/DiagramaPacote/DiagramaDePacotesV2.png) <br>
 <font>Fonte: <a>[Yankee](../../Subgrupos/Yankee.md)</a>, 2024</font>
 
 </center>
