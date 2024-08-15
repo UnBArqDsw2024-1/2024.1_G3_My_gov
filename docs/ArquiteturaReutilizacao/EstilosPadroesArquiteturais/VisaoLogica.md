@@ -18,9 +18,12 @@ Figura 1 - Diagrama de Classes
 
 <font>Fonte: <a>[Yankee](../../Subgrupos/Yankee.md)</a>, 2024</font>
 
+</center>
+
 ## <a>*Diagrama de Sequência*</a>
 
 <center>
+
 Figura 2 - Fluxo de Cadastro
 
 <img src="./../../Assets/DiagramaSequencia/cadastro_sequencia.png" width="500" alt="Diagrama de atividades do cadastro">
@@ -39,6 +42,8 @@ Figura 4 - Fluxo de Declaração de Retrovenda
 
 <font>Fonte: <a>[Foxtrot](../../Subgrupos/Foxtrot.md)</a>, 2024</font>
 
+</center>
+
 ## <a>*Diagrama de Colaboração*</a>
 
 <center>
@@ -53,11 +58,11 @@ Figura 5 - Diagrama de Colaboração
 
 <center>
 Figura 6 - Diagrama de Pacotes
-<br> ![alt text](caminho/para/seu/diagrama_pacotes.png) <br>
-<font>Fonte: [Fonte do diagrama, se aplicável]</font>
-</center>
 
-[Insira o diagrama de pacotes refeito (V2), organizado em camadas, que mostra a organização lógica dos componentes do sistema. Explique como os pacotes são organizados e como isso contribui para a modularidade e a manutenção do sistema.]
+<br> ![alt text](../../Assets/DiagramaPacote/DiagramaDePacotesV2.png) <br>
+
+<font>Fonte: <a>[Yankee](../../Subgrupos/Yankee.md)</a>, 2024</font>
+</center>
 
 ## <a>*Bibliografia*</a>
 
