@@ -20,6 +20,9 @@ def register_user(request):
     if request.method == 'POST':
         email = request.POST.get('email')
         password = request.POST.get('password')
+        password_confirm = request.POST.get('password-confirm')
+        if password != password_confirm:
+            return render(request, 'user/cadastro.html', {'error': 'Senhas não conferem'})
         # Cria um novo usuário
         user = User.objects.create_user(username=email, email=email, password=password)
         user.save()
