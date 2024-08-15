@@ -30,3 +30,6 @@ def register_user(request):
         login(request, user)
         return redirect('index')  # Redireciona para a página inicial após o registro
     return render(request, 'user/cadastro.html')
+
+def home(request):
+    return render(request, 'user/home.html')
