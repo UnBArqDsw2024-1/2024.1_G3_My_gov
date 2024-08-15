@@ -57,7 +57,7 @@ Figura 1 - Componentes do diagrama de pacotes
 
 ### <a> *Versão 1.0* </a>
 
-Na figura abaixo encontra-se o Diagrama confecionado inicialmente pelo subgrupo [Yankee](../../Subgrupos/Yankee.md):
+Na figura abaixo encontra-se o Diagrama confeccionado inicialmente pelo subgrupo [Yankee](../../Subgrupos/Yankee.md):
 
 <center>
 
