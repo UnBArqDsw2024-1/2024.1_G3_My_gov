@@ -2,11 +2,15 @@
 
 ## <a>*Introdução*</a>
 
-[Escreva uma introdução sobre o projeto, incluindo uma visão geral do problema, o contexto e os objetivos do projeto.]
+A Visão Lógica é pensada para atender as necessidades e preocupações do usuário final, sendo pautada nos conceitos de orientação a objetos. Esse conceito é discutido amplamente no modelo 4+1 de Philippe Kruchten, onde a Visão Lógica é uma das principais visões que ajudam na organização e estruturação de sistemas complexos através da perspectiva do desenvolvedor e do usuário final (Kruchten, 1995).
 
 ## <a>*Metodologia*</a>
 
-[Descreva a metodologia usada para o desenvolvimento do projeto. Inclua detalhes sobre as etapas do processo, ferramentas utilizadas e cronograma de atividades.]
+A visão lógica foi realizada pelos integrantes associados à atividade: [Gabriel Campello Marques](https://github.com/G16C), [Arthur Grandão de Mello](https://github.com/arthurgrandao) e [Rafael Ferreira Leandro](https://github.com/RafaelCLG0). A seleção dos integrantes foi feita considerando a participação anterior de cada um nos diagramas de Classe, Pacotes e Sequência. Esses diagramas passaram por mudanças com base no feedback fornecido na entrega anterior, que abordava a modelagem de um sistema específico com foco nos fluxos de Cadastro/Login, .
+
+A divisão das responsabilidades para a discussão detalhada sobre a visão lógica de cada artefato foi baseada na afinidade de cada integrante com seu respectivo diagrama. Desta forma, Arthur Grandão de Mello ([arthurgrandao](https://github.com/arthurgrandao)) pelo Diagrama de Classes, Gabriel Campello Marques ([G16C](https://github.com/G16C)) ficou responsável pelo Diagrama de Pacotes e Rafael Ferreira Leandro ([RafaelCLG0](https://github.com/RafaelCLG0)) pelo Diagrama de Sequência.
+
+O estudo individual sobre as visões DAS foi conduzido antes da reunião, que ocorreu em 15 de agosto de 2024 no ambiente do Discord, às XXhXX. Essa reunião teve como objetivo alinhar as atividades, esclarecendo as mudanças feitas nos diagramas e garantindo que todos os diagramas estivessem coerentes e alinhados em termos de informações. Importante mencionar que os diagramas foram corrigidos utilizando a ferramenta Draw.io. O alinhamento foi essencial para que os integrantes pudessem compreender a situação de cada diagrama e realizar ajustes, caso necessário.
 
 ## <a>*Diagrama de Classes*</a>
 
@@ -44,20 +48,10 @@ Figura 4 - Fluxo de Declaração de Retrovenda
 
 </center>
 
-## <a>*Diagrama de Colaboração*</a>
-
-<center>
-Figura 5 - Diagrama de Colaboração
-<br> ![alt text](caminho/para/seu/diagrama_colaboracao.png) <br>
-<font>Fonte: [Fonte do diagrama, se aplicável]</font>
-</center>
-
-[Insira o diagrama de colaboração, que destaca as interações entre objetos para realizar uma funcionalidade específica. Descreva como o diagrama ilustra a cooperação entre os objetos para atingir os objetivos do sistema.]
-
 ## <a>*Diagrama de Pacotes*</a>
 
 <center>
-Figura 6 - Diagrama de Pacotes
+Figura 5 - Diagrama de Pacotes
 
 <br> ![alt text](../../Assets/DiagramaPacote/DiagramaDePacotesV2.png) <br>
 
@@ -66,8 +60,8 @@ Figura 6 - Diagrama de Pacotes
 
 ## <a>*Bibliografia*</a>
 
-    [Referência 1: Nome do Livro, Artigo, ou Site. Edição. Local: Editora, Ano.]
-    [Referência 2: Nome do Livro, Artigo, ou Site. Edição. Local: Editora, Ano.]
+> KRUCHTEN, Philippe. Architectural Blueprints — The “4+1” View Model of Software Architecture. IEEE Software 12 (6), pp. 42-50, 1995. Disponível em: https://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf. Acesso em: 28 de novembro de 2023 às 15:00.
+
 
 ## <a>*Histórico de Versão*</a>
 
@@ -77,6 +71,6 @@ Favor não copiar o histórico de versão dobrado, essa seção é apenas para r
 
 | Versão |    Data    |              Descrição               |                    Autor(es)                     |              Revisor(es)              |
 | :----: | :--------: | :----------------------------------: | :----------------------------------------------: | :-----------------------------------: |
-| `1.0`  | [Data]     |        Confecção do artefato         |       [Nome do Autor](link_para_autor.md)        | [Nome do Revisor](link_para_revisor.md) |
+| `1.0`  |   15/08/2024   |        Criação do artefato         |        [Yankee](../../Subgrupos/Yankee.md)        | [Whiskey](../../Subgrupos/Whiskey.md) |
 
 </Center>
