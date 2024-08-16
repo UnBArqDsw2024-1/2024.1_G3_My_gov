@@ -32,7 +32,7 @@ A metodologia adotada para o projeto inclui a aplicação de práticas ágeis, q
 
 ## Pontos de Reutilização
 
-	- Serviços
+- Serviços
 
 Os modelos estendem models.Model, o que significa que eles herdam toda a infraestrutura fornecida pelo Django para persistência de dados, validação e migração de banco de dados. Isso permite que você reutilize funcionalidades como validação de campos, operações CRUD (Create, Read, Update, Delete) e integração com o ORM (Object-Relational Mapping) do Django, sem precisar implementar essas funcionalidades manualmente. Além disso, o Django fornece campos predefinidos (como CharField, DateField, BooleanField) que estamos utilizando. Esses campos são altamente reutilizáveis e personalizáveis, o que facilita o desenvolvimento de modelos de dados robustos e flexíveis. 
 
@@ -48,15 +48,23 @@ Essa extensão aproveita e reutiliza uma classe robusta do Django, que já cont�
 Reutilização futura:
 O modelo utilizado no User permite que esse possa ser reutilizado em diferentes partes da aplicação que necessitam de informações específicas sobre o usuário. Essa abordagem centralizou os dados do usuário em um único modelo, o que facilita a manutenção e expansão futura. 
 
+- Geolocalização
+
+Para implementar o serviço de geolocalização utilizamos as bibliotecas Leaflet e a OpenStreetMap no projeto, evidenciando claramente também a reutilização de software, uma vez que ao usar o Leaflet,  estamos utilizando um conjunto pré-existente de funcionalidades desenvolvidas por uma comunidade de desenvolvedores economizando tempo e esforço, e ao utilizarmos OpenStreetMap, estamos aproveitando uma base de dados geoespaciais ampla e colaborativa, sem a necessidade de criar ou manter um banco de dados próprio de geolocalização.
+
+Além disso, ao encapsular a lógica de renderização de mapas e a busca de coordenadas em módulos reutilizáveis, criamos componentes que podem ser facilmente transferidos ou adaptados para outras partes do sistema. Por exemplo, o mesmo módulo que permite ao usuário selecionar um endereço pode ser reutilizado em diferentes contextos, como formulários de cadastro, relatórios, ou outros recursos que exigem entrada de localização.
 
 
 ## <a>Justificativa</a>
 
-Escolhemos essas funcionalidades para reutilização devido à sua relevância e aplicabilidade em diversos projetos. A funcionalidade de login é um componente crítico em qualquer sistema que requer autenticação, enquanto a funcionalidade de cadastro é fundamental para a criação de novos usuários. Ambas as funcionalidades são frequentemente necessárias em uma variedade de aplicações, o que justifica sua reutilização.
+A escolha das ferramentas e abordagens descritas neste documento foi fundamentada na busca por eficiência, flexibilidade, e escalabilidade no desenvolvimento do sistema. Optamos por tecnologias consolidadas e amplamente reconhecidas pela comunidade de desenvolvedores, como Python com Django, JavaScript, e o uso de SQLite, por razões que vão além da simplicidade e do suporte comunitário.
 
 ## <a>Conclusões</a>
 
-A reutilização de software não só economiza tempo e recursos, mas também melhora a qualidade do produto final. Ao adotar práticas de reutilização, nossa equipe pôde focar em aspectos inovadores do projeto, enquanto se beneficiava de soluções já testadas e validadas. Essa abordagem não apenas aumenta a eficiência do desenvolvimento, mas também contribui para a criação de um código mais limpo e sustentável.
+O artefato de reutilização de software documentado aqui demonstra a eficácia de utilizar abordagens e ferramentas consolidadas no desenvolvimento de sistemas. A reutilização não só economiza tempo e esforço durante a fase de desenvolvimento, mas também prepara o sistema para futuras expansões e adaptações. A modularidade e a flexibilidade das soluções escolhidas garantem que o sistema possa evoluir de acordo com as necessidades da Terracap, mantendo a consistência, a qualidade e a escalabilidade.
+
+Ao adotar práticas de reutilização de software, conseguimos maximizar os recursos disponíveis, minimizar erros e bugs, e manter um alto padrão de qualidade no código. O sistema desenvolvido será mais fácil de manter e expandir, permitindo que a Terracap se adapte rapidamente às mudanças e novas demandas do mercado, promovendo assim uma solução tecnológica robusta e de longo prazo.
+
 
 ## <a>Referências</a>
 
@@ -73,4 +81,5 @@ A reutilização de software não só economiza tempo e recursos, mas também me
 
 | Versão |    Data    |       Descrição       | Autor(es) | Revisor(es) |
 | :----: | :--------: | :-------------------: | :-------: | :---------: |
-|  1.0   | 06/04/2024 | Confecção do artefato |   Autor   |   revisor   |
+|  1.0   | 06/04/2024 | Confecção do artefato |   [Papa](../../Subgrupos/Papa.md)  |   [Whiskey](../../Subgrupos/Whiskey.md)  |
+|  1.1   | 16/04/2024 | Finalizando documento |   [Papa](../../Subgrupos/Papa.md)  |   [Whiskey](../../Subgrupos/Whiskey.md)  |
