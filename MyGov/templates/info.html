@@ -1,2 +1,6 @@
-{{ codigo_imovel }}
-{{ endereco }}
+{% if declaracao == None %}
+  <h2>Não foi encontrado nenhum lote com o endereço {{ endereco }}</h2>
+{% else %}
+  <h2>Lote: {{ declaracao.codigo_imovel }}</h2>
+  <h3>Endereço: {{ declaracao.endereco }}</h3>
+{% endif %}

@@ -14,24 +14,23 @@
         <main>
             <div class="warning">
                 {% if user.is_authenticated %}
-                    <div class="services-header">
-                        <div class="hr-divider"></div>
-                        <h3 style="min-width: fit-content; color: gray;">SERVIÇO ONLINE</h3>
-                        <div class="hr-divider"></div>
-                    </div>
+                  <div class="services-header">
+                      <div class="hr-divider"></div>
+                      <h3 style="min-width: fit-content; color: gray;">SERVIÇO ONLINE</h3>
+                      <div class="hr-divider"></div>
+                  </div>
 
-                    <div class="services-cards">
-                        <a href="{% url 'retrovenda' %}" class="card">
-                            <h3 class="card-title">Baixa de Retrovenda</h3>
-                        </a>
-                        <a class="card">
-                            <h3 class="card-title">Emissão de Boletos</h3>
-                        </a>
-                        <a class="card">
-                            <h3 class="card-title">Simulador de Valores</h3>
-                        </a>
-                    </div>
-
+                  <div class="services-cards">
+                      <a href="{% url 'retrovenda' %}" class="card">
+                          <h3 class="card-title">Baixa de Retrovenda</h3>
+                      </a>
+                      <a class="card">
+                          <h3 class="card-title">Emissão de Boletos</h3>
+                      </a>
+                      <a class="card">
+                          <h3 class="card-title">Simulador de Valores</h3>
+                      </a>
+                  </div>
                 {% else %}
                     <h3>Você não está logado. Realize o login para continuar.</h3>
                     <a href="{% url 'login' %}">

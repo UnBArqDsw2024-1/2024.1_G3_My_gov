@@ -1,9 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>Baixa de Retrovenda</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <style>
+      #map { 
+        height: 500px; width: 100%; margin-top: 20px; 
+      }
+  </style>
 </head>
 <body>
   <header>
@@ -25,11 +31,87 @@
       </div>
 
       <div id="form1" class="form-container">
-        <h2>Formulário 1</h2>
-        <form>
-            <button class="submit-button" type="submit">Enviar</button>
+        <form method="post" action="{% url 'retrovenda' %}">
+          {% csrf_token %}
+          <select id="subdistritosSelect">
+            <option value="">Selecione uma região administrativa</option>
+          </select>
+          <input type="hidden" id="endereco_selecionado" name="codigo_imovel" value="">
+          <button class="submit-button" type="submit">Enviar endereço selecionado</button>
         </form>
+
+        <div id="map"></div>
+        <p id="enderecoSelecionado"></p>
       </div>
+
+      <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+      <script>
+          // Carrega os subdistritos do DF
+          fetch('https://servicodados.ibge.gov.br/api/v1/localidades/estados/DF/subdistritos')
+              .then(response => response.json())
+              .then(data => {
+                  const select = document.getElementById('subdistritosSelect');
+                  data.forEach(subdistrito => {
+                      const option = document.createElement('option');
+                      option.value = subdistrito.nome;  // Vamos usar o nome para buscar a localização
+                      option.textContent = subdistrito.nome;
+                      select.appendChild(option);
+                  });
+              })
+              .catch(error => console.error('Erro ao carregar subdistritos:', error));
+
+          // Inicializa o mapa
+          let map = L.map('map').setView([-15.7801, -47.9292], 10);  // Posição inicial (Brasília)
+          L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+              maxZoom: 18,
+          }).addTo(map);
+
+          let currentMarker;
+
+          // Atualiza o mapa quando um subdistrito é selecionado
+          document.getElementById('subdistritosSelect').addEventListener('change', function() {
+              const subdistrito = this.value;
+              if (subdistrito) {
+                  // Usa geocodificação para converter o nome em coordenadas
+                  fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${subdistrito},Brasília,DF`)
+                      .then(response => response.json())
+                      .then(data => {
+                          if (data.length > 0) {
+                              const lat = data[0].lat;
+                              const lon = data[0].lon;
+                              map.setView([lat, lon], 14);  // Centraliza o mapa na nova posição
+                              if (currentMarker) {
+                                  map.removeLayer(currentMarker);  // Remove o marcador anterior, se existir
+                              }
+                              currentMarker = L.marker([lat, lon]).addTo(map)
+                                  .bindPopup(`Localização: ${subdistrito}`)
+                                  .openPopup();
+                          } else {
+                              alert('Localização não encontrada!');
+                          }
+                      });
+              }
+          });
+
+          // Adiciona um marcador quando o usuário clica no mapa
+          map.on('click', function(e) {
+              if (currentMarker) {
+                  map.removeLayer(currentMarker);  // Remove o marcador anterior
+              }
+              currentMarker = L.marker(e.latlng).addTo(map);
+
+              // Faz uma busca reversa do endereço com base nas coordenadas
+              fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${e.latlng.lat}&lon=${e.latlng.lng}`)
+                  .then(response => response.json())
+                  .then(data => {
+                      const address = data.display_name;
+                      currentMarker.bindPopup(`Endereço: ${address}`).openPopup();
+                      document.getElementById('enderecoSelecionado').textContent = `Endereço Selecionado: ${address}`;
+                      document.getElementById('endereco_selecionado').value = address;
+                  })
+                  .catch(error => console.error('Erro ao buscar endereço:', error));
+          });
+      </script>
 
       <div id="form2" class="form-container">
           <form action="{% url 'retrovenda' %}" method="post">
@@ -56,7 +138,7 @@
                 targetForm.classList.add('active');
             });
         });
-    </script>
+      </script>
     </div>
   </main>
 </body>
@@ -168,5 +250,16 @@
     color: #fff;
     background-color: #1351B4;
     cursor: pointer;
+  }
+  #subdistritosSelect {
+    border: none;
+    background: #fff;
+    border-bottom: 1px solid gray;
+    padding: 0.25rem;
+    font-size: 1rem;
+    color: gray;
+  }
+  #subdistritosSelect:focus-visible {
+    outline: none;
   }
 </style>
