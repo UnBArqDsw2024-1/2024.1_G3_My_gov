@@ -55,7 +55,9 @@ Figura 1 - Componentes do diagrama de pacotes
 
 ## <a> *Diagrama de Pacote* </a>
 
-E na figura a seguir o Diagrama confecionado pelo subgrupo [Yankee](../../Subgrupos/Yankee.md)
+### <a> *Versão 1.0* </a>
+
+Na figura abaixo encontra-se o Diagrama confeccionado inicialmente pelo subgrupo [Yankee](../../Subgrupos/Yankee.md):
 
 <center>
 
@@ -63,6 +65,19 @@ Figura 2 - Diagrama de Pacotes 1.0
 
 <br> ![alt text](../../Assets/DiagramaPacote/DiagramaPacote.jpg) <br>
 
+<font>Fonte: <a>[Yankee](../../Subgrupos/Yankee.md)</a>, 2024</font>
+
+</center>
+
+### <a> *Versão 2.0* </a>
+
+Para a entrega final, o subgrupo [Yankee](../../Subgrupos/Yankee.md) analisou o feedback da professora sobre a primeira versão do diagrama e reuniu-se para alterá-lo visando a sua inclusão no documento de [Visão Lógica](../../ArquiteturaReutilizacao/EstilosPadroesArquiteturais/VisaoLogica.md).
+
+<center>
+
+Figura 3 - Diagrama de Pacotes 2.0
+
+<br> ![alt text](../../Assets/DiagramaPacote/DiagramaDePacotesV2.png) <br>
 <font>Fonte: <a>[Yankee](../../Subgrupos/Yankee.md)</a>, 2024</font>
 
 </center>
@@ -86,5 +101,6 @@ Através da elaboração do Diagrama de Pacote, o grupo pôde visualizar e organ
 | `1.0`  | 08/07/2024 |        Criação do documento        |       [Yankee](../../Subgrupos/Yankee.md)        | [Whiskey](../../Subgrupos/Whiskey.md) |
 | `1.1`  | 08/07/2024 |         Adição do Diagrama         |       [Yankee](../../Subgrupos/Yankee.md)        |    [Papa](../../Subgrupos/Papa.md)    |
 | `1.2`  | 09/07/2024 | Revisão Final e correção de padrão | [João Lucas](https://github.com/VasconcelosJoao) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
+| `1.3`  | 15/08/2024 |        Adição de versão 2.0        |       [Yankee](../../Subgrupos/Yankee.md)        | [Foxtrot](../../Subgrupos/Foxtrot.md) |
 
 </center>
