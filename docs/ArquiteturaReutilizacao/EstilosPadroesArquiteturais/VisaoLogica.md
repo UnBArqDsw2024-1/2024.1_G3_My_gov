@@ -102,8 +102,11 @@ No livro The Unified Modeling Language User Guide, o diagrama de comunicação (
 
 Favor não copiar o histórico de versão dobrado, essa seção é apenas para rastrear o template de artefato
 
-| Versão |    Data    |              Descrição               |                    Autor(es)                     |              Revisor(es)              |
-| :----: | :--------: | :----------------------------------: | :----------------------------------------------: | :-----------------------------------: |
-| `1.0`  |   15/08/2024   |        Criação do artefato         |        [Yankee](../../Subgrupos/Yankee.md)        | [Whiskey](../../Subgrupos/Whiskey.md) |
+| Versão |    Data    |       Descrição       |                    Autor(es)                     |              Revisor(es)              |
+| :----: | :--------: | :-------------------: | :----------------------------------------------: | :-----------------------------------: |
+| `1.0`  | 15/08/2024 |  Criação do artefato  |       [Yankee](../../Subgrupos/Yankee.md)        | [Whiskey](../../Subgrupos/Whiskey.md) |
+| `1.1`  | 15/08/2024 | Correções de conteudo |         [Papa](../../Subgrupos/Papa.md)          | [Foxtrot](../../Subgrupos/Foxtrot.md) |
+| `1.2`  | 15/08/2024 |  Correções de padrão  | [João Lucas](https://github.com/VasconcelosJoao) |  [Yankee](../../Subgrupos/Yankee.md)  |
+
 
 </Center>

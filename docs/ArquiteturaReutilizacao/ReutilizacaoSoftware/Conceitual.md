@@ -83,7 +83,8 @@ Ao adotar práticas de reutilização de software, conseguimos maximizar os recu
 
 ## <a>*Histórico de Versão*</a>
 
-| Versão |    Data    |       Descrição       | Autor(es) | Revisor(es) |
-| :----: | :--------: | :-------------------: | :-------: | :---------: |
-|  1.0   | 06/04/2024 | Confecção do artefato |   [Papa](../../Subgrupos/Papa.md)  |   [Whiskey](../../Subgrupos/Whiskey.md)  |
-|  1.1   | 16/04/2024 | Finalizando documento |   [Papa](../../Subgrupos/Papa.md)  |   [Whiskey](../../Subgrupos/Whiskey.md)  |
+| Versão |    Data    |       Descrição       |               Autor(es)               |              Revisor(es)              |
+| :----: | :--------: | :-------------------: | :-----------------------------------: | :-----------------------------------: |
+|  1.0   | 06/04/2024 | Confecção do artefato |    [Papa](../../Subgrupos/Papa.md)    | [Whiskey](../../Subgrupos/Whiskey.md) |
+|  1.1   | 16/04/2024 | Finalizando documento |    [Papa](../../Subgrupos/Papa.md)    |  [Yankee](../../Subgrupos/Yankee.md)  |
+|  1.2   | 16/04/2024 | Correção dos topicos  | [Whiskey](../../Subgrupos/Whiskey.md) | [Foxtrot](../../Subgrupos/Foxtrot.md) |

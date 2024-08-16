@@ -56,8 +56,10 @@ Nessas outra atividade é importante obseervar que mesmo que ela possua uma toma
 
 ## <a>*<a>*Histórico de Versão*<a>*</a>
 
-| Versão |    Data    |                    Descrição                     |                    Autor(es)                     |                   Revisor(es)                    |
-| :----: | :--------: | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
-| `1.0`  | 15/08/2024 |               Criação do documento               |      [Foxtrot](../../Subgrupos/Foxtrot.md)       | [Whiskey](../../Subgrupos/Whiskey.md) |
+| Versão |    Data    |      Descrição       |                    Autor(es)                     |              Revisor(es)              |
+| :----: | :--------: | :------------------: | :----------------------------------------------: | :-----------------------------------: |
+| `1.0`  | 15/08/2024 | Criação do documento |      [Foxtrot](../../Subgrupos/Foxtrot.md)       | [Whiskey](../../Subgrupos/Whiskey.md) |
+| `1.1`  | 15/08/2024 | Correção das imagens |       [Yankee](../../Subgrupos/Yankee.md)        |    [Papa](../../Subgrupos/Papa.md)    |
+| `1.2`  | 15/08/2024 |  Correção do Padrão  | [João Lucas](https://github.com/VasconcelosJoao) | [Foxtrot](../../Subgrupos/Foxtrot.md) |
 
 </center>
