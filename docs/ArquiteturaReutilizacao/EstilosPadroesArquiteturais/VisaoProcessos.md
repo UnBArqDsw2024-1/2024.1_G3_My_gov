@@ -41,6 +41,10 @@ No diagrama de Login é possível ver os processos que são iniciados, de acordo
 
 Uma coisa parecida ao diagrama de Login acontece, contudo, podemos ver que alguma threads podem ficar em "espera" até que threads secundárias sejam concluídas, para que o sistema possa então possuir as informações necessárias para seguir com o andamento da thread principal (sendo representada aqui como thread 1).
 
+<br> ![alt text](../../Assets/PadroesArquiteturais/Cadastro1.png) <br>
+
+Nessas outra atividade é importante obseervar que mesmo que ela possua uma tomada de decisão, ela pode ser executada inteiramente em apenas 1 única thread, pois qualquer uma das duas opções escolhidas podem levar a conclusão da tarefa, sendo assim desncessário a execução de uma segunda thread.
+
 
 ## <a>*Bibliografia*</a>
     
