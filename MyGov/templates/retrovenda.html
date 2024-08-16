@@ -1,0 +1,294 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GOV.BR</title>
+    <link rel="icon" href="{% static 'images/favicon.png' %}">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="icon" href="{% static 'images/favicon.ico' %}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@govbr-ds/core@3.3.1/dist/core.min.css">
+  <style>
+      #map { 
+        height: 500px; width: 100%; margin-top: 20px; 
+      }
+  </style>
+</head>
+<body>
+  <header class="br-header" id="header" data-sticky="data-sticky">
+    <div class="container-lg">
+        <div class="header-top">
+          <div class="header-logo">
+            <a href="{% url 'index' %}">
+                <img src="{% static 'images/logo-gov.png' %}" alt="Governo Federal" class="img-fluid">
+            </a>
+          </div>
+            <div class="header-actions">
+                <div class="header-links dropdown">
+                    <button class="br-button circle small" type="button" data-toggle="dropdown" aria-label="Acesso Rápido">
+                        <i class="fas fa-ellipsis-v" aria-hidden="true"></i>
+                    </button>
+                    <div class="br-list">
+                        <a class="br-item" href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+                        <a class="br-item" href="https://www.gov.br/acessoainformacao/pt-br">Acesso à Informação</a>
+                        <a class="br-item" href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                        <a class="br-item" href="https://www.gov.br/governodigital/pt-br/acessibilidade-digital">Acessibilidade</a>
+                    </div>
+                </div>
+                <div class="header-functions">
+                    <aside id="sso-status-bar" class="sso-status-bar closed-menu">
+                        <section class="status-indicator">
+                            {% if user.is_authenticated %}
+                                <button type="button" class="signed-in br-button secondary" onclick="window.location.href='{% url 'logout' %}'">
+                                    <span class="sso-status-bar-signed-in-icon"></span>
+                                    Sair
+                                </button>
+                            {% else %}
+                                <button type="button" class="signed-out br-button secondary" onclick="window.location.href='{% url 'login' %}'">
+                                    <span class="sso-status-bar-signed-out-icon"></span>
+                                    Entrar com o gov.br
+                                </button>
+                            {% endif %}
+                        </section>
+                    </aside>
+                </div>
+            </div>
+        </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="retro-container">
+      <h2>Baixa de Retrovenda/Obrigação de construir - Pesquisar</h2>
+
+      <span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M256 32c14.2 0 27.3 7.5 34.5 19.8l216 368c7.3 12.4 7.3 27.7 .2 40.1S486.3 480 472 480L40 480c-14.3 0-27.6-7.7-34.7-20.1s-7-27.8 .2-40.1l216-368C228.7 39.5 241.8 32 256 32zm0 128c-13.3 0-24 10.7-24 24l0 112c0 13.3 10.7 24 24 24s24-10.7 24-24l0-112c0-13.3-10.7-24-24-24zm32 224a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z"/></svg>
+        Aviso: Caso esteja com problemas para encontrar o lote desejado, entre em contato com o atendimento da terracap.
+      </span>
+
+      <div class="selectors">
+        <div class="selector" data-target="form1">POR REGIÃO/SETOR</div>
+        <div class="selector" data-target="form2">POR CÓDIGO DO IMÓVEL</div>
+      </div>
+
+      <div id="form1" class="form-container" style="flex-direction: column; gap: 0.5rem; width: 80%; align-items: center;">
+        <form method="post" action="{% url 'retrovenda' %}">
+          {% csrf_token %}
+          <select id="subdistritosSelect">
+            <option value="">Selecione uma região administrativa</option>
+          </select>
+          <input type="hidden" id="endereco_selecionado" name="codigo_imovel" value="">
+          <button class="submit-button" type="submit">Enviar endereço selecionado</button>
+        </form>
+
+        <div id="map"></div>
+        <p id="enderecoSelecionado"></p>
+      </div>
+
+      <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+      <script>
+          // Carrega os subdistritos do DF
+          fetch('https://servicodados.ibge.gov.br/api/v1/localidades/estados/DF/subdistritos')
+              .then(response => response.json())
+              .then(data => {
+                  const select = document.getElementById('subdistritosSelect');
+                  data.forEach(subdistrito => {
+                      const option = document.createElement('option');
+                      option.value = subdistrito.nome;  // Vamos usar o nome para buscar a localização
+                      option.textContent = subdistrito.nome;
+                      select.appendChild(option);
+                  });
+              })
+              .catch(error => console.error('Erro ao carregar subdistritos:', error));
+
+          // Inicializa o mapa
+          let map = L.map('map').setView([-15.7801, -47.9292], 10);  // Posição inicial (Brasília)
+          L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+              maxZoom: 18,
+          }).addTo(map);
+
+          let currentMarker;
+
+          // Atualiza o mapa quando um subdistrito é selecionado
+          document.getElementById('subdistritosSelect').addEventListener('change', function() {
+              const subdistrito = this.value;
+              if (subdistrito) {
+                  // Usa geocodificação para converter o nome em coordenadas
+                  fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${subdistrito},Brasília,DF`)
+                      .then(response => response.json())
+                      .then(data => {
+                          if (data.length > 0) {
+                              const lat = data[0].lat;
+                              const lon = data[0].lon;
+                              map.setView([lat, lon], 14);  // Centraliza o mapa na nova posição
+                              if (currentMarker) {
+                                  map.removeLayer(currentMarker);  // Remove o marcador anterior, se existir
+                              }
+                              currentMarker = L.marker([lat, lon]).addTo(map)
+                                  .bindPopup(`Localização: ${subdistrito}`)
+                                  .openPopup();
+                          } else {
+                              alert('Localização não encontrada!');
+                          }
+                      });
+              }
+          });
+
+          // Adiciona um marcador quando o usuário clica no mapa
+          map.on('click', function(e) {
+              if (currentMarker) {
+                  map.removeLayer(currentMarker);  // Remove o marcador anterior
+              }
+              currentMarker = L.marker(e.latlng).addTo(map);
+
+              // Faz uma busca reversa do endereço com base nas coordenadas
+              fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${e.latlng.lat}&lon=${e.latlng.lng}`)
+                  .then(response => response.json())
+                  .then(data => {
+                      const address = data.display_name;
+                      currentMarker.bindPopup(`Endereço: ${address}`).openPopup();
+                      document.getElementById('enderecoSelecionado').textContent = `Endereço Selecionado: ${address}`;
+                      document.getElementById('endereco_selecionado').value = address;
+                  })
+                  .catch(error => console.error('Erro ao buscar endereço:', error));
+          });
+      </script>
+
+      <div id="form2" class="form-container">
+          <form action="{% url 'retrovenda' %}" method="post">
+            {% csrf_token %}
+            <div class="form-inputs">
+              <label for="codigo_imovel">Código do imóvel</label>
+              <input type="text" id="codigo_imovel" name="codigo_imovel">
+            </div>
+            <button class="submit-button" type="submit">Enviar</button>
+          </form>
+      </div>
+
+      <script>
+        const selectors = document.querySelectorAll('.selector');
+        const forms = document.querySelectorAll('.form-container');
+
+        selectors.forEach(selector => {
+            selector.addEventListener('click', function() {
+                selectors.forEach(sel => sel.classList.remove('active'));
+                forms.forEach(form => form.classList.remove('active'));
+
+                this.classList.add('active');
+                const targetForm = document.getElementById(this.getAttribute('data-target'));
+                targetForm.classList.add('active');
+            });
+        });
+      </script>
+    </div>
+  </main>
+</body>
+</html>
+
+<style>
+  main {
+    display: flex;
+    justify-content: center;
+  }
+  .retro-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    background-color: #fff;
+    gap: 1rem;
+    h2 {
+      margin: 0;
+      padding: 0;
+      font-size: 1.5rem;
+      color: #1351B4;
+    }
+    span {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      border-radius: 4px;
+      background-color: lightgray;
+      gap: 0.5rem;
+      padding: 0.5rem;
+      svg {
+        width: 20px;
+        height: 20px;
+      }
+    }
+  }
+  .retro-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    width: 100%;
+  }
+  .form-inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+  .form-inputs label {
+    font-size: 1.2rem;
+  }
+  .form-inputs input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  .form-container {
+    display: none;
+    margin-top: 20px;
+  }
+
+  .active {
+    display: flex;
+  }
+
+  .selectors {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .selector {
+    text-align: center;
+    width: 100%;
+    font-size: 12px;
+    color: black;
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    border-bottom: 1px solid #ccc;
+    display: inline-block;
+  }
+
+  .selector.active {
+    font-weight: 600;
+    border-bottom: 1px solid black;
+  }
+
+  .submit-button {
+    margin-top: 5px;
+    border: none;
+    border-radius: 100em;
+    min-width: 100px;
+    font-size: 1rem;
+    padding: 0.5rem;
+    color: #fff;
+    background-color: #1351B4;
+    cursor: pointer;
+  }
+  #subdistritosSelect {
+    border: none;
+    background: #fff;
+    border-bottom: 1px solid gray;
+    padding: 0.25rem;
+    font-size: 1rem;
+    color: gray;
+  }
+  #subdistritosSelect:focus-visible {
+    outline: none;
+  }
+</style>
