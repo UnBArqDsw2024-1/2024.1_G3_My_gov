@@ -95,6 +95,7 @@ nav:
     - Participações: PadroesDeProjeto/Participacoes.md
   - Arquitetura de Software & Reutilização:
     - ArquiteturaReutilizacao/index.md
+    - Padrões Arquiteturais: ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md
     - Participações: ArquiteturaReutilizacao/Participacoes.md
   - Reuniões: 
     - AtasReunioes/index.md
