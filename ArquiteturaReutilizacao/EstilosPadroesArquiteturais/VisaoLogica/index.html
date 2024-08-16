@@ -2275,29 +2275,29 @@
 <p>Um diagrama de classe mostra um conjunto de classes, interfaces e colaborações e seus relacionamentos. Esses diagramas são os diagramas mais comuns encontrados na modelagem de sistemas orientados a objetos. Os diagramas de classe abordam a visão de design estático de um sistema. Os diagramas de classe que incluem classes ativas abordam a visão de processo estático de um sistema. Os diagramas de componentes são variantes dos diagramas de classe (Booch, 2005).</p>
 <p><center>
 Figura 1 - Diagrama de Classes</p>
-<p><br> <img src="./../../Assets/DiagramaClasse/DiagramaClasseV2.jpg" width="1000" alt="Diagrama de Classes do sistema">  <br></p>
+<p><br> <img src="../../../Assets/DiagramaClasse/DiagramaClasseV2.jpg" width="1000" alt="Diagrama de Classes do sistema">  <br></p>
 <p><font>Fonte: <a><a href="../../../Subgrupos/Yankee/">Yankee</a></a>, 2024</font></p>
 <p></center></p>
 <p>O diagrama de classes representa o sistema de solicitação de retrovenda de imóveis da Terracap. O usuário pode se registrar e autenticar via GovBR e interagir com o conteúdo relacionado à retrovenda através da interface. O diagrama reflete a estrutura e a lógica necessárias para implementar essa funcionalidade no sistema.</p>
-<p>Para visualizar o diagrama em mais detalhes, acesse a sua respectiva página: <a href="../../../Modelagem/ModelagemEstatica/DiagramaDeClasses/">Diagrama de Classes</a>.</p>
+<p>Para visualizar o diagrama em mais detalhes, acesse a sua respectiva página: <a href="../../../Modelagem/ModelagemEstatica/DiagramaDeClasses.md">Diagrama de Classes</a>.</p>
 <h2 id="diagrama-de-sequencia"><a><em>Diagrama de Sequência</em></a></h2>
 <p>O Diagrama de Sequência representa a interação entre objetos ao longo do tempo, mostrando a troca de mensagens entre eles para realizar uma funcionalidade específica. Essencial para entender a dinâmica do sistema, este diagrama permite visualizar como os objetos colaboram para realizar processos ou funcionalidades específicas. Ele complementa a visão estática, oferecendo uma perspectiva temporal das interações. (Booch, 2005)</p>
-<p>Os diagramas de sequências abaixo estão mais detalhado em sua respectiva página <a href="../../../Modelagem/ModelagemDinamica/DiagramaDeSequencia/">Diagrama de Sequências</a>.</p>
+<p>Os diagramas de sequências abaixo estão mais detalhado em sua respectiva página <a href="../../../Modelagem/ModelagemDinamica/DiagramaDeSequencia.md">Diagrama de Sequências</a>.</p>
 <p><center></p>
 <p>Figura 2 - Fluxo de Cadastro</p>
-<p><img src="./../../Assets/DiagramaSequencia/cadastro_sequencia.png" width="500" alt="Diagrama de atividades do cadastro"></p>
+<p><img src="../../../Assets/DiagramaSequencia/cadastro_sequencia.png" width="500" alt="Diagrama de atividades do cadastro"></p>
 <p><font>Fonte: <a><a href="../../../Subgrupos/Foxtrot/">Foxtrot</a></a>, 2024</font></p>
 <p></center></p>
 <p>Esse diagrama de sequência representa o fluxo de um processo de cadastro de usuário em um sistema, envolvendo três participantes: o Usuário, o Portal e o Servidor. Onde o usuário solicita o envio de uma senha por e-mail. O portal valida o e-mail, cria uma conexão com o servidor e salva a senha e os dados pessoais do usuário. Após cada etapa bem-sucedida, o servidor confirma a operação, e o portal informa ao usuário o sucesso da criação da conta. Caso a senha seja inválida, o processo repete até que seja válida. </p>
 <p><center></p>
 <p>Figura 3 - Fluxo de Login</p>
-<p><img src="./../../Assets/DiagramaSequencia/login_sequencia.png" width="500" alt="Diagrama de atividades do login"></p>
+<p><img src="../../../Assets/DiagramaSequencia/login_sequencia.png" width="500" alt="Diagrama de atividades do login"></p>
 <p><font>Fonte: <a><a href="../../../Subgrupos/Foxtrot/">Foxtrot</a></a>, 2024</font></p>
 <p></center></p>
 <p>Este diagrama de sequência representa o fluxo de login de um usuário no sistema. O usuário envia seus dados de login, que são verificados pelo servidor via o portal. Se o login for bem-sucedido, o usuário é autenticado. Caso contrário, o sistema entra em um loop onde o usuário tenta novamente até o login ser bem-sucedido ou alterna para a recuperação de credenciais, enviando um e-mail para redefinir a senha. Após a verificação dos dados recuperados, o usuário é autenticado e o login é efetuado com sucesso.</p>
 <p><center></p>
 <p>Figura 4 - Fluxo de Declaração de Retrovenda</p>
-<p><img src="./../../Assets/DiagramaSequencia/solicitar_dec_sequencia.png" width="500" alt="Diagrama de atividades da declaração da retrovenda"></img></p>
+<p><img src="../../../Assets/DiagramaSequencia/solicitar_dec_sequencia.png" width="500" alt="Diagrama de atividades da declaração da retrovenda"></img></p>
 <p><font>Fonte: <a><a href="../../../Subgrupos/Foxtrot/">Foxtrot</a></a>, 2024</font></p>
 <p></center></p>
 <p>Este diagrama de sequência descreve o processo de pesquisa e solicitação de um imóvel no sistema. O usuário inicia a pesquisa de um imóvel, que pode ser feita por código ou por região. No caso da pesquisa por código, o sistema verifica a validade do código e, se for válido, apresenta o imóvel e permite que o usuário solicite uma decisão. Caso o código seja inválido, o usuário é redirecionado para corrigir a pesquisa. Na pesquisa por região, o sistema exibe um mapa para seleção da região, busca os imóveis correspondentes, e o usuário pode então selecionar o imóvel desejado e enviar a solicitação. O servidor confirma as operações com mensagens de sucesso ao longo do processo.</p>
@@ -2308,7 +2308,7 @@ Figura 5 - Diagrama de Pacotes</p>
 <p><br> <img alt="alt text" src="../../../Assets/DiagramaPacote/DiagramaDePacotesV2.png" /> <br></p>
 <p><font>Fonte: <a><a href="../../../Subgrupos/Yankee/">Yankee</a></a>, 2024</font></p>
 <p></center></p>
-<p>Para uma melhor compreensão do Diagrama de Pacotes o link a seguir leva ao documento original <a href="../../../Modelagem/ModelagemEstatica/DiagramaDePacotes/">Diagrama de Pacotes</a></p>
+<p>Para uma melhor compreensão do Diagrama de Pacotes o link a seguir leva ao documento original <a href="../../../Modelagem/ModelagemEstatica/DiagramaDePacotes.md">Diagrama de Pacotes</a></p>
 <h2 id="diagrama-de-comunicacao"><a><em>Diagrama de Comunicação</em></a></h2>
 <p>No livro The Unified Modeling Language User Guide, o diagrama de comunicação (também conhecido como diagrama de colaboração na versão original do UML) é descrito como uma ferramenta fundamental na captura da visão lógica de um sistema. O diagrama de comunicação representa o fluxo de mensagens entre os objetos para realizar uma operação ou processo específico. Ele difere do diagrama de sequência, que também é um diagrama dinâmico, principalmente no foco que dá à estrutura e à organização dos objetos envolvidos na interação, em vez da ordem temporal das mensagens.</p>
 <h2 id="bibliografia"><a><em>Bibliografia</em></a></h2>
