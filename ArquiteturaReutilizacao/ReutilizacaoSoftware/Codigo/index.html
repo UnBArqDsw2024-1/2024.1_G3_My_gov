@@ -1989,6 +1989,15 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#historico-de-versao" class="md-nav__link">
     <span class="md-ellipsis">
       Histórico de Versão
@@ -2325,6 +2334,15 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#historico-de-versao" class="md-nav__link">
     <span class="md-ellipsis">
       Histórico de Versão
@@ -2348,17 +2366,21 @@
                   
 
 
-<h1 id="reutilizacao-de-software">Reutilização de Software</h1>
-<h2 id="introducao">Introdução</h2>
+<h1 id="reutilizacao-de-software"><a><em>Reutilização de Software</em></a></h1>
+<h2 id="introducao"><a><em>Introdução</em></a></h2>
 <p>Nesse artefato será evidenciado as práticas de reutilização de software utilizadas na construção da aplicação MyGov, baseada no site da Terracap e em suas funcionalidades. O objetivo da reutilização de software é diminuir o tempo de desenvolvimento do projeto ao utilizar frameworks e códigos já desenvolvidos para serem empregados em funcionalidades da aplicação.</p>
-<h2 id="metodologia">Metodologia</h2>
-<p>Para o desenvolvimento desse aspecto do projeto, foi realizada uma reunião com os membros do grupo <a href="../../../Subgrupos/Whiskey/">Whiskey</a> em que algumas funcionalidades acerca do desenvolvimento do MVP são divididas. Nessa divisão, o integrante Vitor Borges ficou encarregado da elaboração da interface de interação com o usuário, enquanto João Pedro e Leonardo Gonçalves ficaram responsáveis por elaborar o banco de dados e a camada de modelos relativas à funcionalidade. A gravação da reunião está disponível <a href="https://youtu.be/VsGrw-lxeco">aqui</a>.</p>
-<h2 id="reutilizacao">Reutilização</h2>
-<h3 id="django">Django</h3>
+<h2 id="metodologia"><a><em>Metodologia</em></a></h2>
+<p>Para o desenvolvimento desse aspecto do projeto, foi realizada uma reunião com os membros do grupo <a href="../../../Subgrupos/Whiskey/">Whiskey</a> em que algumas funcionalidades acerca do desenvolvimento do MVP são divididas. Nessa divisão, o integrante Vitor Borges ficou encarregado da elaboração da interface de interação com o usuário, enquanto João Pedro e Leonardo Gonçalves ficaram responsáveis por elaborar o banco de dados e a camada de modelos relativas à funcionalidade. A gravação da reunião está disponível a seguir.</p>
+<p><center></p>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/VsGrw-lxeco" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p></center></p>
+<h2 id="reutilizacao"><a><em>Reutilização</em></a></h2>
+<h3 id="django"><a><em>Django</em></a></h3>
 <p>O framework utilizado para a elaboração da interface gráfica foi o Django, da linguagem Python. Abaixo está a estrutura de arquivos gerada pelo framework:</p>
 <p><img alt="Estrutura" src="../django-estrutura.png" /></p>
-<p>Os arquivos mais relevantes nesse contexto são <a href="../../../MyGov/MyGov/urls.py">urls.py</a>, <a href="../../../MyGov/MyGov/settings.py">settings.py</a> e <a href="../../../MyGov/services/models.py">models.py</a>.</p>
-<h3 id="urlspy">urls.py</h3>
+<p>Os arquivos mais relevantes nesse contexto são <a href="../../../Assets/MyGov/urls.py">urls.py</a>, <a href="../../../Assets/MyGov/settings.py">settings.py</a> e <a href="../../../Assets/MyGov/models.py">models.py</a>.</p>
+<h3 id="urlspy"><a><em>urls.py</em></a></h3>
 <p>Nesse arquivo, são definidas os paths da aplicação. Na parte de reutilização de código temos as bibliotecas django.contrib e django.urls</p>
 <pre><code class="language-python">from django.contrib import admin
 from django.urls import include, path
@@ -2369,7 +2391,7 @@ urlpatterns = [
     path(&quot;user/&quot;, include(&quot;user.urls&quot;)),
 ]
 </code></pre>
-<h3 id="settingspy">settings.py</h3>
+<h3 id="settingspy"><a><em>settings.py</em></a></h3>
 <p>Nesse arquivo, são definidas as componentes e bibliotecas necessárias para o framework funcionar adequadamente.</p>
 <pre><code class="language-python">&quot;&quot;&quot;
 Django settings for MyGov project.
@@ -2389,17 +2411,17 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 
-# Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
+# &lt;a&gt;*Quick-start development settings - unsuitable for production*&lt;/a&gt;
+# &lt;a&gt;*See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/*&lt;/a&gt;
 
-# SECURITY WARNING: keep the secret key used in production secret!
+# &lt;a&gt;*SECURITY WARNING: keep the secret key used in production secret!*&lt;/a&gt;
 SECRET_KEY = 'django-insecure-(m=c-8$x^0x_sm#%l@vch!i^heeksov%wi7=_k&amp;vdlm3s9_xc='
 
 DEBUG = True
 
 ALLOWED_HOSTS = []
 
-# Application definition
+# &lt;a&gt;*Application definition*&lt;/a&gt;
 
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -2443,8 +2465,8 @@ TEMPLATES = [
 WSGI_APPLICATION = 'MyGov.wsgi.application'
 
 
-# Database
-# https://docs.djangoproject.com/en/5.0/ref/settings/#databases
+# &lt;a&gt;*Database*&lt;/a&gt;
+# &lt;a&gt;*https://docs.djangoproject.com/en/5.0/ref/settings/#databases*&lt;/a&gt;
 
 DATABASES = {
     'default': {
@@ -2454,8 +2476,8 @@ DATABASES = {
 }
 
 
-# Password validation
-# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
+# &lt;a&gt;*Password validation*&lt;/a&gt;
+# &lt;a&gt;*https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators*&lt;/a&gt;
 
 AUTH_PASSWORD_VALIDATORS = [
     {
@@ -2473,8 +2495,8 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
-# Internationalization
-# https://docs.djangoproject.com/en/5.0/topics/i18n/
+# &lt;a&gt;*Internationalization*&lt;/a&gt;
+# &lt;a&gt;*https://docs.djangoproject.com/en/5.0/topics/i18n/*&lt;/a&gt;
 
 LANGUAGE_CODE = 'en-us'
 
@@ -2485,25 +2507,25 @@ USE_I18N = True
 USE_TZ = True
 
 
-# Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/5.0/howto/static-files/
+# &lt;a&gt;*Static files (CSS, JavaScript, Images)*&lt;/a&gt;
+# &lt;a&gt;*https://docs.djangoproject.com/en/5.0/howto/static-files/*&lt;/a&gt;
 
 STATIC_URL = 'static/'
 
-# Default primary key field type
-# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
+# &lt;a&gt;*Default primary key field type*&lt;/a&gt;
+# &lt;a&gt;*https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field*&lt;/a&gt;
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 AUTH_USER_MODEL = 'user.User'
 
 </code></pre>
-<h3 id="modelspy">models.py</h3>
+<h3 id="modelspy"><a><em>models.py</em></a></h3>
 <p>Esse arquivo define as classes da modelagem do nosso banco de dados relacional implementado com o Django. Foram utilizadas as bibliotecas django.db e user.models.</p>
 <pre><code class="language-python">from django.db import models
 from user.models import User
 
-# Model Endereco
+# &lt;a&gt;*Model Endereco*&lt;/a&gt;
 class Endereco(models.Model):
     complemento = models.CharField(max_length=255)
     address = models.CharField(max_length=255)
@@ -2514,12 +2536,12 @@ class Endereco(models.Model):
     user = models.ForeignKey(User, related_name='enderecos', on_delete=models.CASCADE)
 
     def validate_registration_data(self):
-        pass  # implementar lógica
+        pass  # &lt;a&gt;*implementar lógica*&lt;/a&gt;
 
     def update_profile(self, name, address, cep, date_of_birth):
-        pass  # implementar lógica
+        pass  # &lt;a&gt;*implementar lógica*&lt;/a&gt;
 
-# Model Information -&gt; TALVEZ SEJA MELHOR COMO UMA VIEW
+# &lt;a&gt;*Model Information -&gt; TALVEZ SEJA MELHOR COMO UMA VIEW*&lt;/a&gt;
 class Information(models.Model):
     numero_processo = models.CharField(max_length=50)
     tamanho_imovel = models.CharField(max_length=50)
@@ -2531,13 +2553,13 @@ class Information(models.Model):
     alienacao = models.CharField(max_length=255)
 
     def show_information(self):
-        pass  # implementar lógica
+        pass  # &lt;a&gt;*implementar lógica*&lt;/a&gt;
 
     def edit_information(self):
-        pass  # implementar lógica
+        pass  # &lt;a&gt;*implementar lógica*&lt;/a&gt;
 
 
-# Model DeclaracaoRetroVenda herdando Content
+# &lt;a&gt;*Model DeclaracaoRetroVenda herdando Content*&lt;/a&gt;
 class DeclaracaoRetroVenda(models.Model):
     regiao = models.CharField(max_length=100)
     codigo_imovel = models.CharField(max_length=100)
@@ -2545,26 +2567,41 @@ class DeclaracaoRetroVenda(models.Model):
     information = models.OneToOneField(Information, on_delete=models.CASCADE)
 
     def visualizar_mapa(self):
-        pass  # implementar lógica
+        pass  # &lt;a&gt;*implementar lógica*&lt;/a&gt;
 
     def solicitar_por_regiao(self, regiao):
-        pass  # implementar lógica
+        pass  # &lt;a&gt;*implementar lógica*&lt;/a&gt;
 
     def solicitar_por_codigo(self, codigo_imovel):
-        pass  # implementar lógica
+        pass  # &lt;a&gt;*implementar lógica*&lt;/a&gt;
 
 
 </code></pre>
-<h3 id="outros-arquivos">Outros arquivos</h3>
+<h3 id="outros-arquivos"><a><em>Outros arquivos</em></a></h3>
 <p>Por ser um framework com muitas funcionalidades, existem outros arquivos que utilizam bibliotecas Django para o funcionamento da aplicação desenvolvida. Porém, os arquivos listados acima e suas bibliotecas são os mais relevantes para compreender o funcionamento.</p>
-<h3 id="api-ibge">API IBGE</h3>
+<h3 id="api-ibge"><a><em>API IBGE</em></a></h3>
 <p>Para buscar informações sobre as regiões administrativas e podemos marcar as mesmas no mapa utilizamos a API gratuita do <a href="https://servicodados.ibge.gov.br/api/docs/localidades/estados/DF/localidades?versao=2.0">IBGE</a>, nela é possível buscar por código, nome, estado e região administrativa para popular os formulários e facilitar a vida do usuário.</p>
-<h3 id="geolocalizacao">Geolocalização</h3>
+<h3 id="geolocalizacao"><a><em>Geolocalização</em></a></h3>
 <p>Dentro da plataforma é possível selecionar endereços a partir de um mapa, para implementar isso no nosso projeto, utilizamos a biblioteca <a href="https://leafletjs.com/">Leaflet</a> para renderizar mapas interativos em conjunto com a <a href="https://www.openstreetmap.org/">OpenStreetMap</a> para buscar coordenadas a partir do nome de uma localidade. Desta forma foi possível integrar a feature do usuário buscar o endereço marcando um ponto no mapa.</p>
-<h2 id="fluxo-de-funcionalidade">Fluxo de funcionalidade</h2>
-<p>Para ter acesso aos serviços o usuário deve possuir uma conta em nossa plataforma, para isso primeiro é necessário realizar o cadastro, assim que o usuário se cadastra o login é feito de forma automática e o usuário é redirecionado para a página inicial. A partir disso ele pode acessar livremente a área de serviços.</p>
-<p><a href="https://www.youtube.com/watch?v=KyP4vRuc5qU">Veja o vídeo do fluxo</a></p>
-<h2 id="historico-de-versao"><a><em>Histórico de Versão</em></a></h2>
+<h2 id="fluxo-de-funcionalidade"><a><em>Fluxo de funcionalidade</em></a></h2>
+<p>Para ter acesso aos serviços o usuário deve possuir uma conta em nossa plataforma, para isso primeiro é necessário realizar o cadastro, assim que o usuário se cadastra o login é feito de forma automática e o usuário é redirecionado para a página inicial. A partir disso ele pode acessar livremente a área de serviços. A seguir o vídeo do fluxo:</p>
+<p><center></p>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/KyP4vRuc5qU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p></center></p>
+<h2 id="bibliografia"><a><em>Bibliografia</em></a></h2>
+<pre><code>A reutilização de software e suas aplicações. Blog Casa do Desenvolvedor. (https://blog.casadodesenvolvedor.com.br/reutilizacao-de-software/)
+
+Reutilização de Software na Engenharia de Software: Conceitos e práticas. LinkedIn. (https://pt.linkedin.com/pulse/reutiliza%C3%A7%C3%A3o-de-software-na-engenharia-conceitos-e-gomes-rocha-odxxf)
+
+Diretrizes para Reutilização de Software. CIn UFPE. (https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S%26B/guidances/guidelines/software_reuse_6BA25ECC.html)
+
+Análise da Reutilização de Software em Projetos de Desenvolvimento. (https://www.enacomp.com.br/2011/anais/trabalhos-aprovados/pdf/enacomp2011_submission_43.pdf)
+
+Reuso de Software: Uma Abordagem Prática. (https://www.inf.ufpr.br/silvia/ES/reuso/reusoAl.pdf)
+</code></pre>
+<p><center></p>
+<h2 id="historico-de-versao"><a><em><a></em>Histórico de Versão<em></a></em></a></h2>
 <table>
 <thead>
 <tr>
