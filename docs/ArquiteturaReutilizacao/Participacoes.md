@@ -14,7 +14,7 @@
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |       Boa         |      Formatação do artefato e contribuições em correções de acordo com o material proposto em aula       |
-|   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
+|   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        Boa         |       Revisão dos conceitos teóricos mostrados no artefato       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa         |       Verificação do artefato de acordo com as referências e material da professora       |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Revisão e formatação do artefato     |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Excelente         |       Contrubui nas discussões e elaboração da Visão Lógica ativamente junto com meu grupo.       |
@@ -35,7 +35,7 @@
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |       Excelente         |      Auxiliei ativamente na confecção do artefato e dos diagramas      |
-|   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
+|   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        Boa         |       Revisão dos conceitos teóricos mostrados no artefato       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Excelente         |       Participou ativamente na criação do artefato e documento       |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |       Boa        |       Revisão do artefato em padronização e conteúdo      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Boa         |       Revisei o artefato da Visão de Processos de acordo o material passado em sala de aula e coerencia com o Diagrama de Sequência mencionado também na Visão Lógica.      |
@@ -53,7 +53,7 @@
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |       Boa        |       Ajudei a esclarecer partes importantes da confecção do código e seus fluxos de funcionalidade       |
-|   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
+|   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        Boa         |       Revisão dos conceitos teóricos apresentados       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa         |       Revisão teórica e conceitual de acordo com o material de aula       |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Excelente        |       Participação no desenvolvimento e criação do artefato      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Boa         |       Revisei e discuti sobre os Diagramas Classes, já implementado se estava coerente com a proposta da implementação.       |
@@ -71,7 +71,7 @@
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |       Excelente         |      Modelei o Banco de dados e implementei a lógica no código Django       |
-|   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
+|   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        Excelente         |       Criação da documentação da reutilização de código e participação na criação das classes usadas no banco de dados.      |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa         |       Revisão do código       |
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa        |       Revisão e análise das funcionalidades desenvolvidas      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        Boa         |       Revisei e discuti sobre o Diagrama Classes, já implementado se estava coerente com a proposta da implementação.      |
