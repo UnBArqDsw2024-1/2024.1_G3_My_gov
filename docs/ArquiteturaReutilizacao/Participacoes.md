@@ -19,7 +19,8 @@
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Revisão e formatação do artefato     |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        x         |       x       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
-|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
+|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        Boa         |       Revisão dos artefatos com base na bibliografia encontrada sobre o tema
+       |
 
 
 ## <a>*Estilos e Padrões Arquiteturais Visão de Processo*</a>
@@ -39,7 +40,7 @@
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |       Boa        |       Revisão do artefato em padronização e conteúdo      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        x         |       x       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
-|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
+|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        Boa         |       Revisão da metodologia descrita no artefato       |
 
 ## <a>*Reutilização de Software Parte Conceitual*</a>
 
@@ -57,7 +58,7 @@
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Excelente        |       Participação no desenvolvimento e criação do artefato      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        x         |       x       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
-|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
+|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        Boa         |       Participação em reuniões para esclarecer como a parte de código estaria sendo realizada e alinhamentos pontuais       |
 
 ## <a>*Reutilização de Software Parte de Código*</a>
 
@@ -75,7 +76,7 @@
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa        |       Revisão e análise das funcionalidades desenvolvidas      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        x         |       x       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
-|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
+|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        Boa         |       Implementação e integração do código com as API's, banco de dados e utilização do protótipo para o front-end       |
 
 <center>
 
