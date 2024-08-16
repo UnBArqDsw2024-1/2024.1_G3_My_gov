@@ -76,7 +76,7 @@
 |   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa        |       Revisão e análise das funcionalidades desenvolvidas      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        x         |       x       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
-|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        Boa         |       Implementação e integração do código com as API's, banco de dados e utilização do protótipo para o front-end       |
+|   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        Excelente         |       Implementação e integração do código com as API's, banco de dados e utilização do protótipo para o front-end       |
 
 <center>
 
