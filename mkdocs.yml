@@ -103,9 +103,10 @@ nav:
       - ArquiteturaReutilizacao/ReutilizacaoSoftware/index.md
       - Parte Conceitual: ArquiteturaReutilizacao/ReutilizacaoSoftware/Conceitual.md
       - Parte de Código: ArquiteturaReutilizacao/ReutilizacaoSoftware/Codigo.md
-    - Diretrizes: ArquiteturaReutilizacao/Diretrizes.md
+    - Iniciativas Extras: ArquiteturaReutilizacao/IniciativasExtras.md
     - Participações: ArquiteturaReutilizacao/Participacoes.md
   - Reuniões: 
     - AtasReunioes/index.md
     - 1ª Sprint: AtasReunioes/Sprint-1.md
     - 3ª Sprint: AtasReunioes/Sprint-3.md
+    - 4ª Sprint: AtasReunioes/Sprint-4.md

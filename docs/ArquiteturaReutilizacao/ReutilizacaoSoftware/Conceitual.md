@@ -1,10 +1,10 @@
-# <a>Documento de Reutilização de Software</a>
+# <a>*Documento de Reutilização de Software*</a>
 
-## <a>Introdução</a>
+## <a>*Introdução*</a>
 
 A reutilização de software é uma prática essencial no desenvolvimento de sistemas, que envolve a utilização de componentes, módulos ou trechos de código já existentes. Essa abordagem visa aumentar a eficiência e a produtividade, reduzindo o tempo e o custo de desenvolvimento, além de evitar a duplicação de esforços. A reutilização não apenas promove a padronização e a qualidade do software, mas também se torna crucial diante da crescente complexidade dos sistemas modernos. Com a evolução dos processos de desenvolvimento, a reutilização de software se consolidou como uma estratégia vital para enfrentar os desafios de inovação e manutenção contínua, permitindo que as equipes se concentrem em novas funcionalidades em vez de reinventar a roda.
 
-## <a>Metodologia</a>
+## <a>*Metodologia*</a>
 
 A metodologia adotada para o projeto inclui a aplicação de práticas ágeis, que favorecem a colaboração e a adaptação contínua. Utilizamos ferramentas de versionamento como Git para gerenciar o código e acompanhar as contribuições de cada membro do subgrupo. O vídeo demonstrativo da metodologia será disponibilizado a seguir para melhor compreensão do processo.
 
@@ -14,23 +14,23 @@ A metodologia adotada para o projeto inclui a aplicação de práticas ágeis, q
 
 </center>
 
-## <a>Ferramentas</a>
+## <a>*Ferramentas*</a>
 
-### <a>Backend</a>
+### <a>*Backend*</a>
 
 - *Python*: Escolhemos Python pela sua simplicidade e legibilidade, que facilitam tanto o desenvolvimento quanto a manutenção do código. A linguagem também oferece uma ampla gama de bibliotecas e frameworks que agilizam a implementação de funcionalidades.
   
   - *Django*: Utilizamos Django por sua robustez e pela capacidade de facilitar o desenvolvimento de aplicações web, permitindo a criação rápida de protótipos e a integração de funcionalidades complexas com segurança.
 
-### <a>Frontend</a>
+### <a>*Frontend*</a>
 
 - *JavaScript*: Optamos por JavaScript, que é a linguagem padrão para desenvolvimento web. Utilizamos frameworks como React para criar interfaces dinâmicas e responsivas, melhorando a experiência do usuário.
 
-### <a>Banco de dados</a>
+### <a>*Banco de dados*</a>
 
 - *SQLite*: A escolha do SQLite se deve à sua leveza e simplicidade, sendo ideal para aplicações que não requerem um sistema de gerenciamento de banco de dados robusto. O SQLite permite que a aplicação armazene dados em um único arquivo, facilitando a portabilidade e o gerenciamento.
 
-## Pontos de Reutilização
+## <a>*Pontos de Reutilização*</a>
 
 - Serviços
 
@@ -55,29 +55,33 @@ Para implementar o serviço de geolocalização utilizamos as bibliotecas Leafle
 Além disso, ao encapsular a lógica de renderização de mapas e a busca de coordenadas em módulos reutilizáveis, criamos componentes que podem ser facilmente transferidos ou adaptados para outras partes do sistema. Por exemplo, o mesmo módulo que permite ao usuário selecionar um endereço pode ser reutilizado em diferentes contextos, como formulários de cadastro, relatórios, ou outros recursos que exigem entrada de localização.
 
 
-## <a>Justificativa</a>
+## <a>*Justificativa*</a>
 
 A escolha das ferramentas e abordagens descritas neste documento foi fundamentada na busca por eficiência, flexibilidade, e escalabilidade no desenvolvimento do sistema. Optamos por tecnologias consolidadas e amplamente reconhecidas pela comunidade de desenvolvedores, como Python com Django, JavaScript, e o uso de SQLite, por razões que vão além da simplicidade e do suporte comunitário.
 
-## <a>Conclusões</a>
+## <a>*Conclusões*</a>
 
 O artefato de reutilização de software documentado aqui demonstra a eficácia de utilizar abordagens e ferramentas consolidadas no desenvolvimento de sistemas. A reutilização não só economiza tempo e esforço durante a fase de desenvolvimento, mas também prepara o sistema para futuras expansões e adaptações. A modularidade e a flexibilidade das soluções escolhidas garantem que o sistema possa evoluir de acordo com as necessidades da Terracap, mantendo a consistência, a qualidade e a escalabilidade.
 
 Ao adotar práticas de reutilização de software, conseguimos maximizar os recursos disponíveis, minimizar erros e bugs, e manter um alto padrão de qualidade no código. O sistema desenvolvido será mais fácil de manter e expandir, permitindo que a Terracap se adapte rapidamente às mudanças e novas demandas do mercado, promovendo assim uma solução tecnológica robusta e de longo prazo.
 
 
-## <a>Referências</a>
+## <a>*Bibliografia*</a>
 
     A reutilização de software e suas aplicações. Blog Casa do Desenvolvedor. (https://blog.casadodesenvolvedor.com.br/reutilizacao-de-software/)
+    
     Reutilização de Software na Engenharia de Software: Conceitos e práticas. LinkedIn. (https://pt.linkedin.com/pulse/reutiliza%C3%A7%C3%A3o-de-software-na-engenharia-conceitos-e-gomes-rocha-odxxf)
+    
     Diretrizes para Reutilização de Software. CIn UFPE. (https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S%26B/guidances/guidelines/software_reuse_6BA25ECC.html)
+    
     Análise da Reutilização de Software em Projetos de Desenvolvimento. (https://www.enacomp.com.br/2011/anais/trabalhos-aprovados/pdf/enacomp2011_submission_43.pdf)
+    
     Reuso de Software: Uma Abordagem Prática. (https://www.inf.ufpr.br/silvia/ES/reuso/reusoAl.pdf)
 
 
 <Center>
 
-## <a><a>*Histórico de Versão</a>*</a>
+## <a>*Histórico de Versão*</a>
 
 | Versão |    Data    |       Descrição       | Autor(es) | Revisor(es) |
 | :----: | :--------: | :-------------------: | :-------: | :---------: |
