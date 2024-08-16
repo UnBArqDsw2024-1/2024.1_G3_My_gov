@@ -10,7 +10,7 @@
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        Boa         |       Revisão do Artefato de acordo com o que foi dado em sala de aula       |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
-|   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        x         |       x       |
+|   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Correção e revisão dos textos do artefato      |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
@@ -30,7 +30,7 @@
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        Excelente         |       Participou ativamente na criação do artefato e documento       |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
-|   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        x         |       x       |
+|   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Revisão do artefato de acordo com o objetivo proposto      |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
@@ -48,7 +48,7 @@
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        Boa         |       Revisão da metodologia utilizada       |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
-|   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        x         |       x       |
+|   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Excelente         |       Participação no desenvolvimento do artefato        |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
@@ -66,7 +66,7 @@
 |   211039250   |    [Arthur Grandão de Mello](https://github.com/arthurgrandao)     |        x         |       x       |
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        Boa         |       Revisão de código       |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
-|   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        x         |       x       |
+|   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa        |       Revisão e analise do codigo       |
 |   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
