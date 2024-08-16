@@ -6,7 +6,7 @@ Nesse artefato será evidenciado as práticas de reutilização de software util
 
 ## Metodologia
 
-Para o desenvolvimento desse aspecto do projeto, foi realizada uma reunião com os membros do grupo [Whiskey](../../Subgrupos/Whiskey.md) em que algumas funcionalidades acerca do desenvolvimento do MVP são divididas. Nessa divisão, o integrante Vitor Borges ficou encarregado da elaboração da interface de interação com o usuário da funcionalidade, enquanto João Pedro e Leonardo Gonçalves ficaram responsáveis por elaborar o banco de dados e a camada modelo relativas à funcionalidade. A gravação da reunião está disponível [aqui](https://youtu.be/VsGrw-lxeco).
+Para o desenvolvimento desse aspecto do projeto, foi realizada uma reunião com os membros do grupo [Whiskey](../../Subgrupos/Whiskey.md) em que algumas funcionalidades acerca do desenvolvimento do MVP são divididas. Nessa divisão, o integrante Vitor Borges ficou encarregado da elaboração da interface de interação com o usuário, enquanto João Pedro e Leonardo Gonçalves ficaram responsáveis por elaborar o banco de dados e a camada de modelos relativas à funcionalidade. A gravação da reunião está disponível [aqui](https://youtu.be/VsGrw-lxeco).
 
 ## Reutilização
 
@@ -22,7 +22,7 @@ Os arquivos mais relevantes nesse contexto são [urls.py](../../../MyGov/MyGov/u
 
 Nesse arquivo, são definidas os paths da aplicação. Na parte de reutilização de código temos as bibliotecas django.contrib e django.urls
 
-```
+```python
 from django.contrib import admin
 from django.urls import include, path
 
@@ -37,7 +37,7 @@ urlpatterns = [
 
 Nesse arquivo, são definidas as componentes e bibliotecas necessárias para o framework funcionar adequadamente.
 
-```
+```python
 """
 Django settings for MyGov project.
 
@@ -62,11 +62,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-(m=c-8$x^0x_sm#%l@vch!i^heeksov%wi7=_k&vdlm3s9_xc='
 
-# SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
 
 # Application definition
 
@@ -169,9 +167,9 @@ AUTH_USER_MODEL = 'user.User'
 ```
 ### models.py
 
-Esse arquivo define as classes que serão adaptadas a partir do django para tabelas em um banco de dados relacional. Foram utilizadas as bibliotecas django.db e user.models.
+Esse arquivo define as classes da modelagem do nosso banco de dados relacional implementado com o Django. Foram utilizadas as bibliotecas django.db e user.models.
 
-```
+```python
 from django.db import models
 from user.models import User
 
@@ -229,10 +227,11 @@ class DeclaracaoRetroVenda(models.Model):
 ```
 
 ### Outros arquivos
-Por ser um framework com muitas funcionalidades, existem outros arquivos que utilizam bibliotecas django para o funcionamento da aplicação desenvolvida. Porém, os arquivos listados acima e suas bibliotecas são os mais relevantes para compreender o funcionamento.
+Por ser um framework com muitas funcionalidades, existem outros arquivos que utilizam bibliotecas Django para o funcionamento da aplicação desenvolvida. Porém, os arquivos listados acima e suas bibliotecas são os mais relevantes para compreender o funcionamento.
 
 ## <a>*Histórico de Versão*</a>
 
 | Versão |    Data    |       Descrição       |               Autor(es)               |                   Revisor(es)                    |
 | :----: | :--------: | :-------------------: | :-----------------------------------: | :----------------------------------------------: |
 | `1.0`  | 15/08/2024 | Confecção do artefato | [Whiskey](../../Subgrupos/Whiskey.md) |        [Papa](../../Subgrupos/Papa.md)        |
+| `1.1`  | 16/08/2024 | Correções do artefato | [Whiskey](../../Subgrupos/Whiskey.md) |        [Papa](../../Subgrupos/Papa.md)        |
