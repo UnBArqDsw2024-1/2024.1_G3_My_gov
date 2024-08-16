@@ -241,12 +241,13 @@ Dentro da plataforma é possível selecionar endereços a partir de um mapa, par
 
 Para ter acesso aos serviços o usuário deve possuir uma conta em nossa plataforma, para isso primeiro é necessário realizar o cadastro, assim que o usuário se cadastra o login é feito de forma automática e o usuário é redirecionado para a página inicial. A partir disso ele pode acessar livremente a área de serviços.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KyP4vRuc5qU?si=SDt-wCQnEfnf53DA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Veja o vídeo do fluxo](https://www.youtube.com/watch?v=KyP4vRuc5qU)
+
 
 ## <a>*Histórico de Versão*</a>
 
 | Versão |    Data    |       Descrição       |               Autor(es)               |                   Revisor(es)                    |
 | :----: | :--------: | :-------------------: | :-----------------------------------: | :----------------------------------------------: |
 | `1.0`  | 15/08/2024 | Confecção do artefato | [Whiskey](../../Subgrupos/Whiskey.md) |        [Papa](../../Subgrupos/Papa.md)        |
-| `1.1`  | 16/08/2024 | Correções do artefato | [Whiskey](../../Subgrupos/Whiskey.md) |        [Papa](../../Subgrupos/Papa.md)        |
-| `1.2`  | 17/08/2024 | Adição de API e Geolocalização | [Whiskey](../../Subgrupos/Whiskey.md) |        [Papa](../../Subgrupos/Papa.md)        |
+| `1.1`  | 16/08/2024 | Adição de API e Geolocalização | [Whiskey](../../Subgrupos/Whiskey.md) |        [Papa](../../Subgrupos/Papa.md)        |
+
