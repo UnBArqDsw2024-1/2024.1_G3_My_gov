@@ -16,7 +16,7 @@
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa         |       Verificação do artefato de acordo com as referências e material da professora       |
-|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |       x       |
+|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa         |       Revisão e formatação do artefato     |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        x         |       x       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
@@ -36,7 +36,7 @@
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Excelente         |       Participou ativamente na criação do artefato e documento       |
-|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |       x       |
+|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |       Boa        |       Revisão do artefato em padronização e conteúdo      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        x         |       x       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
@@ -54,7 +54,7 @@
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa         |       Revisão teórica e conceitual de acordo com o material de aula       |
-|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |       x       |
+|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Excelente        |       Participação no desenvolvimento e criação do artefato      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        x         |       x       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
@@ -72,7 +72,7 @@
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |        x         |       x       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        x         |       x       |
 |   211043718   |   [Paulo Victor Fonseca Sousa](https://github.com/PauloVictorFS)   |        Boa         |       Revisão do código       |
-|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        x         |       x       |
+|   200059947   |  [Pedro Henrique Muniz de Oliveira](https://github.com/Muniz2811)  |        Boa        |       Revisão e análise das funcionalidades desenvolvidas      |
 |   211041286   |      [Rafael Ferreira Leandro](https://github.com/RafaelCLG0)      |        x         |       x       |
 |   200043030   |       [Renann de Oliveira Gomes](https://github.com/NyndoND)       |        x         |       x       |
 |   200028626   |      [Vitor Borges dos Santos](https://github.com/VitorB2002)      |        x         |       x       |
