@@ -19,7 +19,7 @@ Um diagrama de classe mostra um conjunto de classes, interfaces e colaborações
 <center>
 Figura 1 - Diagrama de Classes
 
-<br> <img src="./../../Assets/DiagramaClasse/DiagramaClasseV2.jpg" width="1000" alt="Diagrama de Classes do sistema">  <br>
+<br> <img src="../../../Assets/DiagramaClasse/DiagramaClasseV2.jpg" width="1000" alt="Diagrama de Classes do sistema">  <br>
 
 <font>Fonte: <a>[Yankee](../../Subgrupos/Yankee.md)</a>, 2024</font>
 
@@ -27,19 +27,19 @@ Figura 1 - Diagrama de Classes
 
 O diagrama de classes representa o sistema de solicitação de retrovenda de imóveis da Terracap. O usuário pode se registrar e autenticar via GovBR e interagir com o conteúdo relacionado à retrovenda através da interface. O diagrama reflete a estrutura e a lógica necessárias para implementar essa funcionalidade no sistema.
 
-Para visualizar o diagrama em mais detalhes, acesse a sua respectiva página: [Diagrama de Classes](../../Modelagem/ModelagemEstatica/DiagramaDeClasses.md).
+Para visualizar o diagrama em mais detalhes, acesse a sua respectiva página: [Diagrama de Classes](../../../Modelagem/ModelagemEstatica/DiagramaDeClasses.md).
 
 ## <a>*Diagrama de Sequência*</a>
 
 O Diagrama de Sequência representa a interação entre objetos ao longo do tempo, mostrando a troca de mensagens entre eles para realizar uma funcionalidade específica. Essencial para entender a dinâmica do sistema, este diagrama permite visualizar como os objetos colaboram para realizar processos ou funcionalidades específicas. Ele complementa a visão estática, oferecendo uma perspectiva temporal das interações. (Booch, 2005)
 
-Os diagramas de sequências abaixo estão mais detalhado em sua respectiva página [Diagrama de Sequências](../../Modelagem/ModelagemDinamica/DiagramaDeSequencia.md).
+Os diagramas de sequências abaixo estão mais detalhado em sua respectiva página [Diagrama de Sequências](../../../Modelagem/ModelagemDinamica/DiagramaDeSequencia.md).
 
 <center>
 
 Figura 2 - Fluxo de Cadastro
 
-<img src="./../../Assets/DiagramaSequencia/cadastro_sequencia.png" width="500" alt="Diagrama de atividades do cadastro">
+<img src="../../../Assets/DiagramaSequencia/cadastro_sequencia.png" width="500" alt="Diagrama de atividades do cadastro">
 
 <font>Fonte: <a>[Foxtrot](../../Subgrupos/Foxtrot.md)</a>, 2024</font>
 
@@ -51,7 +51,7 @@ Esse diagrama de sequência representa o fluxo de um processo de cadastro de usu
 
 Figura 3 - Fluxo de Login
 
-<img src="./../../Assets/DiagramaSequencia/login_sequencia.png" width="500" alt="Diagrama de atividades do login">
+<img src="../../../Assets/DiagramaSequencia/login_sequencia.png" width="500" alt="Diagrama de atividades do login">
 
 <font>Fonte: <a>[Foxtrot](../../Subgrupos/Foxtrot.md)</a>, 2024</font>
 
@@ -63,7 +63,7 @@ Este diagrama de sequência representa o fluxo de login de um usuário no sistem
 
 Figura 4 - Fluxo de Declaração de Retrovenda
 
-<img src="./../../Assets/DiagramaSequencia/solicitar_dec_sequencia.png" width="500" alt="Diagrama de atividades da declaração da retrovenda"></img>
+<img src="../../../Assets/DiagramaSequencia/solicitar_dec_sequencia.png" width="500" alt="Diagrama de atividades da declaração da retrovenda"></img>
 
 <font>Fonte: <a>[Foxtrot](../../Subgrupos/Foxtrot.md)</a>, 2024</font>
 
@@ -79,13 +79,13 @@ Segundo (2005, Booch) o diagrama de pacotes é discutido como um elemento crucia
 <center>
 Figura 5 - Diagrama de Pacotes
 
-<br> ![alt text](../../Assets/DiagramaPacote/DiagramaDePacotesV2.png) <br>
+<br> ![alt text](../../../Assets/DiagramaPacote/DiagramaDePacotesV2.png) <br>
 
 <font>Fonte: <a>[Yankee](../../Subgrupos/Yankee.md)</a>, 2024</font>
 
 </center>
 
-Para uma melhor compreensão do Diagrama de Pacotes o link a seguir leva ao documento original [Diagrama de Pacotes](../../Modelagem/ModelagemEstatica/DiagramaDePacotes.md)
+Para uma melhor compreensão do Diagrama de Pacotes o link a seguir leva ao documento original [Diagrama de Pacotes](../../../Modelagem/ModelagemEstatica/DiagramaDePacotes.md)
 ## <a>*Diagrama de Comunicação*</a>
 
 No livro The Unified Modeling Language User Guide, o diagrama de comunicação (também conhecido como diagrama de colaboração na versão original do UML) é descrito como uma ferramenta fundamental na captura da visão lógica de um sistema. O diagrama de comunicação representa o fluxo de mensagens entre os objetos para realizar uma operação ou processo específico. Ele difere do diagrama de sequência, que também é um diagrama dinâmico, principalmente no foco que dá à estrutura e à organização dos objetos envolvidos na interação, em vez da ordem temporal das mensagens.
