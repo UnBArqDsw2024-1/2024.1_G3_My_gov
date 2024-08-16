@@ -229,9 +229,24 @@ class DeclaracaoRetroVenda(models.Model):
 ### Outros arquivos
 Por ser um framework com muitas funcionalidades, existem outros arquivos que utilizam bibliotecas Django para o funcionamento da aplicação desenvolvida. Porém, os arquivos listados acima e suas bibliotecas são os mais relevantes para compreender o funcionamento.
 
+### API IBGE
+
+Para buscar informações sobre as regiões administrativas e podemos marcar as mesmas no mapa utilizamos a API gratuita do [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades/estados/DF/localidades?versao=2.0), nela é possível buscar por código, nome, estado e região administrativa para popular os formulários e facilitar a vida do usuário.
+
+### Geolocalização
+
+Dentro da plataforma é possível selecionar endereços a partir de um mapa, para implementar isso no nosso projeto, utilizamos a biblioteca [Leaflet](https://leafletjs.com/) para renderizar mapas interativos em conjunto com a [OpenStreetMap](https://www.openstreetmap.org/) para buscar coordenadas a partir do nome de uma localidade. Desta forma foi possível integrar a feature do usuário buscar o endereço marcando um ponto no mapa.
+
+## Fluxo de funcionalidade
+
+Para ter acesso aos serviços o usuário deve possuir uma conta em nossa plataforma, para isso primeiro é necessário realizar o cadastro, assim que o usuário se cadastra o login é feito de forma automática e o usuário é redirecionado para a página inicial. A partir disso ele pode acessar livremente a área de serviços.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KyP4vRuc5qU?si=SDt-wCQnEfnf53DA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## <a>*Histórico de Versão*</a>
 
 | Versão |    Data    |       Descrição       |               Autor(es)               |                   Revisor(es)                    |
 | :----: | :--------: | :-------------------: | :-----------------------------------: | :----------------------------------------------: |
 | `1.0`  | 15/08/2024 | Confecção do artefato | [Whiskey](../../Subgrupos/Whiskey.md) |        [Papa](../../Subgrupos/Papa.md)        |
 | `1.1`  | 16/08/2024 | Correções do artefato | [Whiskey](../../Subgrupos/Whiskey.md) |        [Papa](../../Subgrupos/Papa.md)        |
+| `1.2`  | 17/08/2024 | Adição de API e Geolocalização | [Whiskey](../../Subgrupos/Whiskey.md) |        [Papa](../../Subgrupos/Papa.md)        |
