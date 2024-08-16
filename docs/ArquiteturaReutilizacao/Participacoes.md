@@ -11,7 +11,7 @@
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        Boa         |       Revisão do Artefato de acordo com o que foi dado em sala de aula       |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Correção e revisão dos textos do artefato      |
-|   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
+|   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        Boa         |       Elaboração e adição de diagramas corrigidos       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |       Boa         |      Formatação do artefato e contribuições em correções de acordo com o material proposto em aula       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        Boa         |       Revisão dos conceitos teóricos mostrados no artefato       |
@@ -32,7 +32,7 @@
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        Excelente         |       Participou ativamente na criação do artefato e documento       |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa         |       Revisão do artefato de acordo com o objetivo proposto      |
-|   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
+|   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        Boa         |       Revisão do artefato       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |       Excelente         |      Auxiliei ativamente na confecção do artefato e dos diagramas      |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        Boa         |       Revisão dos conceitos teóricos mostrados no artefato       |
@@ -50,7 +50,7 @@
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        Boa         |       Revisão da metodologia utilizada       |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Excelente         |       Participação no desenvolvimento do artefato        |
-|   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
+|   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        Boa         |       Revisão do artefato      |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |       Boa        |       Ajudei a esclarecer partes importantes da confecção do código e seus fluxos de funcionalidade       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        Boa         |       Revisão dos conceitos teóricos apresentados       |
@@ -68,7 +68,7 @@
 |   211043610   |     [Arthur Marmo Cathalá](https://github.com/artmarmocathala)     |        Boa         |       Revisão de código       |
 |   211061494   |     [Bruno Tarquinio Silva](https://github.com/brunotarquinio)     |        x         |       x       |
 |   211031691   |         [Fause Carlos](https://github.com/FauseSkyWalker)          |        Boa        |       Revisão e analise do codigo       |
-|   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        x         |       x       |
+|   211039439   |         [Gabriel Campello Marque](https://github.com/G16C)         |        Boa         |       Revisão de código       |
 |   190089601   | [João Lucas Pinto Vasconcelos](https://github.com/VasconcelosJoao) |        x         |       x       |
 |   211029361   |   [João Pedro Nóbrega Fernandes](https://github.com/bot-do-jao)    |       Excelente         |      Modelei o Banco de dados e implementei a lógica no código Django       |
 |   211029405   |  [Leonardo Gonçalves Machado](https://github.com/leonardogonmac)   |        Excelente         |       Criação da documentação da reutilização de código e participação na criação das classes usadas no banco de dados.      |
@@ -88,5 +88,6 @@
 | `1.1`  | 09/08/2024 | Correção dos tópicos | [João Lucas](https://github.com/VasconcelosJoao) | [Whiskey](../Subgrupos/Whiskey.md) |
 | `1.2`  | 16/08/2024 | Adição da participação | [João Pedo Nóbrega Fernandes](https://github.com/bot-do-jao) | [Whiskey](../Subgrupos/Whiskey.md) |
 | `1.3`  | 16/08/2024 | Adição da participação | [Rafael Ferreira Leandro](https://github.com/RafaelCLG0) | [Whiskey](../Subgrupos/Whiskey.md) |
+| `1.4`  | 16/08/2024 | Adição da participação | [Gabriel Campello Marques](https://github.com/G16C) | [Whiskey](../Subgrupos/Whiskey.md) |
 
 </center>
