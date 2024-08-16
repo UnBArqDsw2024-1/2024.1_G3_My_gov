@@ -1,6 +1,82 @@
-{% if declaracao == None %}
-  <h2>Não foi encontrado nenhum lote com o endereço {{ endereco }}</h2>
-{% else %}
-  <h2>Lote: {{ declaracao.codigo_imovel }}</h2>
-  <h3>Endereço: {{ declaracao.endereco }}</h3>
-{% endif %}
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baixa de Retrovenda</title>
+  </head>
+
+  <body>
+    <header>
+      <a href="https://www.gov.br"><img src="https://sso.acesso.gov.br/assets/govbr/img/govbr.png" alt="Logomarca GovBR" height="30px" width="auto"></a>
+    </header>
+
+    <main>
+      <div class="retro-return">
+        {% if declaracao == None %}
+          <h2>Não foi encontrado nenhuma baixa de retrovenda com o endereço {{ endereco }}</h2>
+        {% else %}
+          <h2>Informações da baixa de retrovenda do imóvel com código: {{ declaracao.codigo_imovel }}</h2>
+          <h3>Endereço: {{ endereco.address }}</h3>
+          <h3> Nº processo: {{ info.numero_processo }}</h3>
+          <h3> Tamanho do imóvel: {{ info.tamanho_imovel }}</h3>
+          <h3> Nº habitação: {{ info.numero_habite_se }}</h3>
+          <h3> Data de expedição: {{ info.data_expedicao }}</h3>
+          <h3> Tipo de declaração: {{ info.tipo_declaracao }}</h3>
+          <h3> Tipo de proprietário: {{ info.tipo_proprietario }}</h3>
+          <h3> Ano de habitação: {{ info.ano_habite_se }}</h3>
+          <h3> Alienação: {{ info.alienacao }}</h3>
+        {% endif %}
+      </div>
+    </main>
+    
+  </body>
+</html>
+
+<style>
+  html, body {margin: 0; height: 100%; overflow: hidden}
+  header {
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px !important;
+    align-items: center;
+    box-shadow: 0 3px 6px #00000029;
+    margin-bottom: 5px;
+    background-color: #fff;
+    width: 100%;
+    height: 3rem;
+    padding: 10px;
+  }
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 3px 6px #00000029;
+    width: 100%;
+    height: auto;
+  }
+  .retro-return {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 1rem;
+    background-color: #fff;
+    gap: 1rem;
+    h2 {
+      margin: 0;
+      padding: 0;
+      font-size: 1.5rem;
+      color: #1351B4;
+    }
+    span {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      border-radius: 4px;
+      background-color: lightgray;
+      gap: 0.5rem;
+      padding: 0.5rem;
+    }
+  }
+</style>

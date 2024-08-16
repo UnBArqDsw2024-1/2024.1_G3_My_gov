@@ -14,13 +14,13 @@ def retrovenda(request):
             endereco = request.POST.get('endereco')
             declaracao = DeclaracaoRetroVenda.objects.filter(endereco=endereco)
             if declaracao:
-                return render(request, 'info.html', {'declaracao': declaracao[0], 'endereco': endereco})
+                return render(request, 'info.html', {'declaracao': declaracao[0], 'endereco': endereco, 'info': declaracao[0].information})
 
             return render(request, 'info.html', {'declaracao': None})
         else:
             declaracao = DeclaracaoRetroVenda.objects.filter(codigo_imovel=codigo_imovel)
             if declaracao:
-                return render(request, 'info.html', {'codigo_imovel': codigo_imovel, 'declaracao': declaracao[0], 'endereco': declaracao[0].endereco})
+                return render(request, 'info.html', {'codigo_imovel': codigo_imovel, 'declaracao': declaracao[0], 'endereco': declaracao[0].endereco, 'info': declaracao[0].information})
 
             return render(request, 'info.html', {'declaracao': None})
     return render(request, 'retrovenda.html')

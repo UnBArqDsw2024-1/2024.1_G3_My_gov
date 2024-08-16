@@ -30,7 +30,7 @@
         <div class="selector" data-target="form2">POR CÓDIGO DO IMÓVEL</div>
       </div>
 
-      <div id="form1" class="form-container">
+      <div id="form1" class="form-container" style="flex-direction: column; gap: 0.5rem; width: 80%; align-items: center;">
         <form method="post" action="{% url 'retrovenda' %}">
           {% csrf_token %}
           <select id="subdistritosSelect">
@@ -214,7 +214,7 @@
   }
 
   .active {
-    display: block;
+    display: flex;
   }
 
   .selectors {
