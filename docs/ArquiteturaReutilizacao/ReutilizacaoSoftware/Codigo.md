@@ -272,8 +272,9 @@ Para ter acesso aos serviços o usuário deve possuir uma conta em nossa platafo
 
 ## <a>*<a>*Histórico de Versão*</a>*</a>
 
-| Versão |    Data    |       Descrição       |               Autor(es)               |                   Revisor(es)                    |
-| :----: | :--------: | :-------------------: | :-----------------------------------: | :----------------------------------------------: |
-| `1.0`  | 15/08/2024 | Confecção do artefato | [Whiskey](../../Subgrupos/Whiskey.md) |        [Papa](../../Subgrupos/Papa.md)        |
-| `1.1`  | 16/08/2024 | Adição de API e Geolocalização | [Whiskey](../../Subgrupos/Whiskey.md) |        [Papa](../../Subgrupos/Papa.md)        |
+| Versão |    Data    |            Descrição            |               Autor(es)               |           Revisor(es)           |
+| :----: | :--------: | :-----------------------------: | :-----------------------------------: | :-----------------------------: |
+| `1.0`  | 15/08/2024 |      Confecção do artefato      | [Whiskey](../../Subgrupos/Whiskey.md) | [Papa](../../Subgrupos/Papa.md) |
+| `1.1`  | 16/08/2024 | Adição de API e Geolocalização  | [Whiskey](../../Subgrupos/Whiskey.md) | [Papa](../../Subgrupos/Papa.md) |
+| `1.2`  | 16/08/2024 | Correção de ortografia e Videos | [Foxtrot](../../Subgrupos/Foxtrot.md) | [Yankee](../../Subgrupos/Yankee.md) |
 
