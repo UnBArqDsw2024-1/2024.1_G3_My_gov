@@ -30,15 +30,25 @@ A metodologia adotada para o projeto inclui a aplicação de práticas ágeis, q
 
 - *SQLite*: A escolha do SQLite se deve à sua leveza e simplicidade, sendo ideal para aplicações que não requerem um sistema de gerenciamento de banco de dados robusto. O SQLite permite que a aplicação armazene dados em um único arquivo, facilitando a portabilidade e o gerenciamento.
 
-## <a>Pontos Candidatos à Reutilização</a>
+## Pontos de Reutilização
 
-### <a>Funcionalidade de Login</a>
+	- Serviços
 
-A funcionalidade de login do sistema Terracap permite que os usuários acessem o portal mediante a autenticação de suas credenciais. Após a validação, o sistema concede acesso aos serviços e informações restritas, garantindo a segurança e a privacidade dos dados dos usuários.
+Os modelos estendem models.Model, o que significa que eles herdam toda a infraestrutura fornecida pelo Django para persistência de dados, validação e migração de banco de dados. Isso permite que você reutilize funcionalidades como validação de campos, operações CRUD (Create, Read, Update, Delete) e integração com o ORM (Object-Relational Mapping) do Django, sem precisar implementar essas funcionalidades manualmente. Além disso, o Django fornece campos predefinidos (como CharField, DateField, BooleanField) que estamos utilizando. Esses campos são altamente reutilizáveis e personalizáveis, o que facilita o desenvolvimento de modelos de dados robustos e flexíveis. 
 
-### <a>Funcionalidade de Cadastro</a>
+Reutilização futura:
+No futuro, o sistema da Terracap pode precisar de novas funcionalidades, como a integração com outros sistemas ou a adição de novos tipos de declarações ou documentos. A modularidade dos modelos atuais permitirá que novas funcionalidades sejam adicionadas sem grandes mudanças na estrutura existente.
 
-Esta funcionalidade permite que novos usuários se registrem no sistema, coletando informações essenciais e armazenando-as de maneira segura. A reutilização deste módulo pode ser aplicada em diferentes contextos, como em sistemas de e-commerce ou plataformas educacionais.
+- Usuário
+
+Pontos de Reutilização de Software no modelos de usuários:
+Extensão de AbstractUser:
+Essa extensão aproveita e reutiliza uma classe robusta do Django, que já contém toda a infraestrutura necessária para autenticação e gerenciamento de usuários. Isso evita a necessidade de reescrever funcionalidades complexas, como hash de senhas, permissões, e grupos de usuários, e permite se concentrar em adicionar funcionalidades específicas ao nosso projeto.
+
+Reutilização futura:
+O modelo utilizado no User permite que esse possa ser reutilizado em diferentes partes da aplicação que necessitam de informações específicas sobre o usuário. Essa abordagem centralizou os dados do usuário em um único modelo, o que facilita a manutenção e expansão futura. 
+
+
 
 ## <a>Justificativa</a>
 
