@@ -1,24 +1,30 @@
-# Reutilização de Software
+# <a>*Reutilização de Software*</a>
 
-## Introdução
+## <a>*Introdução*</a>
 
 Nesse artefato será evidenciado as práticas de reutilização de software utilizadas na construção da aplicação MyGov, baseada no site da Terracap e em suas funcionalidades. O objetivo da reutilização de software é diminuir o tempo de desenvolvimento do projeto ao utilizar frameworks e códigos já desenvolvidos para serem empregados em funcionalidades da aplicação.
 
-## Metodologia
+## <a>*Metodologia*</a>
 
-Para o desenvolvimento desse aspecto do projeto, foi realizada uma reunião com os membros do grupo [Whiskey](../../Subgrupos/Whiskey.md) em que algumas funcionalidades acerca do desenvolvimento do MVP são divididas. Nessa divisão, o integrante Vitor Borges ficou encarregado da elaboração da interface de interação com o usuário, enquanto João Pedro e Leonardo Gonçalves ficaram responsáveis por elaborar o banco de dados e a camada de modelos relativas à funcionalidade. A gravação da reunião está disponível [aqui](https://youtu.be/VsGrw-lxeco).
+Para o desenvolvimento desse aspecto do projeto, foi realizada uma reunião com os membros do grupo [Whiskey](../../Subgrupos/Whiskey.md) em que algumas funcionalidades acerca do desenvolvimento do MVP são divididas. Nessa divisão, o integrante Vitor Borges ficou encarregado da elaboração da interface de interação com o usuário, enquanto João Pedro e Leonardo Gonçalves ficaram responsáveis por elaborar o banco de dados e a camada de modelos relativas à funcionalidade. A gravação da reunião está disponível a seguir.
 
-## Reutilização
+<center>
 
-### Django
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/VsGrw-lxeco" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+## <a>*Reutilização*</a>
+
+### <a>*Django*</a>
 
 O framework utilizado para a elaboração da interface gráfica foi o Django, da linguagem Python. Abaixo está a estrutura de arquivos gerada pelo framework:
 
 ![Estrutura](django-estrutura.png)
 
-Os arquivos mais relevantes nesse contexto são [urls.py](../../../MyGov/MyGov/urls.py), [settings.py](../../../MyGov/MyGov/settings.py) e [models.py](../../../MyGov/services/models.py).
+Os arquivos mais relevantes nesse contexto são [urls.py](../../Assets/MyGov/urls.py), [settings.py](../../Assets/MyGov/settings.py) e [models.py](../../Assets/MyGov/models.py).
 
-### urls.py
+### <a>*urls.py*</a>
 
 Nesse arquivo, são definidas os paths da aplicação. Na parte de reutilização de código temos as bibliotecas django.contrib e django.urls
 
@@ -33,7 +39,7 @@ urlpatterns = [
 ]
 ```
 
-### settings.py
+### <a>*settings.py*</a>
 
 Nesse arquivo, são definidas as componentes e bibliotecas necessárias para o framework funcionar adequadamente.
 
@@ -56,17 +62,17 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 
-# Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
+# <a>*Quick-start development settings - unsuitable for production*</a>
+# <a>*See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/*</a>
 
-# SECURITY WARNING: keep the secret key used in production secret!
+# <a>*SECURITY WARNING: keep the secret key used in production secret!*</a>
 SECRET_KEY = 'django-insecure-(m=c-8$x^0x_sm#%l@vch!i^heeksov%wi7=_k&vdlm3s9_xc='
 
 DEBUG = True
 
 ALLOWED_HOSTS = []
 
-# Application definition
+# <a>*Application definition*</a>
 
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -110,8 +116,8 @@ TEMPLATES = [
 WSGI_APPLICATION = 'MyGov.wsgi.application'
 
 
-# Database
-# https://docs.djangoproject.com/en/5.0/ref/settings/#databases
+# <a>*Database*</a>
+# <a>*https://docs.djangoproject.com/en/5.0/ref/settings/#databases*</a>
 
 DATABASES = {
     'default': {
@@ -121,8 +127,8 @@ DATABASES = {
 }
 
 
-# Password validation
-# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
+# <a>*Password validation*</a>
+# <a>*https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators*</a>
 
 AUTH_PASSWORD_VALIDATORS = [
     {
@@ -140,8 +146,8 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
-# Internationalization
-# https://docs.djangoproject.com/en/5.0/topics/i18n/
+# <a>*Internationalization*</a>
+# <a>*https://docs.djangoproject.com/en/5.0/topics/i18n/*</a>
 
 LANGUAGE_CODE = 'en-us'
 
@@ -152,20 +158,20 @@ USE_I18N = True
 USE_TZ = True
 
 
-# Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/5.0/howto/static-files/
+# <a>*Static files (CSS, JavaScript, Images)*</a>
+# <a>*https://docs.djangoproject.com/en/5.0/howto/static-files/*</a>
 
 STATIC_URL = 'static/'
 
-# Default primary key field type
-# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
+# <a>*Default primary key field type*</a>
+# <a>*https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field*</a>
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 AUTH_USER_MODEL = 'user.User'
 
 ```
-### models.py
+### <a>*models.py*</a>
 
 Esse arquivo define as classes da modelagem do nosso banco de dados relacional implementado com o Django. Foram utilizadas as bibliotecas django.db e user.models.
 
@@ -173,7 +179,7 @@ Esse arquivo define as classes da modelagem do nosso banco de dados relacional i
 from django.db import models
 from user.models import User
 
-# Model Endereco
+# <a>*Model Endereco*</a>
 class Endereco(models.Model):
     complemento = models.CharField(max_length=255)
     address = models.CharField(max_length=255)
@@ -184,12 +190,12 @@ class Endereco(models.Model):
     user = models.ForeignKey(User, related_name='enderecos', on_delete=models.CASCADE)
 
     def validate_registration_data(self):
-        pass  # implementar lógica
+        pass  # <a>*implementar lógica*</a>
 
     def update_profile(self, name, address, cep, date_of_birth):
-        pass  # implementar lógica
+        pass  # <a>*implementar lógica*</a>
 
-# Model Information -> TALVEZ SEJA MELHOR COMO UMA VIEW
+# <a>*Model Information -> TALVEZ SEJA MELHOR COMO UMA VIEW*</a>
 class Information(models.Model):
     numero_processo = models.CharField(max_length=50)
     tamanho_imovel = models.CharField(max_length=50)
@@ -201,13 +207,13 @@ class Information(models.Model):
     alienacao = models.CharField(max_length=255)
 
     def show_information(self):
-        pass  # implementar lógica
+        pass  # <a>*implementar lógica*</a>
 
     def edit_information(self):
-        pass  # implementar lógica
+        pass  # <a>*implementar lógica*</a>
 
 
-# Model DeclaracaoRetroVenda herdando Content
+# <a>*Model DeclaracaoRetroVenda herdando Content*</a>
 class DeclaracaoRetroVenda(models.Model):
     regiao = models.CharField(max_length=100)
     codigo_imovel = models.CharField(max_length=100)
@@ -215,36 +221,56 @@ class DeclaracaoRetroVenda(models.Model):
     information = models.OneToOneField(Information, on_delete=models.CASCADE)
 
     def visualizar_mapa(self):
-        pass  # implementar lógica
+        pass  # <a>*implementar lógica*</a>
 
     def solicitar_por_regiao(self, regiao):
-        pass  # implementar lógica
+        pass  # <a>*implementar lógica*</a>
 
     def solicitar_por_codigo(self, codigo_imovel):
-        pass  # implementar lógica
+        pass  # <a>*implementar lógica*</a>
 
 
 ```
 
-### Outros arquivos
+### <a>*Outros arquivos*</a>
 Por ser um framework com muitas funcionalidades, existem outros arquivos que utilizam bibliotecas Django para o funcionamento da aplicação desenvolvida. Porém, os arquivos listados acima e suas bibliotecas são os mais relevantes para compreender o funcionamento.
 
-### API IBGE
+### <a>*API IBGE*</a>
 
 Para buscar informações sobre as regiões administrativas e podemos marcar as mesmas no mapa utilizamos a API gratuita do [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades/estados/DF/localidades?versao=2.0), nela é possível buscar por código, nome, estado e região administrativa para popular os formulários e facilitar a vida do usuário.
 
-### Geolocalização
+### <a>*Geolocalização*</a>
 
 Dentro da plataforma é possível selecionar endereços a partir de um mapa, para implementar isso no nosso projeto, utilizamos a biblioteca [Leaflet](https://leafletjs.com/) para renderizar mapas interativos em conjunto com a [OpenStreetMap](https://www.openstreetmap.org/) para buscar coordenadas a partir do nome de uma localidade. Desta forma foi possível integrar a feature do usuário buscar o endereço marcando um ponto no mapa.
 
-## Fluxo de funcionalidade
+## <a>*Fluxo de funcionalidade*</a>
 
-Para ter acesso aos serviços o usuário deve possuir uma conta em nossa plataforma, para isso primeiro é necessário realizar o cadastro, assim que o usuário se cadastra o login é feito de forma automática e o usuário é redirecionado para a página inicial. A partir disso ele pode acessar livremente a área de serviços.
+Para ter acesso aos serviços o usuário deve possuir uma conta em nossa plataforma, para isso primeiro é necessário realizar o cadastro, assim que o usuário se cadastra o login é feito de forma automática e o usuário é redirecionado para a página inicial. A partir disso ele pode acessar livremente a área de serviços. A seguir o vídeo do fluxo:
 
-[Veja o vídeo do fluxo](https://www.youtube.com/watch?v=KyP4vRuc5qU)
+<center>
+
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/KyP4vRuc5qU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
 
 
-## <a>*Histórico de Versão*</a>
+
+## <a>*Bibliografia*</a>
+
+    A reutilização de software e suas aplicações. Blog Casa do Desenvolvedor. (https://blog.casadodesenvolvedor.com.br/reutilizacao-de-software/)
+    
+    Reutilização de Software na Engenharia de Software: Conceitos e práticas. LinkedIn. (https://pt.linkedin.com/pulse/reutiliza%C3%A7%C3%A3o-de-software-na-engenharia-conceitos-e-gomes-rocha-odxxf)
+    
+    Diretrizes para Reutilização de Software. CIn UFPE. (https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S%26B/guidances/guidelines/software_reuse_6BA25ECC.html)
+    
+    Análise da Reutilização de Software em Projetos de Desenvolvimento. (https://www.enacomp.com.br/2011/anais/trabalhos-aprovados/pdf/enacomp2011_submission_43.pdf)
+    
+    Reuso de Software: Uma Abordagem Prática. (https://www.inf.ufpr.br/silvia/ES/reuso/reusoAl.pdf)
+
+
+<center>
+
+## <a>*<a>*Histórico de Versão*</a>*</a>
 
 | Versão |    Data    |       Descrição       |               Autor(es)               |                   Revisor(es)                    |
 | :----: | :--------: | :-------------------: | :-----------------------------------: | :----------------------------------------------: |
