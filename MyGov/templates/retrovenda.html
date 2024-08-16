@@ -1,10 +1,14 @@
+{% load static %}
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Baixa de Retrovenda</title>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GOV.BR</title>
+    <link rel="icon" href="{% static 'images/favicon.png' %}">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="icon" href="{% static 'images/favicon.ico' %}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@govbr-ds/core@3.3.1/dist/core.min.css">
   <style>
       #map { 
         height: 500px; width: 100%; margin-top: 20px; 
@@ -12,8 +16,46 @@
   </style>
 </head>
 <body>
-  <header>
-    <a href="https://www.gov.br"><img src="https://sso.acesso.gov.br/assets/govbr/img/govbr.png" alt="Logomarca GovBR" height="30px" width="auto"></a>
+  <header class="br-header" id="header" data-sticky="data-sticky">
+    <div class="container-lg">
+        <div class="header-top">
+          <div class="header-logo">
+            <a href="{% url 'index' %}">
+                <img src="{% static 'images/logo-gov.png' %}" alt="Governo Federal" class="img-fluid">
+            </a>
+          </div>
+            <div class="header-actions">
+                <div class="header-links dropdown">
+                    <button class="br-button circle small" type="button" data-toggle="dropdown" aria-label="Acesso Rápido">
+                        <i class="fas fa-ellipsis-v" aria-hidden="true"></i>
+                    </button>
+                    <div class="br-list">
+                        <a class="br-item" href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+                        <a class="br-item" href="https://www.gov.br/acessoainformacao/pt-br">Acesso à Informação</a>
+                        <a class="br-item" href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                        <a class="br-item" href="https://www.gov.br/governodigital/pt-br/acessibilidade-digital">Acessibilidade</a>
+                    </div>
+                </div>
+                <div class="header-functions">
+                    <aside id="sso-status-bar" class="sso-status-bar closed-menu">
+                        <section class="status-indicator">
+                            {% if user.is_authenticated %}
+                                <button type="button" class="signed-in br-button secondary" onclick="window.location.href='{% url 'logout' %}'">
+                                    <span class="sso-status-bar-signed-in-icon"></span>
+                                    Sair
+                                </button>
+                            {% else %}
+                                <button type="button" class="signed-out br-button secondary" onclick="window.location.href='{% url 'login' %}'">
+                                    <span class="sso-status-bar-signed-out-icon"></span>
+                                    Entrar com o gov.br
+                                </button>
+                            {% endif %}
+                        </section>
+                    </aside>
+                </div>
+            </div>
+        </div>
+    </div>
   </header>
 
   <main>
@@ -145,19 +187,6 @@
 </html>
 
 <style>
-  html, body {margin: 0; height: 100%; overflow: hidden}
-  header {
-    display: flex;
-    justify-content: flex-start;
-    padding: 10px !important;
-    align-items: center;
-    box-shadow: 0 3px 6px #00000029;
-    margin-bottom: 5px;
-    background-color: #fff;
-    width: 100%;
-    height: 3rem;
-    padding: 10px;
-  }
   main {
     display: flex;
     justify-content: center;

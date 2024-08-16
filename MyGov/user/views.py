@@ -1,7 +1,8 @@
 from django.shortcuts import render
-from django.contrib.auth import login, authenticate
+from django.contrib.auth import login, authenticate, logout
 from django.shortcuts import redirect
 from .models import User
+
 
 # Create your views here.
 def login_user(request):
@@ -15,6 +16,10 @@ def login_user(request):
         else:
             return render(request, 'user/login.html', {'error': 'Usuário ou senha inválidos'})
     return render(request, 'user/login.html')
+
+def logout_user(request):
+    logout(request)
+    return redirect('index')  # Redireciona para a página de login após o logout
 
 def register_user(request):
     if request.method == 'POST':
